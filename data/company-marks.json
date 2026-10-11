@@ -1,0 +1,386 @@
+{
+  "삼성전자": {
+    "path": "/company-marks/samsung-com.png",
+    "source": "https://samsung.com",
+    "width": 64,
+    "height": 64
+  },
+  "SK하이닉스": {
+    "path": "/company-marks/skhynix-com.png",
+    "source": "https://skhynix.com",
+    "width": 16,
+    "height": 16
+  },
+  "TSMC": {
+    "path": "/company-marks/tsmc-com.png",
+    "source": "https://tsmc.com",
+    "width": 16,
+    "height": 16
+  },
+  "NVIDIA": {
+    "path": "/company-marks/nvidia-com.png",
+    "source": "https://nvidia.com",
+    "width": 48,
+    "height": 48
+  },
+  "AMD": {
+    "path": "/company-marks/amd-com.png",
+    "source": "https://amd.com",
+    "width": 16,
+    "height": 16
+  },
+  "Intel": {
+    "path": "/company-marks/intel-com.png",
+    "source": "https://intel.com",
+    "width": 32,
+    "height": 32
+  },
+  "Micron": {
+    "path": "/company-marks/micron-com.png",
+    "source": "https://micron.com",
+    "width": 64,
+    "height": 64
+  },
+  "ASML": {
+    "path": "/company-marks/asml-com.png",
+    "source": "https://asml.com",
+    "width": 48,
+    "height": 48
+  },
+  "Applied Materials": {
+    "path": "/company-marks/appliedmaterials-com.png",
+    "source": "https://appliedmaterials.com",
+    "width": 64,
+    "height": 64
+  },
+  "Lam Research": {
+    "path": "/company-marks/lamresearch-com.png",
+    "source": "https://lamresearch.com",
+    "width": 64,
+    "height": 64
+  },
+  "Microsoft": {
+    "path": "/company-marks/microsoft-com.png",
+    "source": "https://microsoft.com",
+    "width": 64,
+    "height": 64
+  },
+  "Google": {
+    "path": "/company-marks/google-com.png",
+    "source": "https://google.com",
+    "width": 64,
+    "height": 64
+  },
+  "Google DeepMind": {
+    "path": "/company-marks/deepmind-google.png",
+    "source": "https://deepmind.google",
+    "width": 64,
+    "height": 64
+  },
+  "OpenAI": {
+    "path": "/company-marks/openai-com.png",
+    "source": "https://openai.com",
+    "width": 64,
+    "height": 64
+  },
+  "Anthropic": {
+    "path": "/company-marks/anthropic-com.png",
+    "source": "https://anthropic.com",
+    "width": 64,
+    "height": 64
+  },
+  "Meta": {
+    "path": "/company-marks/meta-com.png",
+    "source": "https://meta.com",
+    "width": 64,
+    "height": 64
+  },
+  "Toyota": {
+    "path": "/company-marks/toyota-com.png",
+    "source": "https://toyota.com",
+    "width": 48,
+    "height": 48
+  },
+  "Volkswagen": {
+    "path": "/company-marks/volkswagen-com.png",
+    "source": "https://volkswagen.com",
+    "width": 64,
+    "height": 64
+  },
+  "현대자동차": {
+    "path": "/company-marks/hyundai-com.png",
+    "source": "https://hyundai.com",
+    "width": 64,
+    "height": 64
+  },
+  "현대자동차그룹": {
+    "path": "/company-marks/hyundai-com.png",
+    "source": "https://hyundai.com",
+    "width": 64,
+    "height": 64
+  },
+  "Tesla": {
+    "path": "/company-marks/tesla-com.png",
+    "source": "https://tesla.com",
+    "width": 64,
+    "height": 64
+  },
+  "BYD": {
+    "path": "/company-marks/byd-com.png",
+    "source": "https://byd.com",
+    "width": 32,
+    "height": 32
+  },
+  "CATL": {
+    "path": "/company-marks/catl-com.png",
+    "source": "https://catl.com",
+    "width": 64,
+    "height": 64
+  },
+  "LG에너지솔루션": {
+    "path": "/company-marks/lgensol-com.png",
+    "source": "https://lgensol.com",
+    "width": 16,
+    "height": 16
+  },
+  "First Solar": {
+    "path": "/company-marks/firstsolar-com.png",
+    "source": "https://firstsolar.com",
+    "width": 16,
+    "height": 16
+  },
+  "Vestas": {
+    "path": "/company-marks/vestas-com.png",
+    "source": "https://vestas.com",
+    "width": 64,
+    "height": 64
+  },
+  "GE Vernova": {
+    "path": "/company-marks/gevernova-com.png",
+    "source": "https://gevernova.com",
+    "width": 48,
+    "height": 48
+  },
+  "Siemens Energy": {
+    "path": "/company-marks/siemens-energy-com.png",
+    "source": "https://siemens-energy.com",
+    "width": 64,
+    "height": 64
+  },
+  "ABB": {
+    "path": "/company-marks/abb-com.png",
+    "source": "https://abb.com",
+    "width": 64,
+    "height": 64
+  },
+  "Yaskawa": {
+    "path": "/company-marks/yaskawa-com.png",
+    "source": "https://yaskawa.com",
+    "width": 64,
+    "height": 64
+  },
+  "Siemens": {
+    "path": "/company-marks/siemens-com.png",
+    "source": "https://siemens.com",
+    "width": 64,
+    "height": 64
+  },
+  "Boston Dynamics": {
+    "path": "/company-marks/bostondynamics-com.png",
+    "source": "https://bostondynamics.com",
+    "width": 64,
+    "height": 64
+  },
+  "Figure AI": {
+    "path": "/company-marks/figure-ai.png",
+    "source": "https://figure.ai",
+    "width": 64,
+    "height": 64
+  },
+  "Roche": {
+    "path": "/company-marks/roche-com.png",
+    "source": "https://roche.com",
+    "width": 64,
+    "height": 64
+  },
+  "Novartis": {
+    "path": "/company-marks/novartis-com.png",
+    "source": "https://novartis.com",
+    "width": 64,
+    "height": 64
+  },
+  "Eli Lilly": {
+    "path": "/company-marks/lilly-com.png",
+    "source": "https://lilly.com",
+    "width": 64,
+    "height": 64
+  },
+  "Novo Nordisk": {
+    "path": "/company-marks/novonordisk-com.png",
+    "source": "https://novonordisk.com",
+    "width": 64,
+    "height": 64
+  },
+  "Merck": {
+    "path": "/company-marks/merck-com.png",
+    "source": "https://merck.com",
+    "width": 64,
+    "height": 64
+  },
+  "삼성바이오로직스": {
+    "path": "/company-marks/samsungbiologics-com.png",
+    "source": "https://samsungbiologics.com",
+    "width": 32,
+    "height": 32
+  },
+  "BASF": {
+    "path": "/company-marks/basf-com.png",
+    "source": "https://basf.com",
+    "width": 64,
+    "height": 64
+  },
+  "LG화학": {
+    "path": "/company-marks/lgchem-com.png",
+    "source": "https://lgchem.com",
+    "width": 16,
+    "height": 16
+  },
+  "DuPont": {
+    "path": "/company-marks/dupont-com.png",
+    "source": "https://dupont.com",
+    "width": 16,
+    "height": 16
+  },
+  "Toray": {
+    "path": "/company-marks/toray-com.png",
+    "source": "https://toray.com",
+    "width": 64,
+    "height": 64
+  },
+  "SpaceX": {
+    "path": "/company-marks/spacex-com.png",
+    "source": "https://spacex.com",
+    "width": 48,
+    "height": 48
+  },
+  "Blue Origin": {
+    "path": "/company-marks/blueorigin-com.png",
+    "source": "https://blueorigin.com",
+    "width": 64,
+    "height": 64
+  },
+  "Airbus": {
+    "path": "/company-marks/airbus-com.png",
+    "source": "https://airbus.com",
+    "width": 64,
+    "height": 64
+  },
+  "Ericsson": {
+    "path": "/company-marks/ericsson-com.png",
+    "source": "https://ericsson.com",
+    "width": 64,
+    "height": 64
+  },
+  "Nokia": {
+    "path": "/company-marks/nokia-com.png",
+    "source": "https://nokia.com",
+    "width": 64,
+    "height": 64
+  },
+  "Qualcomm": {
+    "path": "/company-marks/qualcomm-com.png",
+    "source": "https://qualcomm.com",
+    "width": 32,
+    "height": 32
+  },
+  "AST SpaceMobile": {
+    "path": "/company-marks/ast-science-com.png",
+    "source": "https://ast-science.com",
+    "width": 64,
+    "height": 64
+  },
+  "Enapter": {
+    "path": "/company-marks/enapter-com.png",
+    "source": "https://enapter.com",
+    "width": 64,
+    "height": 64
+  },
+  "Nel": {
+    "path": "/company-marks/nelhydrogen-com.png",
+    "source": "https://nelhydrogen.com",
+    "width": 64,
+    "height": 64
+  },
+  "Collins Aerospace": {
+    "path": "/company-marks/collinsaerospace-com.png",
+    "source": "https://collinsaerospace.com",
+    "width": 64,
+    "height": 64
+  },
+  "Hydrasun": {
+    "path": "/company-marks/hydrasun-com.png",
+    "source": "https://hydrasun.com",
+    "width": 64,
+    "height": 64
+  },
+  "Topsoe": {
+    "path": "/company-marks/topsoe-com.png",
+    "source": "https://topsoe.com",
+    "width": 64,
+    "height": 64
+  },
+  "Oxford PV": {
+    "path": "/company-marks/oxfordpv-com.png",
+    "source": "https://oxfordpv.com",
+    "width": 64,
+    "height": 64
+  },
+  "TSR Group": {
+    "path": "/company-marks/tsr-eu.png",
+    "source": "https://tsr.eu",
+    "width": 32,
+    "height": 32
+  },
+  "Dow": {
+    "path": "/company-marks/corporate-dow-com.png",
+    "source": "https://corporate.dow.com",
+    "width": 64,
+    "height": 64
+  },
+  "포스코퓨처엠": {
+    "path": "/company-marks/www-poscofuturem-com.png",
+    "source": "https://www.poscofuturem.com",
+    "width": 64,
+    "height": 64
+  },
+  "Sumitomo Metal Mining": {
+    "path": "/company-marks/www-smm-co-jp.png",
+    "source": "https://www.smm.co.jp",
+    "width": 64,
+    "height": 64
+  },
+  "FANUC": {
+    "path": "/company-marks/fanuc-co-jp.png",
+    "source": "https://www.fanuc.co.jp/android-chrome.png",
+    "width": 64,
+    "height": 64
+  },
+  "BMW": {
+    "path": "/company-marks/bmwusa-com.png",
+    "source": "https://bmwusa.com",
+    "width": 64,
+    "height": 64
+  },
+  "G PhilosCo": {
+    "path": "/company-marks/g-philos-co-kr.png",
+    "source": "https://g-philos.co.kr",
+    "width": 64,
+    "height": 64
+  },
+  "Enevo": {
+    "path": "/company-marks/enevogroup-com.png",
+    "source": "https://enevogroup.com",
+    "width": 64,
+    "height": 64
+  }
+}

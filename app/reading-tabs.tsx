@@ -1,0 +1,6 @@
+"use client";
+import {useId,useState,type ReactNode} from 'react';
+export default function ReadingTabs({label,tabs,defaultId}:{label:string;defaultId?:string;tabs:{id:string;label:string;content:ReactNode}[]}){
+ const [selected,setSelected]=useState(defaultId||tabs[0].id),prefix=useId(),active=tabs.some(t=>t.id===selected)?selected:tabs[0].id;
+ return <div className="reading-tabs"><div className="reading-tab-list" role="tablist" aria-label={label}>{tabs.map((tab,index)=><button key={tab.id} type="button" role="tab" id={prefix+'-'+tab.id} aria-controls={prefix+'-panel-'+tab.id} aria-selected={active===tab.id} tabIndex={active===tab.id?0:-1} onClick={()=>setSelected(tab.id)} onKeyDown={e=>{let next=index;if(e.key==='ArrowRight')next=(index+1)%tabs.length;else if(e.key==='ArrowLeft')next=(index+tabs.length-1)%tabs.length;else if(e.key==='Home')next=0;else if(e.key==='End')next=tabs.length-1;else return;e.preventDefault();setSelected(tabs[next].id);document.getElementById(prefix+'-'+tabs[next].id)?.focus();}}>{tab.label}</button>)}</div>{tabs.map(tab=><div key={tab.id} role="tabpanel" id={prefix+'-panel-'+tab.id} aria-labelledby={prefix+'-'+tab.id} hidden={active!==tab.id} tabIndex={0}>{tab.content}</div>)}</div>;
+}

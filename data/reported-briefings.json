@@ -1,0 +1,470 @@
+[
+  {
+    "key": "intel-ddr4-cpu-2027",
+    "headline": "Intel, 기존 DDR4 램을 쓰는 데스크톱 CPU 준비…2027년 초 예정",
+    "application": "지원되는 GIGABYTE 데스크톱 메인보드에서 CPU를 교체할 때 사용.",
+    "effect": "기존 램·메인보드를 재사용해 교체 비용을 줄일 수 있습니다. 새 CPU 성능·가격은 미공개입니다.",
+    "label": "호재",
+    "reason": "DDR4 지원 PC를 새 CPU로 업그레이드할 경로가 열려 기존 플랫폼의 활용 기간을 늘립니다. GIGABYTE의 BIOS 지원은 발표됐지만 새 CPU의 성능·가격·실제 출시는 별도 확인이 필요합니다.",
+    "stars": 1,
+    "sectors": [
+      "반도체"
+    ],
+    "articles": [
+      {
+        "id": "news:286d9cdee962c3b4b536c45f2b3c230fc92c7b5800ae02430016d577748ee621",
+        "title": "GIGABYTE confirms Intel will launch DDR4-compatible CPUs next year",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTFZcTNtVWl2azAycFBFRm16TmpsMHRWUzEySmtLcUU4UmsxaFQ5bE1sZV9CM25aakJVSzcwMXQxTWhhRVBhYVhodEhMSU5LR2YyNmw5WHdHbFBhWUhBYUhkR0lobW1DS3hSTzFiYjRDZkhOMzlXTTZmR0J1V0dBYmxHcjhWYW9JUE8tOEhHT2d6dVRSQUZLbUtB?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:abfda689ab22470863cd727d8e3303b6d9eb2b2d1178de27fc073ea61d94615b",
+        "title": "Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next launch in 2027 — new CPUs may support both DDR4 and DDR5 memory",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbGhlQmdXSHhWZW5sQlV6QktJRGxxQ3VtMkRSQjlfSVE5Z29aM1Bld2JaNmZoUHg2SHpwajN0bUhVOUJFYVZyYnBVZzNFUThHQ2ZZQkxfNEFpT0Q0SUpGWXFzMlNmZFEtbnNwY3ZtSEpfMk1hanNhclI4SUFMZUhoNmxFRWxJT000SVUzTXE0dUc2Ym9rZGhYaUJMLVRBSWNCamFqcEhUOTZiM094aVR2eFoya3MtN3NRTDRGeXAzTExQS0p5TS1VMFNGZE9GRng4bldWTE5xemp0QTlBTDdEVTdDekZ3R2hQcGJoV3pkakFEa1F6dl8tNTRsUXNjWWZF?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:b68b424443d0ebf59ad4cd723063e439c0d62e9c34526d1a9e27927515e20a56",
+        "title": "DDR4 Refuses to Die as New Processors from Intel Supporting the Older Memory Are Expected to Launch Soon",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTHhkcXJVNGthZzFQbFl6Uk5vSG5RMnh6d0dfU0Y0cDM3VWZfeWJJOGhXNjNJUVpGVTZWVUR1SU1RcDZfaV9DMzFtcF9ZbzFMNVVTRlRfdTQ4b2xyZUxNQ1JFci1OYjdFUF9XNElRYnVpTWNmcjZFMV9DSzY1WWp0NExWcXBBM1FWLVp5TEtScGRTb2dRMHBzcmZDcXpSS3JiMk1hNjBuS1Z5TUtLX3JBV1pfOEJoNVMyc3RtLXBERGtHcUF5M2hxZGtkSV9QbXhXQ1UwbjFPNjJRZDZQVVE?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:e0e28df3418b055f221737e48c50539af813d852b0ffb51b44680f7587da07c5",
+        "title": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPazgxOUlsMWVGbDVDZzJTNTIwanpIaXNoMldVbDFRRGtWWERnQTNab3FMNzRoMWdFSEZPQVEtbTJUbUhhRjZaMkZWTFZwZ0tyZ0hmTVRfX2JKSmJIMEt3Z2IteXpjNnBGd2MxT21LWUhOVmNOTWN6cGNDYjB0TmJ4TWZoc2tMMFpqeXVpLW5kRFN5Z3o3ZzgtVGVOdk1pRGVQZmN6dzNpQ1hrRGpsWEFDRWFfU1NxZ0JkVmpRU3dHSG9ad2RSZEtDbzNiWWtHOERMZU92RmdCa1ZtazdzWkQ0QmRMZENNWk92aVE?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "GIGABYTE, B760·H610의 차기 CPU 지원 BIOS 발표",
+        "url": "https://www.gigabyte.com/press/news/2460",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "google-gemini-work-agent",
+    "headline": "Google, 이메일·문서·일정을 오가며 일하는 Gemini 에이전트 공개",
+    "application": "기업의 이메일·문서·일정 관리와 여러 단계의 업무 처리에 사용.",
+    "effect": "여러 앱을 오가며 자료를 찾고 작업하는 반복 업무를 줄일 수 있습니다. 접근 권한과 결과 검토는 필요합니다.",
+    "label": "호재",
+    "reason": "기업용 AI가 답변을 넘어 여러 업무 도구의 작업을 실행하는 방향으로 확장됩니다. 실제 절약 시간은 업무 종류·연결된 도구·권한에 따라 달라집니다.",
+    "stars": 2,
+    "sectors": [
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:1d9327821e64035c8d13f2615b8298f9fcdc5d49787c329af126a2cfe5dd2a53",
+        "title": "범용 AI 에이전트 ‘제미나이 에이전트’ 공개…구글 클라우드, 기업 업무 전 과정 자동화",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNFBwRDVXeFZvUGxGOERsbThrSVdEUDdETGx2T0g0aWpSd2QwQnVETEIzc29vR1M5UUpRekFkUm5WYjZHaVR6cmFadXBsWmNFNnVESXRvRUVaZS1DR2QxLThiMld4eGM?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:4ee620894daa5a939fc24a1fc8da7756e003ce70195b790b86b1121d002d337b",
+        "title": "Google Launches New Gemini AI Agent to Execute Work Tasks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU9oTXhvaThwX3VwcXJLMVIwWG5NYmY4RlZtc1JaM3NVT1ZyTXVwY09PVGhoZko3Y1dmY1FtRW92RE1tR1gxSGdzeEZpbXlURHNvNzN6d3FlMF9NMXJrMUoxMDhVLXJJZ2w4bUEySHhOUUZiNlBHNDhlN2F5WFR1RkxQWDZTeURIZkVlUjlSYWcxYkY1?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:656455bc10df6a544ebd13a13ff512cbe88a80b41e85d1ebbf2f9b76dce94942",
+        "title": "Google Cloud Launches Gemini Agent, a Single AI Agent for Work",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lanRydFdObWdlNEs1RHhJN0FLTnJBeGNqSHdwTm5aVzZLV01LcWRJZ2VfelRKQ1BqRnRQYlBmR3dycXZ2VHRmZmsyNm15ZXJaNjNGOWRrS0E3Z3NLZ0syUE5nWlRDUnBYbHdORmVuS19HX1BQMVhwNmNUTUZyUQ?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:6749e1d30b7e58844439c724470925c64289710dde5c9c5604187d2c9262dab4",
+        "title": "구글 클라우드, 수일간 작동하는 제미나이 AI 에이전트 공개",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9waWdWZlBaY1JPOEJmSVdVaENIMXRBc2NIUE5mSnlWUEJlOER4dGgyemw1bm1KOWFhdVl5Uy1yQVRXV25sMTI2b2tyY1Buc2NU?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:b68bd060af9469ae4a1ca2bd8f24f1a97954df7c379e95485a581f23cf61fbf4",
+        "title": "Google launches workplace AI agent that gets its own email address",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42TVp5NjV1RWJhQTFOenFkTnVQY0hEWW5Ud3Z1Rm8xakwxT1hmNG1YTk9kRWNkbE5VcUhXWGtHeWVRYzAtUDgtU2ZEdGVoS3BTZUNaNFhLZVg1ZU92QXFlUzV5T0ROaEllR0ctWXNuYWZBUmo2?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:e6394d591d9caa3ff165975ca6d4291c0ecad37246024ab0018855a1f89d772a",
+        "title": "Google Unveils Unified Gemini AI Agent",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JRm1SZUdKX0Z6ZXVQLW9hQkhMS3ludWk3V3hwVThiaTczQW5ubnptU2oyUzFRbnJKSlg5TlNzNlphZ2owMVRzcHJfUWQ5MWJlbEV4cDhHVTdMRGNwZE15U3Y4RnIzUW5MRDQ2RFpoOGFmSnM4WGNIVFhzUVNPQQ?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud, Gemini at Work 2026 발표",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "google-cooley-redaction",
+    "headline": "Google·Cooley, 법원 제출 문서의 민감 정보를 가리는 AI 도구 공동 개발",
+    "application": "법원에 공개할 문서에서 개인정보·기밀 내용을 찾아 가리는 작업에 사용.",
+    "effect": "변호사의 반복적인 문서 검토를 줄일 수 있습니다. 민감 정보 누락 여부는 사람이 검토해야 합니다.",
+    "label": "호재",
+    "reason": "구체적인 문서 처리 업무에 AI를 적용해 반복 작업을 줄이는 개발입니다. 공동 개발 단계이며 모든 기밀 정보를 정확히 제거한다고 확인된 것은 아닙니다.",
+    "stars": 1,
+    "sectors": [
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:4fd9c6d3d15d2bddbd0bb1347a8173b8cdc59c016094e7f86d942cf74e1aa4db",
+        "title": "Cooley Teams Up With Google to Co-Develop Agentic AI Redaction Tool",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcll3WFVRUjZVSy0yUF9ZZVdteW5uLWNlWmVWRDhkY0g5U3lCSUhzWXU4Z1JUd2FQZGJ5RUtXWjJhMzlUTkh6Ulkyb0ZsREJGbGFiVFVmejNiOEZ1amZIbEZLMkhaVjJzUHBsMEJmZ1V0R1Q5eWxzTUwzNVdSUFJsNFRSdFJRaFR2MkJzWGMwaW5vM0xWQTJUbkFjSEhqTEZ5T2pVZlMzdzlXY2VIRVpFR2hUNA?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud, 법률 업무의 기밀 정보 제거 에이전트 설명",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "qualcomm-tejas-isac",
+    "headline": "Qualcomm·Tejas, 통신 신호로 차량·드론을 감지하는 ISAC 시연",
+    "application": "이동통신 기지국으로 주변 차량·드론을 감지하는 교통·시설 관리에 적용.",
+    "effect": "별도 감지 장비 없이 통신망을 주변 물체 감지에도 활용할 가능성을 보였습니다. 상용 정확도는 추가 검증이 필요합니다.",
+    "label": "호재",
+    "reason": "통신과 물체 감지를 같은 기반에서 수행하는 기술을 실제 5G 장비로 시연했습니다. 새로운 통신망 활용처를 제시하지만 6G 상용 서비스 완료는 아닙니다.",
+    "stars": 2,
+    "sectors": [
+      "우주·통신"
+    ],
+    "articles": [
+      {
+        "id": "news:466f8192878dbc47f79b416df5dfc9a6743ae44db9fd2f31ee0c503f1950ce81",
+        "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOXRPT3FpRWlINklkbXB0WkxPZVNYelp3OEY5NnNSRklOLVlUdFVLRGUwS01GOEVvRG1XNVd6ZUdoNm1HdnFzVkRwQ0RqeUVKbzFpclRieXc5ek9NVzhKTUM3X1VoTExmd2JxeV9NV2VTVGdKY28wOVh5VVROX1JxaE4zb0tycUFkVTNoZXV0NDRtd3YwNkxIaFJ5WWJaRWYwMTVnOTN3QjMwdFNFSkVjeVdoRmxLaUtpQ04zdWhBenVvalYwY1NWSE8xWEZBek9kc21TNk9DQkdTLXYyMlg2OEFRMVZQTVQ2M2duV0NtVjFzYzdFQjc2NUdHMk9PNWJpYzhKZll2bEVGd9IBjgJBVV95cUxNdHNBRHpYNGdNM2FOSFZZa3N5ZmF6M0huN3Q0T3lTZzh1R2tiSS1ZTm96VWg0S2pDbDlYcC1reXN6YlM4dTNvZmh2clhpR2syZnFnMUxTRHVYYWxYY2NSR1JPZGVlcTd3ZnhSZFQ0SUgwR2RUZFlQRnRGazFlOENZS3lwTnRiTUxvQ2lUdV9xN1RJTWJSVjBpd0VVN3BIdUxSdk5ocUJOeHJQeHBVM1ZkanROeVcwVFpaWW1qa0E5SDJ1ZjZxS3QwbVB5QTNDVkVoMUVMejNHZkZmLVF3U2w3eVhVQ1hHekt3cy1CRVZYaUMzSGFzR3JmbVBpWmkwa0xRaUllMXBPallrYi1sM0E?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:917e783103e7e525bff00c2f21865b223a9084da033646dbd3ea3850db7c1a01",
+        "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWnA2RFpYNFhITzJUdHo1akFiSEpOb0FsUU80Qzhsc0hVM0VJX1hwX3BfdEY2amdLNHJNeGgtT1VWWE8wT3FkeFpBTWE3YUtTemZiSTZheEFsV1JqT2F2dWFudHdRQXFQUTlMbFpJZnkwM2pjejdVeVBqZjlqa292dnlrdFpZM1BNYzA5OE1tOV81aWczTWxLcENVSnNsQmd3UXAyS3dvRjF4ckVGSFZIWmVlUnotOGlWYUZyRE0yNDZIc0RjSDBDcWl0NnhlRU9Zb2c4UzcwdzU0bHNGTlZpY1p4aXdCYkZLRXFkenBFY3FBeTdncE9rVVFKVDhlVlhSNWlJcTZSMlRHTFl2UmFBU2MtMldzdEVoMk80VVNPTTQ?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:c8115632ecc01bedfefddcc3ec9f5cc0d57ee2fdbc895885ba9d731299768d6a",
+        "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac54644c040069f63b9336abc579f&url=https%3a%2f%2fwww.prnewswire.com%2fin%2fnews-releases%2ftejas-networks-and-qualcomm-jointly-demonstrate-6g-integrated-sensing-and-communications-isac-technology-at-india-mobile-congress-2026-302903418.html&c=16914730143244518863&mkt=en-us",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tejas Networks, Qualcomm과의 ISAC 공동 시연 발표",
+        "url": "https://www.prnewswire.com/in/news-releases/tejas-networks-and-qualcomm-jointly-demonstrate-6g-integrated-sensing-and-communications-isac-technology-at-india-mobile-congress-2026-302903418.html",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "anthropic-haiku-55",
+    "headline": "Anthropic, 빠른 소형 AI 모델 Haiku 5.5 출시…평균 실행 비용 약 75% 감소",
+    "application": "빠른 답변이 필요한 고객 상담·문서 요약·대량 분류에 사용.",
+    "effect": "반복적인 AI 작업의 비용과 응답 지연을 줄이는 선택지입니다. 복잡한 작업은 상위 모델과 성능 차이가 있습니다.",
+    "label": "호재",
+    "reason": "더 저렴하고 빠른 소형 모델을 제공해 반복·대량 AI 업무의 적용 비용을 낮춥니다. 75%는 Anthropic이 이전 Haiku 4.5와 비교해 제시한 평균입니다.",
+    "stars": 2,
+    "sectors": [
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:c4ee69860ca4efce71264a5dfefa8cbcaf3385789d370b179577ea9c37ff3d04",
+        "title": "앤트로픽, ‘클로드 하이쿠 5.5’ 출시…실행 비용 75% 낮춘 고속 AI 모델",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TS1cxeWE5TVBBNV9OVWRSU2djb1lHeDkxOWJRZ3ZySndYcV9WbWlXMzVYU012SC1CbzVDSFNSVjRSZURrNFJKc0EtZl9uRW1CU000ZWdscjZmSEoxOTdfY0xlbEdwYjA?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Anthropic, Claude Haiku 5.5 소개",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "nvidia-microsoft-local-agents",
+    "headline": "NVIDIA·Microsoft, Windows PC에서 AI를 직접 실행하는 RTX Spark 전개",
+    "application": "서버로 보내지 않고 Windows PC에서 AI 모델·에이전트를 실행.",
+    "effect": "AI 작업을 PC 안에서 처리하는 선택지가 늘어납니다. 실행 가능한 모델 크기와 성능은 기기 사양에 좌우됩니다.",
+    "label": "호재",
+    "reason": "NVIDIA의 연산 하드웨어와 Windows의 실행 환경을 연결해 기기 안에서 AI를 쓰는 적용 범위를 넓힙니다. 모든 AI 작업이 클라우드를 대체한다는 의미는 아닙니다.",
+    "stars": 2,
+    "sectors": [
+      "반도체",
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:5cf0cacd9d5305f1f9428128bf926b7c94eef51f61871949c013954df7a2549d",
+        "title": "엔비디아·마이크로소프트, ‘AI 에이전트 PC’ 손잡았다…RTX 스파크·DGX 스테이션 공개",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMkMyY3RsZ1ZweEZLOG1xSnlpdW5TMGV4bndRbTFycDN2NE5OZzhsTmtWNDlkY0Zxa2o0RVFLdE5TZlg1Mk9tN1U5WHk1RUowWGNaaEdueHNBRC1YVTJxTnR6MFZ2bWFxTkp6Yw?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "NVIDIA, RTX Spark 예약과 Windows용 DGX Station 공개",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "amd-ross-embedded",
+    "headline": "AMD, 설계·오류 수정 도구를 다루는 개발 보조 AI Ross 제공",
+    "application": "기기에 내장되는 전자 시스템의 하드웨어·소프트웨어 개발에 사용.",
+    "effect": "문서 검색·명령 실행·오류 분석의 반복 작업을 줄일 수 있습니다. 생성된 설계와 코드는 검토해야 합니다.",
+    "label": "호재",
+    "reason": "AMD 개발 도구에 연결해 문서 검색뿐 아니라 명령 실행과 오류 분석을 돕는 구체적인 개발 수단입니다. 실제 개발 시간 절감은 적용 업무에 따라 다릅니다.",
+    "stars": 1,
+    "sectors": [
+      "반도체",
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:b8341925d0eb79bbdf4f4b23b0cdc93cd345e2ef40db4060a4b98aa3ea11d7f3",
+        "title": "AMD Launches AMD Ross Agentic AI Assistant For Embedded Hardware And Software Development",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMU1RWEFpVk9PaUQxa19DdTl1dmVkdUdhS25OQXZ6Y05fdTlUWWNGZjdVSUxpMDc0VVZndzE1ekppS3VxT0hqWDFObW9ISk1xRXBGVmJzS05oZFZsQjVoaHNCYjJvaGVGZmJWRllTekhxMEVzWTc5QzdQOGlFNU4wc0hZME5sd19sTlNvMXA5QlBiNWVIUDNKQXdHZFVDYk50UWRjRERvdGtHcHZHTzFUb0xVbUI?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "AMD, Ross 개발 보조 AI 소개",
+        "url": "https://newsroom.amd.com/news/amd-ross-agentic-ai-embedded-design-development/",
+        "kind": "기업 공식 발표"
+      }
+    ]
+  },
+  {
+    "key": "meta-muse-business",
+    "headline": "Meta, 소규모 사업자의 반복 업무를 돕는 AI 에이전트 Muse 공개",
+    "application": "소규모 사업자의 여러 사업 업무를 자동 처리하는 보조 도구.",
+    "effect": "반복 업무를 줄일 수 있으나 외부 플랫폼의 접근 제한이 보도됐습니다. 실제 자동화 범위는 서비스 연동에 달렸습니다.",
+    "label": "호재",
+    "reason": "소규모 사업자가 쓸 업무 자동화 도구를 추가한 점은 유리합니다. Amazon의 반발이 보도돼 외부 서비스에서 가능한 실행 범위에는 제약이 있습니다.",
+    "stars": 1,
+    "sectors": [
+      "AI·소프트웨어"
+    ],
+    "articles": [
+      {
+        "id": "news:1a37311ef10902864fa7f1b9c454c11fc3855541bb6a50af22603f91f2024ebc",
+        "title": "Meta just launched an AI agent that can run your small business — but Amazon is already pushing back",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac53a593b45f8a8f42a823875dfc8&url=https%3a%2f%2fwww.al.com%2flife%2f2026%2f10%2fmeta-just-launched-an-ai-agent-that-can-run-your-small-business-but-amazon-is-already-pushing-back.html%3foutputType%3damp&c=15616977780464603098&mkt=en-us",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:c4d8187ad0f83e41716b3f772b9656e5ea40b3f5fd38e6affccf85a47dc5d5ed",
+        "title": "Meta Exec on How Its New AI Agent, Muse for Small Business, Is Designed to Save Time and Drive Growth",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWN0VHdGZklyczJQM3ZpWVBQRHllYzJSXzhaZjVuXy1qRF95WWo1N2ZrNW1zdmpMZHIxRGFTY0pIOWpYazhoYnlzYS1kQS1HZUF1RGhsWGdFcU4wZzlnR2oySVRib0o0OWI2aGRETDk1UFZwcF9uR0syRWVuSGNObnZRWjQ?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "sk-honam-factory",
+    "headline": "SK하이닉스, 호남 반도체 공장 건설을 앞당기겠다는 방침",
+    "application": "향후 반도체 생산 기반을 늘리는 공장 건설 계획.",
+    "effect": "공장이 가동되면 생산 여력을 늘릴 수 있습니다. 제목에는 확정 가동일과 생산 규모가 제시되지 않았습니다.",
+    "label": "호재",
+    "reason": "건설 추진은 향후 생산 기반 확대에 유리한 방향입니다. 조기 건설 의지와 실제 착공·가동은 구분하며 생산 규모나 수율 향상을 확인한 소식은 아닙니다.",
+    "stars": 1,
+    "sectors": [
+      "반도체"
+    ],
+    "articles": [
+      {
+        "id": "news:1886fddda5c3e36d82fee861e317388a3acfdaa0465d4623db9dfe3a870bca3c",
+        "title": "[종합] SK하이닉스, 호남 반도체 공장 건설 속도전…최태원 “최대한 빨리 짓겠다”",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oejRCY3VEemxaTWc4ekh5RWFoc2M4ajVNeURnRm1CWFhoaUJvbjdYd0xFall1OG9pZmZyQ3R4aEh5enl2djFjMnJVSnE0c1Y3Y2ZsWWpCZjdJVmV5V3oybzBtZ2Rhb3ZDOWhpTlJKMTFOZw?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "abb-sabadell-center",
+    "headline": "ABB, 스페인 Sabadell에 로봇 기술·운영 센터 계획…2028년 예정",
+    "application": "로봇 기술 개발과 운영 지원을 위한 거점 계획.",
+    "effect": "로봇 개발·운영 기반을 늘리는 방향입니다. 기사 제목만으로 설비 규모와 실제 운영 성과를 확정할 수 없습니다.",
+    "label": "호재",
+    "reason": "로봇 기술·운영 거점 확대는 개발과 고객 지원 기반을 늘리는 방향입니다. 2028년 개설 계획으로 가동이 완료된 시설은 아닙니다.",
+    "stars": 1,
+    "sectors": [
+      "로봇·제조"
+    ],
+    "articles": [
+      {
+        "id": "news:1c84a8c956bca94ec8dd03819efe34c8cb5ef82467b72994c843a047d0ae0986",
+        "title": "ABB Robotics will launch a new technological and operational center in Sabadell in 2028.",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcktYOFVQSDdjdmNvZDZmZ2RVME1CVGxldnhSbVB2amtrWmFpUHJ6NzVlZlNQRXdSckJocUVRd0VYTnlJQm5OSm9uUEtMLS05QjUwVTA1Nm9FU01tY1dCYmo4V0w3S2drb005RmhlYnZFbGRKZkVUYldTVTNEWWtUY3QwZndGakxkcklyRVE3R3NiWVdpZmMyX2pLODlDMUFKTERCaGxDOXE0N1BlQ0hoMWc4X21PQ25Bc3ZIcFFEYzlVd9IBxwFBVV95cUxOd3lZYTYyQnozSXpGcEE5YTNMR0c1eUotNjJtSmRkejg2Yko3ZEEtVlpfODhZc3lPSm5OSVBSUTVJOExubjdjN2s3WFJIMkJLU1lkQkwwenIxdE5JMEVhN1N1MVdidUxZekc1cnptbzNTR1pFOGVRMDhOVVl2YmdkSVBIU3JmRjBQNlpKamtFUi1kdlhvc1laSWR2OTN3cHBmZy1qNTZCdU4wa1VVVm1KYkZIMDBlUzN1dlY3YW96aFNtVGZ1MDhj?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "catl-li-auto-i6",
+    "headline": "Li Auto, 10월 28일 예정 i6에 CATL 배터리 제외 보도",
+    "application": "전기차 i6의 배터리 공급사 구성 변경.",
+    "effect": "CATL은 해당 차종의 공급 기회를 잃는 방향입니다. 전체 납품 물량 감소나 다른 차종의 영향은 확인되지 않았습니다.",
+    "label": "악재",
+    "reason": "CATL 배터리를 사용하지 않는다는 보도는 해당 차종의 공급 기회에 불리합니다. CATL 전체 판매량 감소까지 입증된 것은 아닙니다.",
+    "stars": 1,
+    "sectors": [
+      "자동차·모빌리티"
+    ],
+    "articles": [
+      {
+        "id": "news:550d5ac0a819c91b38e76c14ecb8952a306fc5fb4cb516b05078032042c98a6e",
+        "title": "Li Auto’s 2026 i6 set for October 28 launch without CATL’s battery",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXV0Ykd3M2ZLYk5Kd3JrMmhnUEk2X2RDLXZwMExWNi1pVmNEZU50Y3RsZzN0MFZ4dXVOYzFRdGpTbXViUThYLW1RdzE0OVRONGIxSUJpd2xNbWhBSm1QM3EtNFVkSl9GTHZlSW1qYmREMXdJS2FuOHpMazBSNDJudGJwR0NEbHREMjVPbGlyS3dnYkFWMVhhRHNiU1ZaZllCczNr?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "siemens-kuka-cnc",
+    "headline": "Siemens·KUKA, 공작기계 제어로 로봇을 다루는 자동화 방식 소개",
+    "application": "가공 설비와 로봇을 함께 제어하는 제조 현장에 사용.",
+    "effect": "별도 로봇 제어 작업을 줄이는 접근입니다. 실제 작업 시간과 생산성 개선 수치는 제목에 제시되지 않았습니다.",
+    "label": "호재",
+    "reason": "공작기계와 로봇 제어를 함께 다루는 방식은 현장의 자동화 구성을 단순하게 만드는 방향입니다. 새 성능 비교나 모든 설비의 호환성을 입증한 발표는 아닙니다.",
+    "stars": 1,
+    "sectors": [
+      "로봇·제조"
+    ],
+    "articles": [
+      {
+        "id": "news:88215fa27be1fe81895e6b191b01648d70bc90424bcb99c97f142cbd529fd86c",
+        "title": "CNC Driven Robotics: How Siemens and KUKA are Simplifying Automation for the Modern Shopfloor",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYzlyV1EzVHUxVU9QQUZTSXBXVzFlV19Pc3lJVlRQNU1BcGpOVWswWjNBWG4wS1NoMmpOMzJFWndoaFV4R0l1UUVTTkNZQ21WRHRMZ3pPdmZ2RmdFdEdLbjlZdEdTcm5rN3JfSE9QTjNsS0hzaEhGQ2EzcXNWTlhXS3VfTXM2TnQtLVluSUp2a2ZONW9GRC02OWtzUTJZNUM4aHhfNXBBNmJkV19PejlkR3B3UUN3S21yOE5oR2VTX1k1aEFpVHkzeDh2QzlHaVZpSVMwM1RBMW0?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "excluded-cosmetic-promotion",
+    "headline": "",
+    "application": "",
+    "effect": "",
+    "label": "미지수",
+    "reason": "외형 특허·기존 제품의 지역 출시·명칭 변경·시장 공략·누적 실적 위주이거나 구체적인 새 기술 결과가 제시되지 않아 제외합니다.",
+    "stars": 0,
+    "sectors": [],
+    "articles": [
+      {
+        "id": "news:038bdfb664760aa5f69fc606203963c21277d6b125e735322a00d40f54a5b9fb",
+        "title": "Intel has come up with a way to integrate RGB lighting directly into the processor housing.",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFpHWkFpZ2RhVVNHS2Z4VkxMU1hsZldudGlOZlRfYVA2YnhTMjJEZk1XTkVWZm9sVl9mSTBQNzc3WE1mMUxSMW1YS3U5V1VxOV9BYUViaGdNbTA1LUt6NW8zWXdUMFR1S1VhQi1TaHJTdnJpU1RQNm1PajRwdDBMUEFBMkF6VDU2Vm9jbEUyeWdyR2p4WG9COGNpZkdPRU1XWkxxbTlpOGYtaVQt?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:043ebcafbaae89a6cfb099c04db7a104b02db9bc45d64fcc56f5361bca4b5372",
+        "title": "iBUYPOWER Unveils New Workstation AMD AI Halo Mini PC Powered by AMD Ryzen AI Max+ PRO 495 Series Processor",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUmp6clN6ZlVwR2EybmNIMmtRU1NPWHUybzF0RDJJazNrd0g1Zzhfc0ViOEpvcHdQd3V6X0ZDYmhNRjFmX2FZUEZsaHFLSGxUOWRUN0RYd1lOY0RIYXNjaVUxZWw0bFVkNWJtT0p0VS04ZlVvcTJ1a0paSFFLMGlPMlZPY19xeWFJZzVMUWNGOC1rM002ZWpVQ3JLYUNtZHVyQ1FUOHI1bjhjNEE3LTFmSHlmZUhKdGVPRlBCM0EwMVpxSngweFlHZWk4SFplMHhQVGFScXg4TmJmck03SmfSAd4BQVVfeXFMTVJqenJTemZVcEdhMm5jSDJrUVNTT1h1Mm8xdEQySWsza3dINWc4X3NFYjhKb3B3UHd1el9GQ2JoTUYxZl9hWVBGbGhxS0hsVDlkVDdEWHdZTmNESGFzY2lVMWVsNGxVZDVibU9KdFUtOGZVb3EydWtKWkhRSzBpTzJWT2NfcXlhSWc1TFFjRjgtazNNNmVqVUNyS2FDbWR1ckNRVDhyNW44YzRBNy0xZkh5ZmVISnRlT0ZQQjNBMDFacUp4MHhZR2VpOEhaZTB4UFRhUnF4OE5iZnJNN0pn?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:09c49158da7350b9f4676f6f9bf9051dccd87b2e65d39482a34c7a0ef1478c6c",
+        "title": "BYD humanoid robot design emerges as formal debut remains pending",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhdGFNa1ZFbElGblkzNUQ2Z1Mya055bWN4YWtFVXhfU1p0VnQ2NDhHNGZ4Z1duRTI0Sm5tNkdRWUZuZndqZG1ZR2pFV2hIUEc0UGRaNktXd2ZiUklvZE15MVUwWlVVNFdKZHE1cTExb3M5bEYz?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:32ff94b1f2f7c1394684302e5da1898445cee9df06f5a722845722aafe05d1fe",
+        "title": "GlobalFoundries rallies after US$2bn TSMC deal",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac91649ffd446e69f98045c64e8edf9&url=https%3a%2f%2fwww.taipeitimes.com%2fNews%2fbiz%2farchives%2f2026%2f10%2f10%2f2003865697&c=16643456481943517545&mkt=en-us",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:37fed958d63a34cf5ee4f1d67df618da10db3974165093957b62e927efe13681",
+        "title": "Solid-State Battery Industrialization Accelerates: Chery Launches Equipment Tenders, BYD Targets 2027 Vehicle Installation",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTGRKcjlGcnctQzdISWRscklpYUdSVi1tYzcxem5iWG1Dek5ob3ZHYTlSdXdyZEVMV2dhd1FDWVVCWGVlZzlhWU01d1pkbndMeFE2al9zcllaYnZhOFFqOElKaElfN0FzamNyOHd6MWlnWWxNc2c?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:3ef66adf0b6a7a11755154802e8d03848cc7a69235dd88a666fa65b289aa51a4",
+        "title": "비야디, 지능형 로봇 외형 디자인 특허 공개…휴머노이드 사업 확장 주목",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac51ffa0d4c27a57cddd37ddd1fde&url=https%3a%2f%2fwww.msn.com%2fko-kr%2f%25EA%25B8%25B0%25EC%2588%25A0%2f%25EA%25B8%25B0%25EC%2588%25A0-%25ED%259A%258C%25EC%2582%25AC%2f%25EB%25B9%2584%25EC%2595%25BC%25EB%2594%2594-%25EC%25A7%2580%25EB%258A%25A5%25ED%2598%2595-%25EB%25A1%259C%25EB%25B4%2587-%25EC%2599%25B8%25ED%2598%2595-%25EB%2594%2594%25EC%259E%2590%25EC%259D%25B8-%25ED%258A%25B9%25ED%2597%2588-%25EA%25B3%25B5%25EA%25B0%259C-%25ED%259C%25B4%25EB%25A8%25B8%25EB%2585%25B8%25EC%259D%25B4%25EB%2593%259C-%25EC%2582%25AC%25EC%2597%2585-%25ED%2599%2595%25EC%259E%25A5-%25EC%25A3%25BC%25EB%25AA%25A9%2far-AA2dVCEU&c=11316297979832201880&mkt=en-us",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:52fac95a0d5b61f2014d70475098d81a467aee89f91d153312b1aa60b34b45e4",
+        "title": "Lam Research Launches South Korea-Focused Semiconductor Unicorn Fund; Ships 15,000th Manufacturing Chamber",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VTg4YXdpek9oWFN5eTdtTzRHLUx0UktJUWgzZ2dCM1RhanhHLTVCS1JKNXA1NFlUMzg1UHRGTmFkSW5STlJ5RkpMSlp4cmg2OFI0RENCZF9ETXVIeXZscWFYZ3NkMnVDTHlHMVFhUjhqNEpwRUE?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:b022fde2ff37060988ac3345443e9c3e4f1d4ea426ab46ea8bba1137654f96b2",
+        "title": "Toyota Sora Hydrogen Fuel Cell Bus Launched: 300KM Range",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEdqM0c1dktTVDRrbHlURzhrZ25OSWh4RWowMGwzMWFqT3BxaGZ4YWF4T1U1VThlY3o5T2Y4WEg1dHJDaEV0cWZIblpsdWZ5dkNMcHNVM1FKZG5UOVQwV0tBYThuRlV6WXhJcE5acEs5MXFGZ2JEYm43blpjcHhnTklTTQ?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:bf86825f214937e54c688ca4150f18a86162950688e002ee9136b8c6c38747e2",
+        "title": "Dell Pro Rugged 13 Extreme, Pro Rugged 14 Launched in India With Up to Intel Core Ultra 7 Processor: Pric...",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazlLOXFKTVNOU2ZTZFVvMGhjVjhOOFBTdllJT3JVcHRvU3VvMmExWFJIVjFzTVJFOWtNUjBEaXpuNUkwdVpFVkVzTjFvVFRWRm5wN28yRGJ6endFM0JXS3g0X3BnczlHRlE4TlNrZm8xeXlCMFJoVUprT1NOcUdhMnVOVGpIRUQ3SlI3UDJEQmNWYXpvUEw5SDhBQWF0RVgySEYzWjNfMTJZenRTb1RCWk5iYXpEMWN6R3BMelYwTEV2d9IBxwFBVV95cUxPZmJ5cklmN2ozR0o3VWYtbVlCWE83YkNPSzRWWFdQUEdOeUJsWXhaRTNxbE5RV05zbmNOSldFbkJTUk9hQXFmamNQdWpFR29vaExrcHJPQzZ2WFVLZ20wVDZyczFnOTZFaG5aZGF5QnFzd1ZfdEVQdzluMnpfQmh3S0s2ZkJvenZKWk5zNWo1YkJDekNCcEUzQmd5dXpZSFBobmpYSFBYcDZWTXlYQnFqcEFRQU1ndEVnd2p4OEFNcmRqSElDbVNj?oc=5",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:dede73e724896f87a974e305e8cabe4d659277bc8af8147a0044c4f579f9022f",
+        "title": "Volkswagen unveils ID. Tiguan to replace ID.4 and ID.5",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac91755e75b4b8b839dd758fc48fc95&url=https%3a%2f%2fwww.automotiveworld.com%2fnews%2fvolkswagen-unveils-id-tiguan-to-replace-id-4-and-id-5%2f&c=17045210018067724453&mkt=en-us",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:e9faf32dfad2872db9926dacba28b7592bf3528371f4598bfc27558c59d4ef99",
+        "title": "AMD eyes growing agentic AI market with next-generation PC chips",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac91660fd9343a58359816bcae03467&url=https%3a%2f%2fnewsbytes.ph%2f2026%2f10%2f09%2famd-eyes-growing-agentic-ai-market-with-next-generation-pc-chips%2f&c=1807781446053483746&mkt=en-us",
+        "published": "2026-10-09"
+      },
+      {
+        "id": "news:fdb19883ae85bdbadd3e85e66fcb8b06a486dc703c806f381a23ebef3c6e6b2b",
+        "title": "WIKO Launches Hi MateBook D 14 with AMD Ryzen 7 H255 Processor",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmNBRFdGNXp5NGpRaU5nekliZVhIcl9YbjRSYU9rZWpUTTdiNkJlVkRyQUNRd2plQVVQV3NRRm9ERTdCMEtEdkt0NVUwOU5lVGFYWWRXNlVGaDN3cXJKcHR6TDBWQ1YwWENxT2lGcnVRU1dvRUhJeU9VZ2ZtX2d5RERKVXQ0eTct?oc=5",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "key": "spacex-mobile-approval",
+    "headline": "SpaceX, 휴대전화와 직접 연결하는 차세대 위성망 승인 보도",
+    "application": "일반 휴대전화와 위성을 직접 연결하는 이동통신망에 적용.",
+    "effect": "승인은 위성망 전개에 필요한 절차의 진전입니다. 실제 서비스는 위성 배치와 통신망 구축이 뒤따라야 합니다.",
+    "label": "호재",
+    "reason": "규제 승인은 위성 직접 통신 서비스의 전개에 유리한 변화입니다. 승인과 위성 배치·서비스 가동은 다른 단계입니다.",
+    "stars": 2,
+    "sectors": [
+      "우주·통신"
+    ],
+    "articles": [
+      {
+        "id": "news:289181176c1f6b692fe933dc5f22527678b7f004d4a2f98aa994733374ec46ad",
+        "title": "SpaceX Wins FCC Approval for Starlink Mobile’s Massive Next-Generation Direct-to-Cell Constellation",
+        "url": "https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac52bf9444f95a29550e3291adbe1&url=https%3a%2f%2fwww.rvmobileinternet.com%2fspacex-wins-fcc-approval-for-starlink-mobiles-massive-next-generation-direct-to-cell-constellation%2f&c=2625205585862658425&mkt=en-us",
+        "published": "2026-10-09"
+      }
+    ],
+    "sources": []
+  }
+]

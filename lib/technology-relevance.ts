@@ -1,0 +1,10 @@
+import type {ImportanceInput} from './importance';
+
+/** Company names and collection queries are never evidence of technical relevance. */
+export function isNonTechnologyNews(title:string){
+ return /노조|노동조합|교섭|차익\s*실현|하락\s*마감|상승\s*마감|상한가|하한가|급등주|급락주|시가총액|시총|주식\s*(?:투자|시장)|증권(?:사|시장)|투자\s*(?:전략|추천)|매매\s*전략|영업이익|영업익|순이익|실적 발표|분기 실적|실적 전망|결산\s*(?:분석|발표|결과)|매출 전망|임금.{0,8}(?:협상|인상|교섭)|파업|쟁의|노사|성과급|목표주가|목표가|투자의견|주가|증시|코스피|코스닥|배당|자사주|매수.{0,5}추천|매도.{0,5}추천|최대주주|지배구조|경영권|CEO.{0,6}(?:선임|교체)|사장.{0,6}(?:선임|교체)|임원 인사|조직 개편|분사|사업.{0,6}(?:매각|분리)|할인|쿠폰|경품|사은품|\bunion\b|labor dispute|\bearnings\b|quarterly results|\bprofits?\b|labor union|trade union|collective bargain|wage (?:talk|negotiat|increase)|labor strike|workers?.{0,20}strike|stock price|price target|\bstocks?\b|\bshares (?:rise|fall|surge|drop)|dividend|share buyback|shareholder|corporate governance|appoint.{0,30}(?:CEO|chief executive)|discount|coupon|giveaway/i.test(title);
+}
+export function hasTechnicalContent(item:ImportanceInput){
+ const text=[item.title,item.abstract,item.summary,item.after,item.change,item.why,item.interpretation,item.technologyName,...(item.facts||[]),item.research?.possibility,item.research?.demonstrated].filter(Boolean).join(' ');
+ return /HBM|HBF|DRAM|NAND|DDR\d|EUV|반도체|파운드리|노광|식각|증착|트랜지스터|칩렛|패키징|GPU|CPU|NPU|Xeon|SSD|메모리|저장장치|GPT|ChatGPT|Claude|Gemini|Haiku|소프트웨어|정보 보안|AI.{0,8}(?:모델|칩|추론|컴퓨팅|연산|에이전트|보안)|언어 모델|에이전트|기밀 컴퓨팅|온디바이스|보호 VM|샌드박스|양자컴퓨팅|클라우드|데이터센터|데이터 센터|로봇|휴머노이드|자동화|제어망|제어법|센서|공정|배터리|전고체|충전|전기차|구동계|냉각|열관리|수전해|전해조|연료전지|수소|태양광|풍력|발전|ESS|전력망|송전|위성|이동통신|통신망|무선|안테나|촉매|소재|양극|음극|재활용|수술|신약|약물|임상|CAR.T|유전자|의료영상|의료기기|의료.{0,5}AI|AI.{0,6}의료|조기진단|재발예측|항암제|치료제|유전체|반도체 생산|semiconductor|foundry|lithography|transistor|memory|chiplet|processor|inference|language model|agentic|confidential comput|quantum comput|cloud comput|data.cent(?:er|re)|robot|humanoid|automation|control system|sensor|batter|electroly|hydrogen|fuel cell|solar|photovoltaic|wind turbine|power grid|satellite|telecom|antenna|catalyst|electrode|recycl|surg|drug discovery|clinical trial|gene edit|medical imag|medical (?:AI|device)|diagnos|cancer.{0,12}AI/i.test(text);
+}

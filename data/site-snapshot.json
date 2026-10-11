@@ -1,0 +1,4213 @@
+{
+  "records": [
+    {
+      "id": "burgess-20261010-cranial-robot-review",
+      "technology": "surgical-robot",
+      "title": "뇌수술 로봇이 유리한 작업과 남은 한계를 정리한 리뷰",
+      "summary": "기존 연구 51편을 종합해 뇌수술 로봇의 정확도·수술 시간·합병증을 검토했습니다.",
+      "change": "여러 경로에 전극을 넣는 수술 등에서 활용 가능성을 정리했으며 새 임상시험은 아닙니다.",
+      "limitation": "연구 조건 차이로 메타분석을 하지 못했습니다. 작은 표본·비무작위 연구와 원문 접근 제외의 한계가 있습니다.",
+      "company": "Alison E. Burgess 연구팀",
+      "stage": "연구 흐름·리뷰",
+      "kind": "논문",
+      "source": "학술지 논문 원문",
+      "url": "https://link.springer.com/article/10.1007/s10143-026-04529-x",
+      "published": "2026-10-10",
+      "eventDate": null,
+      "metric": "2000년 1월~2025년 2월 연구 중 51편·6개 로봇 체계",
+      "importance": {
+        "stars": 1,
+        "reason": "기존 임상 자료를 종합한 활용 판단 근거입니다. 새 임상 성과나 모든 뇌수술의 개선을 증명한 자료는 아닙니다.",
+        "sourceUrls": [
+          "https://link.springer.com/article/10.1007/s10143-026-04529-x"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "Robotic systems in cranial surgery: a systematic review of accuracy, clinical outcomes, and adverse events",
+        "doi": "10.1007/s10143-026-04529-x",
+        "possibility": "여러 목표 지점으로 기구를 안내하는 뇌수술에서 로봇을 어떤 작업에 활용할지 판단하는 근거를 제공합니다.",
+        "demonstrated": "2000년 1월~2025년 2월의 연구 51편과 6개 로봇 체계를 종합했습니다. 일부 전극 삽입 수술에서 기존 방식과 비슷하거나 높은 정확도를 보고했지만 수술 시간 결과는 작업·장비마다 달랐습니다. 새 환자 시험을 수행한 연구가 아닙니다.",
+        "remaining": "장비끼리 비교할 공통 지표와 더 강한 임상 근거가 필요합니다. 연구 차이로 통계적 통합 비교를 못 했고 비용·훈련·설치 시간도 남은 문제입니다.",
+        "stage": "연구 흐름·리뷰",
+        "readScope": "본문",
+        "sourceUrl": "https://link.springer.com/article/10.1007/s10143-026-04529-x",
+        "checkedAt": "2026-10-11"
+      }
+    },
+    {
+      "id": "ramadurai-20261009-techbio-review",
+      "technology": "ai-drug",
+      "title": "AI가 약 후보를 만들고 실험 결과로 다시 배우는 신약 탐색의 방향",
+      "summary": "분자의 구조와 생물학적 반응을 함께 읽는 AI가 약 후보를 설계하고, 실험 결과를 다시 학습에 반영하는 순환형 신약 탐색이 연구 방향으로 제시됩니다.",
+      "change": "예측·분자 생성·실험 피드백을 연결하는 방법과 기존 사례를 종합한 리뷰입니다. 단일 신약의 새 임상 결과나 승인 실적을 발표한 연구는 아닙니다.",
+      "limitation": "데이터 접근, 실험 검증과 규제 대응이 과제로 남습니다. AI의 후보 설계 능력만으로 사람에게 효과적이고 안전한 약이 곧 출시된다고 볼 수 없습니다.",
+      "company": "Krish Ramadurai·Abhirup Banerjee",
+      "stage": "연구 흐름·리뷰",
+      "kind": "논문",
+      "source": "npj Drug Discovery",
+      "url": "https://www.nature.com/articles/s44386-026-00078-x",
+      "published": "2026-10-09",
+      "eventDate": null,
+      "metric": "리뷰; 2026-08-19 수락·2026-10-09 공개",
+      "importance": {
+        "stars": 1,
+        "reason": "AI 설계와 실험 피드백의 연결이라는 연구 방향을 정리. 새로운 단일 실험·임상 성과를 제시한 논문은 아님",
+        "sourceUrls": [
+          "https://www.nature.com/articles/s44386-026-00078-x"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "TechBio 3.0 closes the drug discovery loop with multimodal AI and generative chemistry",
+        "doi": "10.1038/s44386-026-00078-x",
+        "possibility": "분자의 구조와 생물학적 반응을 함께 읽는 AI가 약 후보를 설계하고, 실험 결과를 다시 학습에 반영하는 순환형 신약 탐색이 연구 방향으로 제시됩니다.",
+        "demonstrated": "예측·분자 생성·실험 피드백을 연결하는 방법과 기존 사례를 종합한 리뷰입니다. 단일 신약의 새 임상 결과나 승인 실적을 발표한 연구는 아닙니다.",
+        "remaining": "데이터 접근, 실험 검증과 규제 대응이 과제로 남습니다. AI의 후보 설계 능력만으로 사람에게 효과적이고 안전한 약이 곧 출시된다고 볼 수 없습니다.",
+        "stage": "연구 흐름·리뷰",
+        "readScope": "본문",
+        "sourceUrl": "https://www.nature.com/articles/s44386-026-00078-x",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    {
+      "id": "schielicke-20261009-cpu-hbm",
+      "technology": "hbm",
+      "title": "CPU가 HBM을 읽는 방법을 바꿔 메모리 처리량 개선",
+      "summary": "NVIDIA GH200과 AMD MI300A 실물 시스템에서 CPU의 메모리 접근을 시험했습니다.",
+      "change": "GH200에서 CPU·GPU 메모리에 데이터를 나눠 배치하는 방식이 한쪽 메모리만 쓰는 방식보다 시험한 네 작업의 처리량을 높였습니다.",
+      "limitation": "CPU의 메모리 시험 결과입니다. GPU 연산 속도나 실제 AI 서비스 전체의 개선율은 입증하지 않았습니다.",
+      "company": "Hasso Plattner Institute 연구팀",
+      "stage": "실험실 검증",
+      "kind": "논문",
+      "source": "학술지 논문 원문",
+      "url": "https://link.springer.com/article/10.1007/s13222-026-00563-7",
+      "published": "2026-10-09",
+      "eventDate": null,
+      "metric": "GH200: 72개 스레드·90 GiB 영역·64 B 접근",
+      "importance": {
+        "stars": 2,
+        "reason": "실물 시스템에서 데이터 배치에 따른 처리량 변화를 확인했습니다. 범위는 CPU 메모리 접근 시험이며 HBM 신제품이나 서비스 성능의 진전은 아닙니다.",
+        "sourceUrls": [
+          "https://link.springer.com/article/10.1007/s13222-026-00563-7"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "Characterising CPU-initiated High Bandwidth Memory Access",
+        "doi": "10.1007/s13222-026-00563-7",
+        "possibility": "칩을 교체하지 않고 데이터 배치와 읽는 순서를 조절해 CPU가 쓸 수 있는 메모리 처리량을 높이는 길입니다.",
+        "demonstrated": "GH200의 72개 스레드·90 GiB 영역·64 B 접근 조건에서 무작위·순차 읽기와 쓰기를 비교했습니다. 데이터를 CPU·GPU 메모리에 가중치로 나눠 배치했을 때 한쪽만 쓰는 경우보다 처리량이 높았습니다. MI300A는 CPU·GPU가 HBM3를 공유하는 별도 구조입니다.",
+        "remaining": "장비별 메모리 구조와 작업에 맞는 배치 비율을 정해야 합니다. 두 장비의 결과를 같은 조건의 우열이나 AI 전체 성능으로 확대할 수 없습니다.",
+        "stage": "실험실 검증",
+        "readScope": "본문",
+        "sourceUrl": "https://link.springer.com/article/10.1007/s13222-026-00563-7",
+        "checkedAt": "2026-10-11"
+      }
+    },
+    {
+      "id": "anthropic-20261007-haiku55",
+      "technology": "small-model",
+      "title": "Haiku 5.5 출시와 소형 모델 추론 노력 설정",
+      "summary": "Anthropic은 반복·대량 처리용 Haiku 5.5를 출시하고 추론 노력 조절 기능을 제공합니다.",
+      "change": "비용·속도 중심 소형 모델에 노력 설정을 추가했습니다.",
+      "limitation": "공식 벤치마크는 기업 평가이며 동일 조건의 독립 재현과 업무별 검증은 미확인입니다.",
+      "company": "Anthropic",
+      "stage": "제품 출시",
+      "kind": "제품 출시",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "published": "2026-10-07",
+      "eventDate": "2026-10-07",
+      "metric": "추론 노력 설정 지원; 가격은 입력 길이에 따라 구분",
+      "importance": {
+        "stars": 2,
+        "reason": "소형 모델에 추론 노력 조절을 추가해 대량 처리와 모델별 작업 배분의 선택이 달라질 수 있습니다. 비용·속도·정확도의 이득은 같은 업무 조건에서 확인해야 합니다.",
+        "sourceUrls": [
+          "https://www.anthropic.com/claude-haiku-5-5"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "openai-20261007-intelligentui",
+      "technology": "reasoning",
+      "title": "GPT-6와 상호작용 UI의 ChatGPT 순차 배포",
+      "summary": "OpenAI는 ChatGPT Chat 경험에서 답변 안에 도구·폼·차트를 구성하는 기능을 발표했습니다.",
+      "change": "정적인 텍스트 응답에 상호작용형 구성요소를 결합하는 제품 경험입니다.",
+      "limitation": "모든 계정 배포 완료와 과제별 정확도를 직접 검증하지 않았습니다.",
+      "company": "OpenAI",
+      "stage": "제품 공개·순차 배포",
+      "kind": "제품 출시",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "published": "2026-10-07",
+      "eventDate": "2026-10-07",
+      "metric": "유료 등급 10/7, Free·Go 10/8부터 순차 배포 계획",
+      "importance": {
+        "stars": 2,
+        "reason": "대화 안의 상호작용 UI는 정보를 읽는 데서 비교·계산을 직접 수행하는 사용 방식으로 확장됩니다. 전체 배포와 과제별 정확도 개선은 별도 검증이 필요합니다.",
+        "sourceUrls": [
+          "https://openai.com/index/gpt-6-for-everyone/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "strand-20261006-agentic-autorag",
+      "technology": "rag",
+      "title": "검색과 답변 오류를 구분해 문서 답변 구성을 조정하는 연구",
+      "summary": "ETH Zurich 연구팀은 답변 오류 원인을 분석하며 검색·생성 구성을 바꾸는 Agentic AutoRAG를 제시했습니다.",
+      "change": "의료 문서 250개로 만든 시험에서 정확도 중앙값 77%를 보고했습니다. 비교 방법은 71.5%였습니다.",
+      "limitation": "언어 모델이 채점한 문서 질문 시험입니다. 사람의 판정이나 임상 성과를 검증하지 않았습니다.",
+      "company": "ETH Zurich 연구팀",
+      "stage": "실험실 검증·프리프린트·워크숍 채택",
+      "kind": "논문",
+      "source": "arXiv 논문 원문",
+      "url": "https://arxiv.org/abs/2610.08452",
+      "published": "2026-10-06",
+      "eventDate": null,
+      "metric": "30회 구성 탐색·10개 무작위 시작값",
+      "importance": {
+        "stars": 2,
+        "reason": "오류 원인을 활용한 문서 답변 구성 탐색입니다. 실제 적용 가능성은 사람 평가와 새로운 문서에서 추가 확인해야 합니다.",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2610.08452"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
+        "possibility": "검색에서 놓친 정보와 답변 생성 오류를 구분해 문서 답변 시스템의 정확도와 비용을 함께 조정하는 방법입니다.",
+        "demonstrated": "의료 문서 250개로 만든 고정 시험에서 10개 시작값의 정확도 중앙값은 Agentic AutoRAG 77%, warm-started MO-TPE 71.5%였습니다. 세 다단계 질문 자료에서도 별도 시험을 했습니다.",
+        "remaining": "자동 채점의 사람 판정 일치도를 확인하지 않았습니다. 의료 문서 시험은 구성 탐색에도 사용됐으며 임상 시험이 아닙니다. 문서 읽기 도구는 고정했고 모델·가격 정보와 답변의 재현성도 한계입니다.",
+        "stage": "실험실 검증",
+        "readScope": "본문",
+        "sourceUrl": "https://arxiv.org/abs/2610.08452",
+        "checkedAt": "2026-10-11",
+        "comparison": {
+          "metric": "문서 질문 시험 정확도 중앙값",
+          "unit": "%",
+          "before": {
+            "label": "비교 방법: warm-started MO-TPE",
+            "value": 71.5
+          },
+          "after": {
+            "label": "제안 방법: Agentic AutoRAG",
+            "value": 77
+          },
+          "context": "의료 문서 250개 기반 고정 시험·30회 탐색·10개 시작값. 구성 모델이 달라지며 언어 모델 채점입니다. 독립 임상 성과나 같은 하드웨어의 개선율이 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "bmw-production-20261001",
+      "technology": "thermal",
+      "title": "BMW, 냉각 구조가 통합된 Gen6 배터리 양산 개시",
+      "summary": "BMW는 Irlbach-Straßkirchen 공장의 양산 개시를 발표했습니다. 배터리 조립 과정에서 셀을 냉각기에 연결하는 공정을 설명합니다.",
+      "change": "2025년 구동계 소개에 이어 2026년에는 냉각 구조를 포함한 배터리 생산 적용 사례가 확인됩니다.",
+      "limitation": "배터리 양산 사례이며 냉각 기술 자체의 성능 향상을 분리해 검증한 자료는 아닙니다.",
+      "company": "BMW",
+      "stage": "양산 개시",
+      "kind": "기업 적용",
+      "source": "BMW 공식 발표",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen",
+      "published": "2026-10-01",
+      "eventDate": "2026-10-01",
+      "metric": "셀·냉각기 연결 공정",
+      "importance": {
+        "stars": 2,
+        "reason": "배터리 냉각 구조가 양산 조립 공정에 통합된 사례로 설계와 생산 적용을 연결하는 의미가 있습니다. 냉각 기술만의 성능 개선을 분리해 입증한 자료는 아닙니다.",
+        "sourceUrls": [
+          "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "vanwaveren-20261001-persco",
+      "technology": "amr",
+      "title": "사람이 불안해하면 속도와 거리를 바꾸는 이동 로봇",
+      "summary": "PERSCO는 사람의 피드백을 받아 이동 로봇의 접근 속도와 거리를 조정합니다.",
+      "change": "충돌 회피 외에 사람이 느끼는 안전감을 제어에 반영했습니다.",
+      "limitation": "통제된 환경의 짧은 시험입니다. 안전감 설문 개선을 실제 사고 감소로 볼 수 없습니다.",
+      "company": "Georgia Institute of Technology 연구팀",
+      "stage": "실험실 검증",
+      "kind": "논문",
+      "source": "학술지 논문 원문",
+      "url": "https://link.springer.com/article/10.1007/s10514-026-10262-7",
+      "published": "2026-10-01",
+      "eventDate": null,
+      "metric": "참가자 54명·Spot 실물 로봇·안전감 비교 p<0.001",
+      "importance": {
+        "stars": 2,
+        "reason": "실물 이동 로봇과 54명 시험으로 피드백 기반 제어를 평가했습니다. 비교 대상과 주관적 평가의 범위를 제한해 해석해야 합니다.",
+        "sourceUrls": [
+          "https://link.springer.com/article/10.1007/s10514-026-10262-7"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "PERSCO: Perceived safe control of mobile robots in human groups with active learning",
+        "doi": "10.1007/s10514-026-10262-7",
+        "possibility": "사람과 같은 공간에서 움직이는 로봇이 작업 속도와 사람의 편안함을 함께 고려할 수 있습니다.",
+        "demonstrated": "54명이 Spot 로봇과 통제된 작업장 형태의 공간에서 상호작용했습니다. 피드백을 반영한 개별·집단 조정은 피드백과 반대로 더 공격적으로 움직이는 조건보다 안전감 평가가 높았습니다(p<0.001). 사고율 비교가 아닙니다.",
+        "remaining": "긴 상호작용과 복잡한 실제 환경을 더 시험해야 합니다. 피드백이 없으면 안전하다고 느낀다는 가정은 다른 일에 집중하는 사람에게 맞지 않을 수 있습니다.",
+        "stage": "실험실 검증",
+        "readScope": "본문",
+        "sourceUrl": "https://link.springer.com/article/10.1007/s10514-026-10262-7",
+        "checkedAt": "2026-10-11"
+      }
+    },
+    {
+      "id": "nel-submarine-20260930",
+      "technology": "pem",
+      "title": "Nel, 잠수함 생명유지용 PEM 스택 추가 수주",
+      "summary": "Collins Aerospace로부터 약 700만 달러의 추가 주문을 받았습니다. PEM 수전해를 잠수함의 산소 생성에 사용하는 사례입니다.",
+      "change": "수소 생산 외에 산소 공급이라는 적용 사례가 확인됐습니다. 납품은 2027~2028년 예정입니다.",
+      "limitation": "수주는 운전 완료나 성능 개선의 증거가 아닙니다. 수명·전력 소비의 비교 수치는 공개되지 않았습니다.",
+      "company": "Nel · Collins Aerospace",
+      "stage": "수주 · 납품 예정",
+      "kind": "기업 적용",
+      "source": "Nel 공식 발표",
+      "url": "https://nelhydrogen.com/press-release/nel-asa-secures-additional-orders-for-submarine-pem-electrolyser-stacks/",
+      "published": "2026-09-30",
+      "eventDate": "2026-09-30",
+      "metric": "추가 주문 약 700만 USD",
+      "importance": {
+        "stars": 1,
+        "reason": "PEM 스택의 생명유지용 산소 공급이라는 구체적인 활용·추가 수주 사례입니다. 적용 범위가 한정되고 새로운 수명·전력 성능의 개선은 제시되지 않았습니다.",
+        "sourceUrls": [
+          "https://nelhydrogen.com/press-release/nel-asa-secures-additional-orders-for-submarine-pem-electrolyser-stacks/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "baek-20260922-hbm-hbf",
+      "technology": "hbm",
+      "title": "AI 대화의 기억을 나눠 담아, 한 GPU가 더 많은 작업을 이어가는 설계",
+      "summary": "잠시 멈춘 AI 작업의 기억은 대용량 플래시에, 자주 쓰는 기억은 고속 메모리(HBM)에 나눠 담으면 같은 GPU에서 더 많은 AI 작업을 이어갈 가능성이 있습니다.",
+      "change": "Qwen3-Coder 작업 기록을 사용한 모의실험에서 HBM만 쓸 때 165개였던 수용 세션을 플래시 3TiB 추가 시 3,900개로 늘렸습니다. 동시에 답을 만드는 작업 수와는 다른 지표이며, 실제 칩 시험은 아닙니다.",
+      "limitation": "실제 메모리·칩 연결 구조에서 지연과 전력·내구성이 재현되는지 확인해야 합니다. 특정 모델·대기 시간·메모리 사양을 가정한 결과라 모든 AI 서비스의 성능 향상으로 일반화할 수 없습니다.",
+      "company": "Jongjin Baek·Won Ji·Seungjae Yoo·Joo-Young Kim 연구팀",
+      "stage": "설계·시뮬레이션 · 공개 원고",
+      "kind": "논문",
+      "source": "arXiv · 논문 원문",
+      "url": "https://arxiv.org/abs/2609.25782",
+      "published": "2026-09-22",
+      "eventDate": null,
+      "metric": "기록 기반 모의실험 · 수용 세션 165 → 3,900 · HBF 3TiB 추가",
+      "importance": {
+        "stars": 2,
+        "reason": "AI 작업의 대기·활성 상태에 맞춘 메모리 구성이 서버 자원 활용을 바꿀 가능성. 특정 조건의 모의실험으로 실물 검증은 남음",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2609.25782"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving",
+        "doi": "10.48550/arXiv.2609.25782",
+        "possibility": "잠시 멈춘 AI 작업의 기억은 대용량 플래시에, 자주 쓰는 기억은 고속 메모리(HBM)에 나눠 담으면 같은 GPU에서 더 많은 AI 작업을 이어갈 가능성이 있습니다.",
+        "demonstrated": "Qwen3-Coder 작업 기록을 사용한 모의실험에서 HBM만 쓸 때 165개였던 수용 세션을 플래시 3TiB 추가 시 3,900개로 늘렸습니다. 동시에 답을 만드는 작업 수와는 다른 지표이며, 실제 칩 시험은 아닙니다.",
+        "remaining": "실제 메모리·칩 연결 구조에서 지연과 전력·내구성이 재현되는지 확인해야 합니다. 특정 모델·대기 시간·메모리 사양을 가정한 결과라 모든 AI 서비스의 성능 향상으로 일반화할 수 없습니다.",
+        "stage": "설계·시뮬레이션",
+        "readScope": "본문",
+        "sourceUrl": "https://arxiv.org/abs/2609.25782",
+        "checkedAt": "2026-10-10",
+        "comparison": {
+          "metric": "모의실험에서 GPU 한 대가 보관하는 AI 세션",
+          "unit": "개",
+          "before": {
+            "label": "고속 메모리만 사용",
+            "value": 165
+          },
+          "after": {
+            "label": "플래시 3TiB 추가",
+            "value": 3900
+          },
+          "context": "Qwen3-Coder 작업 기록 기반 모의실험. 메모리 용량·구성이 다른 비교이며 동시에 답을 생성하는 작업 수나 실제 칩 성능이 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "atlas-rmac-20260921",
+      "technology": "humanoid",
+      "title": "현대차 제조 현장에 Atlas 훈련·시험 센터 개설",
+      "summary": "Boston Dynamics는 현대차 미국 메타플랜트의 RMAC 1단계 운영을 발표했습니다. 자동차 부품 준비·순서 배치 등 실제 환경의 작업을 훈련합니다.",
+      "change": "1월 제품 공개 이후 제조 현장 내 훈련·통합 시험이라는 적용 단계가 확인됩니다.",
+      "limitation": "훈련·시험 센터의 운영입니다. 완성차 조립 전 공정의 상용 자동화를 완료했다는 의미가 아닙니다. 2030년 조립 작업 확대는 계획입니다.",
+      "company": "Boston Dynamics · 현대자동차그룹",
+      "stage": "현장 훈련 · 통합 시험",
+      "kind": "기업 적용",
+      "source": "Boston Dynamics 공식 발표",
+      "url": "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/",
+      "published": "2026-09-21",
+      "eventDate": "2026-09-21",
+      "metric": "RMAC 1단계 운영 · 부품 순서 배치 훈련",
+      "importance": {
+        "stars": 2,
+        "reason": "휴머노이드를 제조 현장에서 훈련·통합 시험하는 단계는 제품 공개에서 실제 적용으로 가는 중요한 연결입니다. 전 공정의 상용 자동화나 생산성 개선 완료는 아닙니다.",
+        "sourceUrls": [
+          "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "ryu-20260914-3d-dram",
+      "technology": "dram",
+      "title": "고온 공정을 견디는 재료로, D램을 위로 쌓는 길을 넓히는 연구",
+      "summary": "고온 수소 공정을 견디는 트랜지스터 재료는 D램을 입체적으로 쌓는 제조 방식의 후보가 될 수 있습니다. 작은 면적에 메모리를 더 담는 방향과 연결되는 재료 연구입니다.",
+      "change": "400~600℃ 수소 열처리를 비교했습니다. 비정질 ITGO 박막은 600℃에서 두께 변화가 1% 미만이었고, 이를 사용한 트랜지스터는 스위칭 특성을 유지했다고 보고했습니다.",
+      "limitation": "초록에서 확인한 것은 재료·트랜지스터의 내열성입니다. 완성된 3D D램의 용량·장기 신뢰성·양산 수율이나 상용 출시를 입증한 결과는 아닙니다.",
+      "company": "류성환·이선명 등 한양대·삼성전자 연구팀",
+      "stage": "실험실 검증",
+      "kind": "논문",
+      "source": "Advanced Electronic Materials · 원문",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.70575",
+      "published": "2026-09-14",
+      "eventDate": null,
+      "metric": "600℃ 수소 열처리 · 박막 두께 변화 1% 미만",
+      "importance": {
+        "stars": 2,
+        "reason": "3D D램 제조 후보 재료가 고온 수소 공정에 견디는 실험 결과. 공정 호환성 문제를 짚었으나 완성 메모리·양산 검증은 아님",
+        "sourceUrls": [
+          "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.70575"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "Metal Cation Chemistry and Amorphous Structure Governing Hydrogen Tolerance in Oxide Semiconductor Channels for 3D DRAM",
+        "doi": "10.1002/aelm.70575",
+        "possibility": "고온 수소 공정을 견디는 트랜지스터 재료는 D램을 입체적으로 쌓는 제조 방식의 후보가 될 수 있습니다. 작은 면적에 메모리를 더 담는 방향과 연결되는 재료 연구입니다.",
+        "demonstrated": "400~600℃ 수소 열처리를 비교했습니다. 비정질 ITGO 박막은 600℃에서 두께 변화가 1% 미만이었고, 이를 사용한 트랜지스터는 스위칭 특성을 유지했다고 보고했습니다.",
+        "remaining": "초록에서 확인한 것은 재료·트랜지스터의 내열성입니다. 완성된 3D D램의 용량·장기 신뢰성·양산 수율이나 상용 출시를 입증한 결과는 아닙니다.",
+        "stage": "실험실 검증",
+        "readScope": "초록",
+        "sourceUrl": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.70575",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    {
+      "id": "nel-hydrasun-20260910",
+      "technology": "pem",
+      "title": "Nel·Hydrasun, 유럽 PEM 시스템 조립·통합 협력",
+      "summary": "Hydrasun은 MC Series의 주변설비 조립·통합 역량을 구축하고, Nel은 미국에서 스택 생산을 이어가는 협력을 발표했습니다.",
+      "change": "성능 개선보다 모듈형 시스템의 공급·통합 역량 확대에 해당합니다.",
+      "limitation": "협약 단계입니다. 납품 실적·생산성 개선 수치는 별도로 확인해야 합니다.",
+      "company": "Nel · Hydrasun",
+      "stage": "협약 · 역량 구축",
+      "kind": "기업 적용",
+      "source": "Nel 공식 발표",
+      "url": "https://nelhydrogen.com/press-release/nel-asa-enters-framework-agreement-with-hydrasun-as-a-european-integration-partner-for-pem-electrolyser-solutions/",
+      "published": "2026-09-10",
+      "eventDate": "2026-09-10",
+      "metric": "MC Series 시스템 통합",
+      "importance": {
+        "stars": 0,
+        "reason": "시스템 조립·통합 협약이며 구체적인 새 납품·생산 규모·성능 결과가 없습니다. 협력 의사만 확인된 단계라 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://nelhydrogen.com/press-release/nel-asa-enters-framework-agreement-with-hydrasun-as-a-european-integration-partner-for-pem-electrolyser-solutions/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "enapter-drone-20260903",
+      "technology": "aem",
+      "title": "Enapter, 수소 드론용 이동식 AEM 수전해 파일럿 수주",
+      "summary": "미국 드론 제조사에 공급할 약 50만 유로 규모의 AEM 4.1 시리즈 주문을 발표했습니다. 태양광 기반 현장 수소 생산이 목적입니다.",
+      "change": "중앙 생산·운송 방식과 다른 현장 생산·이동식 보급 적용 사례입니다.",
+      "limitation": "파일럿 주문이며 납품은 2026년 4분기 예정입니다. 실제 운전과 성능 비교는 아직 확인하지 않았습니다.",
+      "company": "Enapter",
+      "stage": "파일럿 수주",
+      "kind": "기업 적용",
+      "source": "Enapter 공식 발표",
+      "url": "https://enapterag.de/wp-content/uploads/2026/09/Enapter-receives-pilot-order-from-a-US-drone-manufacturer.pdf",
+      "published": "2026-09-03",
+      "eventDate": "2026-09-03",
+      "metric": "주문 약 50만 EUR",
+      "importance": {
+        "stars": 1,
+        "reason": "수소 드론의 현장 보급을 위한 이동식 수전해 파일럿은 특정 활용처를 시험하는 사례입니다. 주문 단계이며 실제 운전과 비용·성능의 비교는 남아 있습니다.",
+        "sourceUrls": [
+          "https://enapterag.de/wp-content/uploads/2026/09/Enapter-receives-pilot-order-from-a-US-drone-manufacturer.pdf"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "ast-constellation-20260810",
+      "technology": "ntn",
+      "title": "AST SpaceMobile, 위성망 확대와 베타 서비스 준비 발표",
+      "summary": "회사 분기 발표에 따르면 BlueBird 8~13 발사 후 궤도 내 위성망이 13기로 늘었습니다. 일반 스마트폰 직접 연결 베타 서비스를 준비하고 있다고 설명합니다.",
+      "change": "단일 기술 시연에서 위성망 확대·통신사 연동 시험으로 개발 상황이 이어집니다.",
+      "limitation": "회사의 운영·준비 상황 발표입니다. 베타 준비와 전국 연속 상용 서비스는 다릅니다. 시험 최고 속도를 모든 사용자·지역의 속도로 일반화할 수 없습니다.",
+      "company": "AST SpaceMobile",
+      "stage": "위성망 확대 · 베타 준비",
+      "kind": "기업 적용",
+      "source": "AST SpaceMobile 분기 발표 · SEC 원문",
+      "url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526342540/asts-ex99_1.htm",
+      "published": "2026-08-10",
+      "eventDate": null,
+      "metric": "회사 제시 궤도 내 위성 13기",
+      "importance": {
+        "stars": 2,
+        "reason": "일반 스마트폰과 위성망을 연결하는 접근이 위성 확대·통신사 연동 준비로 이어져 이동통신 적용 가능성에 의미가 있습니다. 전국 연속 서비스나 실사용 속도 보장은 아닙니다.",
+        "sourceUrls": [
+          "https://www.sec.gov/Archives/edgar/data/1780312/000119312526342540/asts-ex99_1.htm"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "gemini-robotics2-20260730",
+      "technology": "vla",
+      "title": "Google DeepMind, 전신 제어용 Gemini Robotics 2 발표",
+      "summary": "시각·언어 입력을 동작으로 연결하는 VLA 모델과 추론 모델, 기기 내 실행 모델을 소개했습니다.",
+      "change": "기존 상체 작업에서 전신 움직임·정교한 조작·다중 로봇 협업으로 연구 범위를 확장했습니다.",
+      "limitation": "개발사의 과제별 평가·시연입니다. 여러 손가락 조작은 여전히 어려우며 VLA와 기기 내 실행 모델은 초기 접근 파트너 대상입니다. 일반 공장의 무인 운전을 입증하지 않습니다.",
+      "company": "Google DeepMind",
+      "stage": "연구 시연 · 제한적 제공",
+      "kind": "기술 개발",
+      "source": "Google DeepMind 공식 연구 소개",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published": "2026-07-30",
+      "eventDate": "2026-07-30",
+      "metric": "전신 제어·조작·협업 모델군",
+      "importance": {
+        "stars": 2,
+        "reason": "전신 제어·정교한 조작·다중 로봇 협업으로 범위를 넓힌 연구는 로봇 활용 작업을 확장할 가능성이 있습니다. 개발사 시연과 제한적 접근 단계로 일반 공장 무인 운전은 입증되지 않았습니다.",
+        "sourceUrls": [
+          "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "jiang-20260704-wsa1",
+      "technology": "vla",
+      "title": "3차원 세계를 함께 배우는 로봇, 낯선 작업에 적응하는 가능성",
+      "summary": "로봇이 화면 속 물체만 인식하는 데서 나아가, 움직인 뒤 3차원 세계가 어떻게 달라질지도 함께 배우면 새로운 작업에 적응하는 데 도움이 될 수 있습니다.",
+      "change": "연구팀은 시범 데이터 6,000시간(실제 로봇 1,000시간 포함)으로 학습해 RoboTwin2.0 모의환경 성공률 93%를 보고했습니다. 실제 로봇 비교에서도 개선을 보고했지만, 모의환경 수치를 현장 성공률로 읽으면 안 됩니다.",
+      "limitation": "프리프린트 초록 기준입니다. 시험하지 않은 작업·물체와 장시간 운전에서의 신뢰성, 실패 시 안전 대응은 별도 확인이 필요합니다. 모든 일을 하는 범용 로봇이 완성됐다는 뜻은 아닙니다.",
+      "company": "Jiahao Jiang·Jianing Zhang 등 연구팀",
+      "stage": "실험실 검증 · 프리프린트",
+      "kind": "논문",
+      "source": "arXiv · 원문 초록",
+      "url": "https://arxiv.org/abs/2607.03941",
+      "published": "2026-07-04",
+      "eventDate": null,
+      "metric": "모의환경 성공률 93% · 시범 데이터 6,000시간",
+      "importance": {
+        "stars": 2,
+        "reason": "3차원 세계 변화와 로봇 행동을 함께 학습해 적응력을 높이는 연구. 모의환경·일부 실제 작업의 보고이며 범용 현장 검증은 아님",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2607.03941"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "research": {
+        "originalTitle": "WSA1: a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control",
+        "doi": "10.48550/arXiv.2607.03941",
+        "possibility": "로봇이 화면 속 물체만 인식하는 데서 나아가, 움직인 뒤 3차원 세계가 어떻게 달라질지도 함께 배우면 새로운 작업에 적응하는 데 도움이 될 수 있습니다.",
+        "demonstrated": "연구팀은 시범 데이터 6,000시간(실제 로봇 1,000시간 포함)으로 학습해 RoboTwin2.0 모의환경 성공률 93%를 보고했습니다. 실제 로봇 비교에서도 개선을 보고했지만, 모의환경 수치를 현장 성공률로 읽으면 안 됩니다.",
+        "remaining": "프리프린트 초록 기준입니다. 시험하지 않은 작업·물체와 장시간 운전에서의 신뢰성, 실패 시 안전 대응은 별도 확인이 필요합니다. 모든 일을 하는 범용 로봇이 완성됐다는 뜻은 아닙니다.",
+        "stage": "실험실 검증",
+        "readScope": "초록",
+        "sourceUrl": "https://arxiv.org/abs/2607.03941",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    {
+      "id": "novartis-rapcel-20260601",
+      "technology": "car-t",
+      "title": "Novartis, 자가면역 질환 CAR-T 연구 발표 예고",
+      "summary": "Novartis는 EULAR 2026에서 rap-cel의 전신경화증·염증성 근육 질환 초기 분석과 난치성 루푸스 1/2상 연구 자료를 발표할 예정이라고 밝혔습니다.",
+      "change": "CAR-T 적용 연구가 암 외의 자가면역 질환으로 확장되는 개발 맥락을 보여줍니다.",
+      "limitation": "기업의 학회 발표 예고입니다. 공개형 초기 임상 자료와 치료 승인·효과 확정은 구분해야 합니다. 이 발표만으로 안전성이나 표준 치료 대비 우월성을 단정할 수 없습니다.",
+      "company": "Novartis",
+      "stage": "초기 임상 · 학회 발표 예고",
+      "kind": "기술 개발",
+      "source": "Novartis 공식 발표",
+      "url": "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases",
+      "published": "2026-06-01",
+      "eventDate": null,
+      "metric": "rap-cel · 난치성 루푸스 공개형 1/2상 연구",
+      "importance": {
+        "stars": 0,
+        "reason": "학회 발표 예고입니다. 이 자료 자체에 효과·안전성의 새 결과가 없어 기본 기술 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "samsung-hbm4e-20260529",
+      "technology": "hbm",
+      "title": "삼성전자, HBM4E 12단 샘플 출하",
+      "summary": "삼성전자는 주요 고객에게 48 GB HBM4E 12단 샘플을 출하했다고 발표했습니다.",
+      "change": "HBM4 양산 후 후속 HBM4E 샘플 단계로 개발 이력이 연결됩니다. 회사는 안정 핀 속도 14 Gbps와 스택 대역폭 최대 3.6 TB/s를 제시했습니다.",
+      "limitation": "샘플 출하를 양산 완료로 해석할 수 없습니다. 성능 수치는 회사 발표이며 비교 조건의 상세 검증이 필요합니다.",
+      "company": "삼성전자",
+      "stage": "샘플 출하",
+      "kind": "기술 개발",
+      "source": "삼성전자 공식 발표",
+      "url": "https://semiconductor.samsung.com/news-events/news/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples/",
+      "published": "2026-05-29",
+      "eventDate": "2026-05-29",
+      "metric": "12단 48 GB · 회사 제시 14 Gbps",
+      "importance": {
+        "stars": 2,
+        "reason": "HBM4E 12단 샘플 출하와 속도·대역폭이 구체적으로 제시돼 AI 메모리의 다음 개발 단계를 보여줍니다. 양산·독립 실측은 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://semiconductor.samsung.com/news-events/news/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "basf-pem-20260521",
+      "technology": "pem",
+      "title": "BASF, 화학단지에 54 MW PEM 수전해 통합",
+      "summary": "Siemens Energy는 BASF Ludwigshafen 현장의 72개 스택으로 구성된 54 MW 설비 운전 사례를 소개했습니다.",
+      "change": "개별 스택 기술에서 기존 화학단지 수소 공급망에 통합된 산업 사례로 연결됩니다.",
+      "limitation": "기업의 현장 소개입니다. 독립 검증된 시스템 효율·수명 비교 자료는 이 자료에 없습니다.",
+      "company": "BASF · Siemens Energy",
+      "stage": "현장 운전",
+      "kind": "기업 적용",
+      "source": "Siemens Energy 현장 소개",
+      "url": "https://www.siemens-energy.com/global/en/home/stories/chemical-industry-electrolyzer.html",
+      "published": "2026-05-21",
+      "eventDate": null,
+      "metric": "설비 54 MW · 스택 72개",
+      "importance": {
+        "stars": 2,
+        "reason": "54 MW PEM 수전해가 기존 화학단지 수소 공급망의 현장 운전으로 연결된 사례입니다. 산업 적용 규모에 의미가 있으며 시스템 효율·장기 수명 비교는 별도 확인해야 합니다.",
+        "sourceUrls": [
+          "https://www.siemens-energy.com/global/en/home/stories/chemical-industry-electrolyzer.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "topsoe-soec-20260518",
+      "technology": "soec",
+      "title": "Topsoe, SOEC 상용화·생산 확대 계획 조정",
+      "summary": "파트너십과 실증을 중심으로 SOEC 상용화 경로를 조정하고 미국 제2공장 계획을 진행하지 않겠다고 발표했습니다.",
+      "change": "기술 개발뿐 아니라 수요와 생산 확대 속도를 함께 봐야 한다는 사례입니다. 덴마크 공장은 상업 규모 생산 역량 입증 후 수요가 회복될 때까지 휴면 전환할 계획입니다.",
+      "limitation": "당시 발표한 계획입니다. 이후 실행 여부와 변경 사항은 후속 자료로 확인해야 합니다. 기술적 실패로 단정할 수 없습니다.",
+      "company": "Topsoe",
+      "stage": "사업·생산 계획 조정",
+      "kind": "기술 개발",
+      "source": "Topsoe 공식 공시",
+      "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated",
+      "published": "2026-05-18",
+      "eventDate": "2026-05-18",
+      "metric": "미국 제2공장 계획 중단",
+      "importance": {
+        "stars": 2,
+        "reason": "상업 규모 SOEC 생산 공장의 휴면 전환 계획은 수전해 공급 기반과 상용화 일정에 영향을 주는 구체적인 변경입니다. 기술 실패로 단정하지 않으며 후속 실행은 확인해야 합니다.",
+        "sourceUrls": [
+          "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "basf-tsr-recycling-20260415",
+      "technology": "recycling",
+      "title": "BASF·TSR, 폐전기차 배터리 재활용 협력",
+      "summary": "폐배터리의 해체·방전과 블랙매스 생산을 연결하는 유럽 재활용 협력을 발표했습니다. BASF는 Schwarzheide의 블랙매스 시설을 운영한다고 설명합니다.",
+      "change": "소재 회수 기술과 폐배터리 수거·전처리·물류망을 연결하는 산업 적용 사례입니다.",
+      "limitation": "협력 체계의 확대이며 회수율·순도·원가의 동일 조건 비교는 공개되지 않았습니다. 추가 금속 처리·물류 협력은 검토 단계입니다.",
+      "company": "BASF · TSR Group",
+      "stage": "협력 체계 · 기존 시설 운영",
+      "kind": "기업 적용",
+      "source": "BASF 공식 발표",
+      "url": "https://www.basf.com/global/en/media/news-releases/2026/04/p-26-056",
+      "published": "2026-04-15",
+      "eventDate": null,
+      "metric": "해체·방전 → 블랙매스 공급망",
+      "importance": {
+        "stars": 1,
+        "reason": "운영 중인 재활용 시설에 폐배터리 수거·전처리·물류를 연결하는 적용 체계입니다. 회수율·순도·원가의 새 개선 결과는 없어 1점입니다.",
+        "sourceUrls": [
+          "https://www.basf.com/global/en/media/news-releases/2026/04/p-26-056"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "shen-pem-20260227",
+      "technology": "pem",
+      "title": "CeO₂–IrO₂ 촉매로 저이리듐 PEM 양극의 부식 억제",
+      "summary": "Shen 등은 양성자·전자 전달의 시간적 분리를 이용한 촉매 설계를 제안하고, PEM 수전해에서 약 1,400시간 연속 운전 결과를 보고했습니다.",
+      "change": "촉매 사용량을 줄이는 문제와 내구성을 연결하고, 미세 반응 과정에 근거한 부식 억제 접근을 보여줍니다.",
+      "limitation": "논문의 시험 조건에서 얻은 연구 결과입니다. 상용 대형 스택의 수명이나 현장 적용을 확인한 자료는 아닙니다. 다른 논문과 비교할 때 면적·온도·촉매 로딩 조건을 함께 확인해야 합니다.",
+      "company": "Shen et al. 연구팀",
+      "stage": "논문 · 실험 검증",
+      "kind": "논문",
+      "source": "Nature Nanotechnology · 원문",
+      "url": "https://www.nature.com/articles/s41565-026-02136-x",
+      "published": "2026-02-27",
+      "eventDate": null,
+      "metric": "Ir 0.5 mg/cm² · 1 A/cm²에서 약 1,400 h",
+      "importance": {
+        "stars": 2,
+        "reason": "저이리듐 PEM 양극의 부식 억제를 재료·반응 과정과 연결해 실험한 연구입니다. 귀금속 사용량과 내구성이라는 핵심 제약을 다루지만 상용 스택 검증은 아닙니다.",
+        "sourceUrls": [
+          "https://www.nature.com/articles/s41565-026-02136-x"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "samsung-hbm4-20260212",
+      "technology": "hbm",
+      "title": "삼성전자, HBM4 양산·고객 출하 발표",
+      "summary": "삼성전자는 HBM4의 양산과 고객 대상 상용 제품 출하를 발표했습니다. 1c DRAM과 4 nm 로직 베이스 다이를 사용합니다.",
+      "change": "개발 소개를 넘어 양산·출하 단계의 자료가 확인됩니다. 회사는 핀 속도 11.7 Gbps를 제시했습니다.",
+      "limitation": "회사 발표 수치입니다. 동일 조건의 독립 비교나 고객별 시스템 성능을 확인한 자료는 아닙니다.",
+      "company": "삼성전자",
+      "stage": "양산 · 고객 출하",
+      "kind": "제품 출시",
+      "source": "삼성전자 반도체 공식 발표",
+      "url": "https://news.samsungsemiconductor.com/global/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/",
+      "published": "2026-02-12",
+      "eventDate": "2026-02-12",
+      "metric": "회사 제시 핀 속도 11.7 Gbps",
+      "importance": {
+        "stars": 2,
+        "reason": "HBM4가 양산·고객 출하로 진행된 구체적 단계 변화입니다. AI 메모리 공급에 의미가 있으나 고객별 물량과 독립 시스템 성능은 미확인입니다.",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "gphilos-wo2026010322",
+      "technology": "stack",
+      "title": "다중 수전해 스택의 저부하 운전 제어 특허 공개",
+      "summary": "부하와 스택별 최대 운전 전력, 운전 전압을 바탕으로 운전 대상과 우선순위를 정하는 방법을 설명합니다.",
+      "change": "스택을 개별 제어해 저부하 운전 품질을 개선하려는 설계 접근입니다.",
+      "limitation": "출원 공개입니다. 등록·제품 적용·개선 효과의 독립 검증은 확인하지 않았습니다.",
+      "company": "G PhilosCo",
+      "stage": "출원 공개",
+      "kind": "특허",
+      "source": "특허 원문 · Google Patents",
+      "url": "https://patents.google.com/patent/WO2026010322A1/en",
+      "published": "2026-01-08",
+      "eventDate": null,
+      "metric": "모듈별 운전 우선순위",
+      "patent": "WO2026010322A1",
+      "priority": "2024-07-02",
+      "importance": {
+        "stars": 1,
+        "reason": "여러 수전해 스택의 저부하 운전 제어라는 구체적 설계를 공개한 특허입니다. 출원 공개 단계이며 제품 적용·개선 효과는 검증되지 않았습니다.",
+        "sourceUrls": [
+          "https://patents.google.com/patent/WO2026010322A1/en"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "nvidia-rubin-20260105",
+      "technology": "accelerator",
+      "title": "NVIDIA, 6개 칩을 통합한 Rubin 플랫폼 발표",
+      "summary": "NVIDIA는 CPU·GPU·네트워크·스토리지 구성 요소를 함께 설계한 Rubin 플랫폼을 발표했습니다.",
+      "change": "단일 GPU 성능에서 시스템 공동 설계를 통한 추론 비용·메모리 연결성 개선으로 개발 방향이 확장됩니다.",
+      "limitation": "회사의 플랫폼 발표입니다. 파트너 제품은 2026년 하반기 공급 예정으로 소개됐으며 이 자료만으로 실제 고객 운전이나 모든 모델의 비용 개선을 확인할 수 없습니다.",
+      "company": "NVIDIA",
+      "stage": "플랫폼 발표 · 파트너 공급 예정",
+      "kind": "기술 개발",
+      "source": "NVIDIA 공식 발표",
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "published": "2026-01-05",
+      "eventDate": "2026-01-05",
+      "metric": "CPU·GPU 포함 6개 칩 공동 설계",
+      "importance": {
+        "stars": 2,
+        "reason": "GPU·CPU·네트워크를 통합하는 구체적인 플랫폼 설계는 AI 시스템과 관련 부품의 선택에 영향을 줍니다. 제품 발표 당시 실제 고객 운전은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "atlas-product-20260105",
+      "technology": "humanoid",
+      "title": "Boston Dynamics, Atlas 제품 버전 공개",
+      "summary": "Boston Dynamics는 CES 2026에서 산업용 Atlas 제품 버전을 공개했습니다.",
+      "change": "연구용 로봇 소개에서 산업 작업을 위한 제품·고객 적용 준비 단계로 이어집니다.",
+      "limitation": "제품 공개를 대규모 공장 운전 실적으로 간주할 수 없습니다. 작업별 생산성·가동률의 독립 비교 자료는 별도 확인해야 합니다.",
+      "company": "Boston Dynamics",
+      "stage": "제품 공개",
+      "kind": "제품 출시",
+      "source": "Boston Dynamics 공식 발표",
+      "url": "https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/",
+      "published": "2026-01-05",
+      "eventDate": "2026-01-05",
+      "metric": "산업용 휴머노이드 Atlas 제품 버전",
+      "importance": {
+        "stars": 2,
+        "reason": "산업 작업을 위한 휴머노이드 제품 버전 공개는 연구 시연에서 고객 적용 준비로의 진전입니다. 대규모 생산 운전·생산성 검증과는 구분해야 합니다.",
+        "sourceUrls": [
+          "https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "toyota-sumitomo-20251008",
+      "technology": "solid",
+      "title": "Toyota·Sumitomo, 전고체용 양극재 양산 협력",
+      "summary": "전고체 배터리에 사용할 양극재의 양산을 위한 공동개발 계약을 발표했습니다.",
+      "change": "셀 성능 연구에 더해 소재 공급과 양산 준비를 추적하는 사례입니다.",
+      "limitation": "공동개발 계약을 양산 완료로 해석할 수 없습니다. 상용 차량 적용은 별도 확인이 필요합니다.",
+      "company": "Toyota · Sumitomo Metal Mining",
+      "stage": "공동개발",
+      "kind": "기업 적용",
+      "source": "Toyota 공식 발표",
+      "url": "https://global.toyota/en/newsroom/corporate/43380876.html",
+      "published": "2025-10-08",
+      "eventDate": "2025-10-08",
+      "metric": "양극재 양산 공동개발",
+      "importance": {
+        "stars": 1,
+        "reason": "전고체 배터리용 양극재의 공동개발·공급 준비 대상이 구체적으로 제시됐습니다. 양산·차량 적용이 완료된 것은 아니라 현재 중요도는 1점입니다.",
+        "sourceUrls": [
+          "https://global.toyota/en/newsroom/corporate/43380876.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "basf-coolant-20250910",
+      "technology": "thermal",
+      "title": "BASF, 전기차용 저전도 냉각수 출시",
+      "summary": "배터리 안전성과 안정성을 위한 GLYSANTIN ELECTRIFIED 저전도 냉각수를 출시하고 중국 Pudong 생산을 소개했습니다.",
+      "change": "냉각 구조 외에 냉각수 전기전도도와 소재 적합성을 추적하는 사례입니다.",
+      "limitation": "제품 출시 자료입니다. 다른 제품과 같은 조건에서 비교한 성능은 별도 확인해야 합니다.",
+      "company": "BASF",
+      "stage": "제품 출시 · 생산",
+      "kind": "제품 출시",
+      "source": "BASF 공식 발표",
+      "url": "https://www.basf.com/global/en/media/news-releases/2025/09/p-25-179",
+      "published": "2025-09-10",
+      "eventDate": "2025-09-10",
+      "metric": "저전도 냉각수",
+      "importance": {
+        "stars": 1,
+        "reason": "전기차용 저전도 냉각수의 제품 출시·생산은 구체적인 소재 선택의 변화입니다. 경쟁 제품과의 동일 조건 성능 비교가 없어 1점입니다.",
+        "sourceUrls": [
+          "https://www.basf.com/global/en/media/news-releases/2025/09/p-25-179"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "bmw-thermal-20250221",
+      "technology": "thermal",
+      "title": "BMW, 800 V 구동계의 배터리 온도 제어 설명",
+      "summary": "Neue Klasse 소개에서 급속 충전 중 배터리 온도를 일정 범위로 유지하고 냉각과 가열을 함께 관리한다고 설명했습니다.",
+      "change": "열관리가 충전 속도·전비·주행거리와 연결되는 적용 맥락을 보여줍니다.",
+      "limitation": "열관리만의 개선 효과를 분리한 비교 수치가 아닙니다. 구동계 전체 성능을 열관리 효과로 단정하지 않습니다.",
+      "company": "BMW",
+      "stage": "기술 발표",
+      "kind": "기술 개발",
+      "source": "BMW 공식 발표",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0448099EN/charge-faster-drive-further:-bmw-group-reveals-revolutionary-electric-drive-concept-with-800v-technology-for-the-neue-klasse?language=en",
+      "published": "2025-02-21",
+      "eventDate": "2025-02-21",
+      "metric": "800 V 구동계 · 온도 제어",
+      "importance": {
+        "stars": 1,
+        "reason": "800 V 구동계의 배터리 온도 제어 방식을 설명한 구체적인 제품 기술 정보입니다. 열관리만의 성능 향상을 분리한 근거는 없어 1점입니다.",
+        "sourceUrls": [
+          "https://www.press.bmwgroup.com/global/article/detail/T0448099EN/charge-faster-drive-further:-bmw-group-reveals-revolutionary-electric-drive-concept-with-800v-technology-for-the-neue-klasse?language=en"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "oxfordpv-shipment-20240905",
+      "technology": "perovskite",
+      "title": "Oxford PV, 페로브스카이트 탠덤 모듈 첫 고객 출하",
+      "summary": "Oxford PV는 미국 고객에게 페로브스카이트·실리콘 탠덤 태양광 모듈을 처음 출하했다고 발표했습니다. 개발 이력을 위한 과거 자료입니다.",
+      "change": "실험실 효율 기록에서 고객 출하 단계로 연결됩니다. 회사는 판매 모듈 효율 24.5%를 제시했습니다.",
+      "limitation": "2024년의 출하 발표이며 오늘의 신규 사건이 아닙니다. 장기 실외 수명·고객 발전량·대규모 양산은 이 발표만으로 검증할 수 없습니다.",
+      "company": "Oxford PV",
+      "stage": "고객 출하",
+      "kind": "제품 출시",
+      "source": "Oxford PV 공식 발표",
+      "url": "https://www.oxfordpv.com/press-releases/oxford-pv-solar-technology-patent",
+      "published": "2024-09-05",
+      "eventDate": null,
+      "metric": "회사 제시 판매 모듈 효율 24.5%",
+      "importance": {
+        "stars": 2,
+        "reason": "페로브스카이트 탠덤 모듈의 첫 고객 출하는 실험실 기록에서 제품 공급으로 이어진 중요한 단계입니다. 장기 실외 수명·고객 발전량·대규모 양산은 별도 검증이 필요합니다.",
+        "sourceUrls": [
+          "https://www.oxfordpv.com/press-releases/oxford-pv-solar-technology-patent"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    }
+  ],
+  "industryUpdates": [
+    {
+      "id": "nvidia-20261011-reflection-talks-strategy",
+      "industry": "AI·소프트웨어",
+      "company": "NVIDIA",
+      "type": "strategy",
+      "title": "NVIDIA, Reflection AI 추가 투자·인수 논의 — 금액 미공개·일정 미확정",
+      "technologyName": null,
+      "technologyIds": [
+        "agent"
+      ],
+      "published": "2026-10-11",
+      "checkedAt": "2026-10-11",
+      "direction": "판단 보류",
+      "stage": "초기 논의 보도·계약 미확정",
+      "before": null,
+      "after": "NVIDIA가 미국 AI 스타트업 Reflection AI에 추가 투자하거나 인수하는 방안을 논의 중이라는 FT 보도를 Reuters가 전했습니다. 추가 거래 금액은 공개되지 않았고 계약도 확정되지 않았습니다.",
+      "facts": [
+        "투자 주체·대상: NVIDIA → 미국의 AI 소프트웨어 개발 스타트업 Reflection AI.",
+        "이번 거래 금액: 미공개. 보도에 나온 8억 달러는 NVIDIA의 기존 투자액이며 이번 추가 투자액이 아닙니다.",
+        "예상 일정: 보도는 몇 주 내 합의 가능성을 언급했지만 확정 기한·투자 집행일은 없습니다.",
+        "검토 방식: 추가 투자, 회사 인수 또는 인력 채용·기술 사용권 확보. 방식은 결정되지 않았습니다.",
+        "확정 여부: 초기 협의 단계. 논의가 무산될 수 있으며 Reuters는 독립 확인하지 못했습니다."
+      ],
+      "interpretation": "실제 자금 집행이나 기술 확보가 일어난 소식은 아닙니다. 거래 방식·금액·계약이 확인되기 전에는 산업의 새로운 변화로 보기 어렵습니다.",
+      "why": "NVIDIA의 AI 사업 확장 후보를 파악할 참고 소식입니다. 현재는 거래 조건과 실행 결과가 없어 핵심 기술 변화보다 우선해서 읽을 가치는 낮습니다.",
+      "next": "NVIDIA 또는 Reflection AI의 공식 계약 발표에서 거래 방식, 추가 금액, 확보 기술·인력과 실행 일정을 확인합니다.",
+      "limitations": [
+        "Reuters 재전재 본문으로 확인했으며 FT 원문 전체는 확인하지 못했습니다.",
+        "Reuters 보도 시점에 양사는 논평 요청에 답하지 않았고 Reuters는 FT 보도를 독립 확인하지 못했습니다.",
+        "추가 거래 금액·투자 집행일·계약 성사는 공개되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA의 Reflection AI 투자·인수 논의 보도 · Reuters",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+          "published": "2026-10-11",
+          "kind": "언론 보도"
+        },
+        {
+          "title": "Reuters 재전재 본문 · 기존 투자액과 협의 일정",
+          "url": "https://kwsn.com/2026/10/10/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports/",
+          "published": "2026-10-11",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "NVIDIA, Reflection AI 추가 투자·인수 논의 — 금액 미공개·일정 미확정",
+        "narrative": "NVIDIA가 Reflection AI에 돈을 더 투자하거나 회사를 인수할 가능성을 논의 중이라는 보도입니다. 추가 투자 금액과 실행 일정은 공개되지 않았습니다. 아직 계약이나 자금 집행이 확인된 단계가 아니어서 참고 소식으로 분류했습니다."
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "방식·조건·성사 여부가 불확실합니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/"
+        ]
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "추가 거래 금액·조건·실행 일정과 계약이 확인되지 않은 초기 논의입니다. 현재 새로 확보된 기술이나 생산·공급 변화가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+          "https://kwsn.com/2026/10/10/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "intel-20261009-tdx-strategy",
+      "industry": "반도체",
+      "company": "Intel",
+      "type": "strategy",
+      "title": "기밀 컴퓨팅 로드맵을 SGX에서 TDX 중심으로 전환",
+      "technologyName": null,
+      "technologyIds": [
+        "confidential"
+      ],
+      "published": "2026-10-09",
+      "checkedAt": "2026-10-10",
+      "direction": "방향 전환",
+      "stage": "제품 로드맵 발표",
+      "before": null,
+      "after": "Diamond Rapids를 SGX 포함 마지막 Xeon 플랫폼으로 정하고 TDX 중심 개발을 추진한다고 밝혔습니다.",
+      "facts": [
+        "SGX 플랫폼 지원과 보안 업데이트를 2030년대 초반까지 유지할 계획입니다.",
+        "TDX Connect·양자 내성 암호·증명 기능 강화를 투자 범위로 제시합니다."
+      ],
+      "interpretation": "기밀 컴퓨팅 기능을 즉시 폐지하는 것이 아니라 가상머신 격리 중심으로 장기 플랫폼을 바꾸는 방향으로 해석합니다.",
+      "why": "SGX 기반 서비스의 플랫폼 선택과 마이그레이션 일정에 영향을 줍니다.",
+      "next": "제품별 지원 일정과 TDX 전환 검증·호환성을 확인해야 합니다.",
+      "limitations": [
+        "발표일은 Intel 공식 뉴스룸의 10월 9일 표시를 따릅니다.",
+        "TDX가 모든 보안 위협을 해결하거나 기존 SGX 서비스가 즉시 중단된다는 의미가 아닙니다."
+      ],
+      "sources": [
+        {
+          "title": "Confidential Computing - Growing Momentum, Sharpened Focus",
+          "url": "https://www.intel.com/content/www/us/en/newsroom/opinion/confidential-computing-growing-momentum-sharpened-focus.html",
+          "published": "2026-10-09",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "SGX에서 TDX로의 개발 중심 전환은 기밀 컴퓨팅 서비스의 플랫폼 선택과 이전 계획에 영향을 줍니다. 로드맵 변경으로 실무 파급력이 크지만 보안 성능 전체의 개선을 입증한 것은 아닙니다.",
+        "sourceUrls": [
+          "https://www.intel.com/content/www/us/en/newsroom/opinion/confidential-computing-growing-momentum-sharpened-focus.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "TDX로 개발 자원을 모아 가상머신 기반 기밀 컴퓨팅 제품의 방향을 명확히 합니다. 기존 SGX 고객의 전환 부담은 남으며 보안 성능 향상 자체를 입증한 발표는 아닙니다.",
+        "sourceUrls": [
+          "https://www.intel.com/content/www/us/en/newsroom/opinion/confidential-computing-growing-momentum-sharpened-focus.html"
+        ]
+      }
+    },
+    {
+      "id": "spacex-20261009-lowband-mobile-strategy",
+      "industry": "우주·통신",
+      "company": "SpaceX",
+      "type": "strategy",
+      "title": "800 MHz 주파수 확보를 통한 지상·위성 이동통신 확대 계획",
+      "technologyName": null,
+      "technologyIds": [
+        "ntn"
+      ],
+      "published": "2026-10-09",
+      "checkedAt": "2026-10-11",
+      "direction": "투자 확대",
+      "stage": "언론 보도·FCC 거래 승인 대기",
+      "before": null,
+      "after": "The Verge는 승인 후 지상·위성망 결합 계획을 보도했습니다.",
+      "facts": [
+        "800 MHz 대역의 최대 14 MHz가 대상입니다.",
+        "거래에는 FCC 승인이 필요합니다."
+      ],
+      "interpretation": "해석: 통신 사업 확대 기회지만 승인과 망 구축이 조건입니다.",
+      "why": "서비스 완료가 아닙니다.",
+      "next": "승인·구축 결과를 확인합니다.",
+      "limitations": [
+        "기업 계획을 인용한 보도이며 독립 검증은 없습니다.",
+        "원문 10/8 21:23 UTC(한국 10/9) 공개입니다."
+      ],
+      "sources": [
+        {
+          "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+          "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+          "published": "2026-10-09",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "800 MHz·최대 14 MHz 확보 계획",
+        "narrative": "SpaceX의 이동통신 확대 계획입니다. 승인과 구축은 남았습니다."
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "확보하려는 주파수는 지상·위성 이동통신의 서비스 범위를 넓히는 방향이어서 호재로 평가합니다. 승인·망 구축·비용과 실제 서비스 가동은 아직 남아 있습니다.",
+        "sourceUrls": [
+          "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+        ]
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "주파수 확보와 지상·위성망 결합은 이동통신 서비스 구성에 영향을 줄 수 있는 기반 변화입니다. 실제 서비스 범위·성능·상용화는 계획과 구분해야 합니다.",
+        "sourceUrls": [
+          "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "amat-ucla-20261008-epic-strategy",
+      "industry": "반도체",
+      "company": "Applied Materials",
+      "type": "strategy",
+      "title": "EPIC 연구 협력에 UCLA를 추가해 대학 연구와 제조 공정 검증 연결",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "연구 협력 발표",
+      "before": null,
+      "after": "UCLA Samueli가 EPIC Center 연구 파트너로 참여한다고 발표했습니다.",
+      "facts": [
+        "3D 칩 확장·첨단 패키징·AI 연산의 에너지 효율을 위한 소재를 연구 범위로 제시했습니다.",
+        "UCLA 연구진의 첨단 장비 접근과 상업용 팹 환경 검증을 계획합니다.",
+        "센터는 2026년 가동을 목표로 한다고 밝혔습니다."
+      ],
+      "interpretation": "장비 기업·고객에 대학 연구를 연결해 상용화 경로를 강화하는 방향으로 해석합니다.",
+      "why": "아이디어 수준의 연구를 공정 통합과 제조 조건에서 시험할 기회를 늘립니다.",
+      "next": "센터 실제 가동과 구체적인 공동 연구 결과를 확인해야 합니다.",
+      "limitations": [
+        "협력 발표이며 수율·성능 개선이나 양산 성과를 입증하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials and UCLA Engineering Accelerate Semiconductor Innovation at the EPIC Center",
+          "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-ucla-engineering-accelerate-semiconductor/",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "연구 파트너 추가 발표이며 새 공정·검증 결과·투자 규모가 제시되지 않았습니다. 현재 읽을 구체적인 기술 변화가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-ucla-engineering-accelerate-semiconductor/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "연구 파트너 추가만 확인됩니다. 검증할 공정, 개발 결과, 양산 이전 일정이 없어 기술·사업 효과를 판단할 실질 근거가 부족합니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-ucla-engineering-accelerate-semiconductor/"
+        ]
+      }
+    },
+    {
+      "id": "asml-20261008-hyperna-technology",
+      "industry": "반도체",
+      "company": "ASML",
+      "type": "technology",
+      "title": "Hyper NA 차세대 노광 구상 보도",
+      "technologyName": "차세대 극자외선 노광",
+      "technologyIds": [
+        "euv"
+      ],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-11",
+      "direction": "판단 보류",
+      "stage": "설계 구상·개발 보도",
+      "before": null,
+      "after": "Reuters가 차세대 노광 구상을 보도했습니다.",
+      "facts": [
+        "ASML·Zeiss 연구진의 약 10년 전망입니다.",
+        "ASML은 생산을 확약하지 않았습니다."
+      ],
+      "interpretation": "장기 개발 가능성의 신호입니다.",
+      "why": "계획과 실행 결과를 구분해야 합니다.",
+      "next": "후속 발표와 실행 결과를 확인합니다.",
+      "limitations": [
+        "논문 본문은 확인하지 못했습니다.",
+        "장비 실물 시험 결과가 아닙니다."
+      ],
+      "sources": [
+        {
+          "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years",
+          "url": "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/",
+          "published": "2026-10-08",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "차세대 노광 구상 · 생산 미확정",
+        "narrative": "10월 8일 보도입니다. 개발 구상과 생산 확약은 구분됩니다."
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "개발 비용·실현성·수요가 불확실합니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/"
+        ]
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "약 10년 뒤를 내다보는 차세대 노광 설계 구상입니다. 방향을 추적할 정보는 있으나 실물 시험·생산 확약이 없어 현재 중요도는 1점입니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "basf-20261008-glythermin-technology",
+      "industry": "소재·화학",
+      "company": "BASF",
+      "type": "technology",
+      "title": "데이터센터용 냉각수에서 NVIDIA PG25 요구 충족을 발표",
+      "technologyName": "GLYTHERMIN DC PG25 단상 액체 냉각수",
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "제품 제공·플랫폼 냉각수 요건 충족 발표",
+      "before": null,
+      "after": "BASF는 GLYTHERMIN DC PG25가 NVIDIA DSX Ready Coolant에 해당하며 PG25 요구를 충족한다고 발표했다.",
+      "facts": [
+        "적용 범위는 2차 회로의 단상 콜드플레이트 냉각이다.",
+        "기본 회로용 제품과 직접 액체 냉각용 제품을 구분해 제공한다."
+      ],
+      "interpretation": "AI 인프라에서 냉각수 조성과 부식 관리가 플랫폼 적합성의 일부가 되고 있다.",
+      "why": "화학 소재 기업의 AI 인프라 진입 경로와 냉각 설계의 소재 요구를 추적할 수 있다.",
+      "next": "실제 고객 적용, 사용 조건별 부식·수명·압력손실과 교체 주기를 확인한다.",
+      "limitations": [
+        "회사 발표이며 독립적인 경쟁 제품 비교는 아니다.",
+        "요건 충족이 특정 데이터센터의 설치·운영 완료를 뜻하지 않는다.",
+        "배터리 열관리 분류에 해당하지 않아 기존 세부 기술 ID를 임의로 붙이지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "BASF 데이터센터용 GLYTHERMIN 냉각수 발표",
+          "url": "https://www.basf.com/global/en/media/news-releases/2026/10/p-26-162",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "데이터센터 냉각수의 규격 적합성 확인으로 소재 선택에 참고할 소식입니다. 새로운 냉각 원리나 경쟁 제품 대비 성능 개선을 보여준 발표는 아닙니다.",
+        "sourceUrls": [
+          "https://www.basf.com/global/en/media/news-releases/2026/10/p-26-162"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "PG25 요구 충족은 AI 데이터센터 냉각수 공급 후보로 진입할 근거입니다. 실제 고객 채택·설치 물량과 경쟁 제품 대비 성능은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://www.basf.com/global/en/media/news-releases/2026/10/p-26-162"
+        ]
+      }
+    },
+    {
+      "id": "blueorigin-20261008-constellation-strategy",
+      "industry": "우주·통신",
+      "company": "Blue Origin",
+      "type": "strategy",
+      "title": "텍사스 제조 캠퍼스로 위성·통신 장비 생산 기반 확대 계획",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-10",
+      "direction": "투자 확대",
+      "stage": "시설 확대 계획",
+      "before": null,
+      "after": "Hutto에 Constellation Park 제조 캠퍼스를 조성한다고 발표했습니다.",
+      "facts": [
+        "약 130만 제곱피트 규모를 제시했습니다.",
+        "TeraWave·Quartz 통신망 및 위성 하위시스템 제조를 지원할 계획입니다.",
+        "향후 10년간 2,000개 이상 일자리 추가를 목표로 합니다."
+      ],
+      "interpretation": "발사체 외에 위성 통신과 관련 제조 기반도 확대하려는 방향으로 해석합니다.",
+      "why": "위성망 구축에는 발사 능력과 함께 위성·지상 통신 장비 공급이 필요합니다.",
+      "next": "시설 착공·가동 일정과 실제 생산량·고용 증가를 확인해야 합니다.",
+      "limitations": [
+        "총 투자 집행액과 가동 완료 여부는 이 원문만으로 확인할 수 없습니다.",
+        "통신망의 목표 속도를 운용 중 실측 성능으로 표시하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Blue Origin Announces Constellation Park: New Texas Manufacturing Campus and 2,000 Advanced Jobs",
+          "url": "https://www.blueorigin.com/news/blue-origin-announces-new-texas-manufacturing-campus",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "위성과 지상 통신 장비의 생산 기반 확대는 위성망 구축의 공급 여건을 바꿀 수 있습니다. 제조시설 계획이며 실제 가동과 통신망 운용 성과는 남아 있습니다.",
+        "sourceUrls": [
+          "https://www.blueorigin.com/news/blue-origin-announces-new-texas-manufacturing-campus"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "위성·통신 장비를 생산할 구체적인 제조 거점을 확보하는 계획은 공급 기반 확대에 유리합니다. 가동 완료·투자 집행과 생산량은 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://www.blueorigin.com/news/blue-origin-announces-new-texas-manufacturing-campus"
+        ]
+      }
+    },
+    {
+      "id": "enevo-20261008-sentryot-technology",
+      "industry": "에너지",
+      "company": "Enevo",
+      "type": "technology",
+      "title": "발전·저장 설비의 제어망 이상 감지 플랫폼 운영 설명",
+      "technologyName": "에너지 설비 제어망 감시",
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-11",
+      "direction": "제품 집중",
+      "stage": "언론 인터뷰·시연·기업 운영 주장",
+      "before": null,
+      "after": "pv magazine은 SentryOT의 장비 목록 관리와 제어망 이상 감지 기능을 취재했습니다.",
+      "facts": [
+        "회사는 2025년 상반기 공개한 플랫폼을 기자에게 시연했습니다.",
+        "담당자는 OmniSOC 감시 체계에 약 100개 에너지 설비가 연결돼 있다고 말했습니다."
+      ],
+      "interpretation": "해석: 발전·저장 설비의 제어를 이해하는 감시 서비스 방향입니다. 독립 방어 성능은 확인되지 않았습니다.",
+      "why": "이상 알림은 작업자의 판단을 돕는 기능이며 공격 차단 성공률이 아닙니다.",
+      "next": "실제 사고 대응·오탐률·운영 비용을 확인해야 합니다.",
+      "limitations": [
+        "설비 수는 기업 인터뷰의 주장입니다.",
+        "2026년 신제품 출시가 아니라 기존 플랫폼의 후속 취재입니다."
+      ],
+      "sources": [
+        {
+          "title": "An energy-first cybersecurity platform for solar, storage and the grid",
+          "url": "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/",
+          "published": "2026-10-08",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "발전·저장 설비 제어망 감시 현황 취재",
+        "narrative": "10월 8일 pv magazine은 Enevo의 SentryOT를 취재했습니다. 장비 상태와 통신 흐름의 이상을 알리고 작업자가 대응 여부를 판단하는 방식입니다. 약 100개 설비 연결은 담당자 주장으로 남겼습니다. 새 출시나 독립 공격 방어 시험으로 해석하지 않았습니다.",
+        "impact": {
+          "text": "기사 속 기업 설명은 장비 상태와 제어 명령 흐름을 함께 살펴 이상 원인을 더 빨리 파악하려는 것입니다.",
+          "status": "목표",
+          "sourceUrl": "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/"
+        }
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "운영 설비 수는 기업 주장입니다. 고객 계약·수익성·독립 방어 성능이 없어 사업 영향의 방향은 미지수입니다.",
+        "sourceUrls": [
+          "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/"
+        ]
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "기존 플랫폼의 기능과 기업 운영 주장을 소개한 후속 인터뷰입니다. 새 제품·새 검증 결과·새 도입이 확인되지 않아 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "intel-20261008-sandbox-technology",
+      "industry": "AI·소프트웨어",
+      "company": "Intel",
+      "type": "technology",
+      "title": "Xeon의 에이전트 샌드박스 생성 동시성 평가 공개",
+      "technologyName": "에이전트 실행 환경",
+      "technologyIds": [
+        "agent",
+        "cloud"
+      ],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "기업 벤치마크 공개",
+      "before": null,
+      "after": "CubeSandbox 생성·삭제 평가에서 평균 생성 지연 200ms를 기준으로 플랫폼별 동시성을 비교했습니다.",
+      "facts": [
+        "6990E+·6980P·EPYC 9965의 기준 교차 동시성은 각각 약 313·277·246이라고 보고했습니다.",
+        "2026년 9월 시험, 단일 노드·메모리 768GB·샌드박스 2CPU와 약 2GiB 조건입니다."
+      ],
+      "interpretation": "에이전트 인프라에서 모델 추론 외에 실행 환경 준비도 처리량의 병목이 될 수 있다는 의미로 해석합니다.",
+      "why": "실행 환경 생성 성능은 실제 작업 응답시간과 전체 동시 처리량에 영향을 줍니다.",
+      "next": "동일 시스템 조건의 독립 재현과 전체 에이전트 작업 성능을 확인해야 합니다.",
+      "limitations": [
+        "기업 자체 시험이며 CPU 코어수·전력·메모리 속도 등 시스템 조건이 서로 다릅니다.",
+        "평균 지연 기준으로 모든 작업의 지연·안전성·CPU 성능 우위를 일반화하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Scaling Sandboxed Agentic AI on Xeon CPUs",
+          "url": "https://www.intel.com/content/www/us/en/newsroom/news/data-center/scaling-sandboxed-agentic-ai-xeon-6.html",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "에이전트 실행 환경의 생성 동시성을 비교한 자료로 시스템 선택에 참고할 수 있습니다. 비교 플랫폼의 조건이 달라 산업 전반의 CPU 우위로 확대하기 어렵습니다.",
+        "sourceUrls": [
+          "https://www.intel.com/content/www/us/en/newsroom/news/data-center/scaling-sandboxed-agentic-ai-xeon-6.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "샌드박스 생성 동시성이라는 실제 사용 지표를 제시했지만 시스템별 코어·전력·메모리 조건이 다릅니다. Xeon의 성능 우위나 고객 채택 확대를 이 비교만으로 판단하기 어렵습니다.",
+        "sourceUrls": [
+          "https://www.intel.com/content/www/us/en/newsroom/news/data-center/scaling-sandboxed-agentic-ai-xeon-6.html"
+        ]
+      }
+    },
+    {
+      "id": "nvidia-20261008-us-science-commitment-strategy",
+      "industry": "반도체",
+      "company": "NVIDIA",
+      "type": "strategy",
+      "title": "미국 과학 연구·양자컴퓨팅에 5년간 10억 달러 가치의 지원 약정",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "지원·투자 약정 발표",
+      "before": null,
+      "after": "향후 5년간 대학 연구기관, 양자컴퓨팅, 정부 임무를 지원하는 클라우드 기반 등에 총 10억 달러 가치의 지원을 약정했다.",
+      "facts": [
+        "10월 8일 미국 과학 연구 역량 확충을 위한 약정을 발표했다.",
+        "양자컴퓨팅·보건의료·에너지 안보를 대상 분야로 제시했다."
+      ],
+      "interpretation": "과학 연구용 연산 자원과 협력 기반을 확대해 가속 컴퓨팅의 활용처를 키우려는 방향이다.",
+      "why": "GPU 판매 외의 연구 인프라·공동개발 수요를 추적할 수 있다.",
+      "next": "연도별 집행, 현금과 연산 자원 지원의 구성, 수혜기관 및 프로젝트 운영을 확인한다.",
+      "limitations": [
+        "10억 달러는 약정 가치이며 이미 집행한 현금 설비투자액이 아니다.",
+        "구체적인 배분과 연구 성과는 확인되지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA 미국 과학 연구 지원 약정 발표",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "5년간 10억 달러 가치의 지원 약정은 연구기관의 연산 자원과 공동개발 여건에 영향을 줄 규모입니다. 이미 집행된 투자나 새로운 과학 성과를 뜻하지 않습니다.",
+        "sourceUrls": [
+          "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "기간과 지원 규모를 정한 연구 인프라 약정은 GPU·양자컴퓨팅 생태계의 사용 기반을 넓히는 방향입니다. 약정 가치를 현금 집행액이나 확정 매출로 볼 수는 없습니다.",
+        "sourceUrls": [
+          "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years"
+        ]
+      }
+    },
+    {
+      "id": "siemens-20261008-cre8ventures-factoryone-strategy",
+      "industry": "로봇·제조",
+      "company": "Siemens",
+      "type": "strategy",
+      "title": "Cre8Ventures를 산업 문제 중심의 협력 플랫폼으로 확대",
+      "technologyName": null,
+      "technologyIds": [
+        "digital-twin"
+      ],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-11",
+      "direction": "방향 전환",
+      "stage": "협력 구상·참여 조직 모집",
+      "before": null,
+      "after": "로봇 분야 Factory-One을 첫 대상으로, 고객 문제와 기술·투자 조직을 연결하는 구상을 발표했습니다.",
+      "facts": [
+        "Cre8Ventures의 다음 단계를 산업 문제 중심 플랫폼으로 설명했습니다.",
+        "디지털 트윈에서 검토한 뒤 물리적 검증으로 이어가는 구상입니다."
+      ],
+      "interpretation": "해석: 개별 기술 소개에서 고객이 풀려는 문제 중심으로 협력을 묶으려는 방향입니다.",
+      "why": "가상 검증과 실제 공장 효과를 분리해서 추적해야 합니다.",
+      "next": "참여 고객·구체적 과제·물리적 검증 결과를 확인해야 합니다.",
+      "limitations": [
+        "공장 성능 개선이나 매출 효과를 입증한 결과는 없습니다."
+      ],
+      "sources": [
+        {
+          "title": "From Technology to Mission: Siemens Cre8Ventures Enters Its Next Phase",
+          "url": "https://blogs.sw.siemens.com/cre8ventures/2026/10/08/from-technology-to-mission-siemens-cre8ventures-enters-its-next-phase/",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "산업 문제 중심 협력 확대 · Factory-One 모집",
+        "narrative": "10월 8일 Siemens는 Cre8Ventures의 협력을 고객의 산업 문제를 중심으로 묶겠다고 설명했습니다. 첫 대상은 로봇이며, 디지털 트윈에서 기술 조합을 검토한 뒤 실제 검증으로 이어가는 구상입니다. 상용 효과가 입증된 단계는 아닙니다. 구체적인 고객과 검증 과제가 다음 확인점입니다.",
+        "impact": {
+          "text": "회사는 가상 검토로 기술을 일찍 평가하고 실제 산업 검증까지의 과정을 줄이려 합니다.",
+          "status": "목표",
+          "sourceUrl": "https://blogs.sw.siemens.com/cre8ventures/2026/10/08/from-technology-to-mission-siemens-cre8ventures-enters-its-next-phase/"
+        }
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "고객 문제와 기술을 연결하는 구상이지만 구체적 계약·검증 성과·비용이 없어 사업 영향의 방향을 확정하기 어렵습니다.",
+        "sourceUrls": [
+          "https://blogs.sw.siemens.com/cre8ventures/2026/10/08/from-technology-to-mission-siemens-cre8ventures-enters-its-next-phase/"
+        ]
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "협력 구상과 참여 조직 모집이 중심입니다. 구체적 적용·계약·성능 결과가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://blogs.sw.siemens.com/cre8ventures/2026/10/08/from-technology-to-mission-siemens-cre8ventures-enters-its-next-phase/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "toyota-faw-gac-20261008-alliance-strategy",
+      "industry": "자동차·모빌리티",
+      "company": "Toyota",
+      "type": "strategy",
+      "title": "중국 두 합작사의 개발·조달·생산·판매를 연결하는 제휴로 재편",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-09",
+      "direction": "방향 전환",
+      "stage": "기본협약 체결·거래 및 기능 통합 예정",
+      "before": null,
+      "after": "GAC가 FAW 보유 FAW Toyota 지분 50%를 주식 발행으로 취득하고, 이후 두 합작사의 기능을 연결하는 제휴를 추진한다.",
+      "facts": [
+        "10월 8일 세 회사가 전략적 제휴 기본협약에 서명했다.",
+        "거래 완료 후에도 FAW Toyota는 독립 법인으로 운영할 예정이다.",
+        "두 합작사의 전동화·지능화 개발 가속을 목표로 제시했다."
+      ],
+      "interpretation": "중국 사업의 철수보다는 합작사 자원과 개발 기능을 연결해 경쟁력을 높이려는 방향으로 해석된다.",
+      "why": "생산 거점뿐 아니라 합작 지배구조와 조달·개발 체계 변화가 부품사 및 개발 직무에 영향을 줄 수 있다.",
+      "next": "지분 거래 완료, 필요한 절차, 기능별 통합 일정과 실제 공동 제품을 확인한다.",
+      "limitations": [
+        "기본협약이며 거래·조직 통합 완료를 확인한 자료가 아니다.",
+        "투자 금액·원가 절감·인원 변동은 공개되지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "Toyota·FAW·GAC 전략적 제휴 기본협약",
+          "url": "https://global.toyota/en/newsroom/corporate/44911427.html",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "합작사 지배구조·조달·판매 조직 재편에 관한 기본협약입니다. 이 항목에 새 차량 기술·공정·실제 생산 적용의 변화가 없어 기술 동향에서 제외합니다.",
+        "sourceUrls": [
+          "https://global.toyota/en/newsroom/corporate/44911427.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "합작사 기능 통합은 운영 재편입니다. 차량 기술 성능·개발 결과가 제시되지 않아 기술 변화로 평가할 근거가 없습니다.",
+        "sourceUrls": [
+          "https://global.toyota/en/newsroom/corporate/44911427.html"
+        ]
+      }
+    },
+    {
+      "id": "yaskawa-20261008-nso-technology",
+      "industry": "로봇·제조",
+      "company": "Yaskawa",
+      "type": "technology",
+      "title": "안전 신호를 제어망으로 전달하는 NSO 카드 발표",
+      "technologyName": "산업 장비 네트워크 안전 제어",
+      "technologyIds": [],
+      "published": "2026-10-08",
+      "checkedAt": "2026-10-11",
+      "direction": "제품 집중",
+      "stage": "제품 발표·2026년 8월 31일 주문 시작",
+      "before": null,
+      "after": "NSO는 EtherNet/IP 망의 CIP Safety 방식으로 모터 정지·재시동 방지 안전 기능을 제공합니다.",
+      "facts": [
+        "모델은 JOHB-NSC3-MA입니다.",
+        "STO와 시간 제어 정지 SS1-t를 지원합니다.",
+        "호환 AC 드라이브에 추가 설치할 수 있으며 주문은 8월 31일 시작했다고 밝혔습니다."
+      ],
+      "interpretation": "해석: 기존 장비의 안전 배선을 줄이고 기능을 추가할 판매 기회입니다. 실제 절감 효과는 현장 조건에 달려 있습니다.",
+      "why": "발표일과 주문 시작일이 다르며 판매량·현장 결과는 공개되지 않았습니다.",
+      "next": "호환 장비·현장 설치 결과·비용 비교를 확인해야 합니다.",
+      "limitations": [
+        "설치비 절감은 기업 설명이며 비교 수치가 없습니다."
+      ],
+      "sources": [
+        {
+          "title": "Yaskawa Launches Network Safety Option Card (NSO) for AC Drives– Enhancing Functional Safety Integration through EtherNet/IP Networks –",
+          "url": "https://www.yaskawa-global.com/newsrelease/product/180236",
+          "published": "2026-10-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "모터 안전 제어용 NSO 카드 발표 · 8월 31일 주문 시작",
+        "narrative": "10월 8일 Yaskawa는 NSO를 소개했습니다. 회사는 별도 안전 배선을 줄일 수 있다고 설명하지만 실제 비용 비교는 없습니다. 주문은 8월 31일 시작했습니다.",
+        "impact": {
+          "text": "회사는 안전 신호를 기존 제어망으로 전달해 별도 배선과 외부 안전 릴레이를 줄이려 합니다.",
+          "status": "목표",
+          "sourceUrl": "https://www.yaskawa-global.com/newsrelease/product/180236"
+        }
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "기존 장비에 네트워크 안전 제어를 더하는 제품입니다. 산업 전체의 획기적 성능 진전이나 독립 현장 검증은 아닙니다.",
+        "sourceUrls": [
+          "https://www.yaskawa-global.com/newsrelease/product/180236"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "호환 기존 장비에 추가 설치할 수 있어 제품 판매 접점을 넓힐 근거가 있습니다. 판매량과 비용 절감 실적은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://www.yaskawa-global.com/newsrelease/product/180236"
+        ]
+      }
+    },
+    {
+      "id": "anthropic-20261007-haiku55-technology",
+      "industry": "AI·소프트웨어",
+      "company": "Anthropic",
+      "type": "technology",
+      "title": "Haiku 5.5 출시로 소형 모델에도 추론 노력 조절 기능 제공",
+      "technologyName": "소형 AI 모델",
+      "technologyIds": [
+        "small-model",
+        "reasoning"
+      ],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "제품 출시",
+      "before": null,
+      "after": "Haiku 5.5를 Claude 및 클라우드 플랫폼에서 제공하고 추론 노력 설정을 지원합니다.",
+      "facts": [
+        "Haiku 계열에서 처음으로 추론 노력 조절 설정을 지원합니다.",
+        "반복·대량 처리와 상위 모델의 보조 작업을 주요 사용처로 제시합니다.",
+        "공식 가격표는 10만 토큰 이하 프롬프트의 입력·출력 가격을 각각 100만 토큰당 0.10·0.50달러로 제시합니다."
+      ],
+      "interpretation": "소형 모델의 처리 비용과 작업 배분을 함께 개선하려는 제품 방향으로 해석합니다.",
+      "why": "대량 분류·요약·에이전트 보조 작업의 모델 선택에 영향을 줍니다.",
+      "next": "실제 업무별 정확도·지연·긴 문맥 가격을 같은 조건에서 비교해야 합니다.",
+      "limitations": [
+        "성능 자료는 기업 평가와 초기 고객 사례이며 독립적인 재현 결과가 아닙니다.",
+        "10만 토큰 초과 입력에는 다른 가격이 적용됩니다."
+      ],
+      "sources": [
+        {
+          "title": "Introducing Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5",
+          "published": "2026-10-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "소형 모델의 추론 노력 조절과 비용 구조는 대량 분류·요약·에이전트의 작업 배분에 영향을 줍니다. 여러 서비스에서 활용할 가능성이 있지만 성능은 업무별로 검증해야 합니다.",
+        "sourceUrls": [
+          "https://www.anthropic.com/claude-haiku-5-5"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "출시된 소형 모델에 추론 노력 조절을 더해 작업별 속도·비용 선택지를 넓혔습니다. 독립 성능 비교와 고객의 실제 비용 절감은 별도로 확인해야 합니다.",
+        "sourceUrls": [
+          "https://www.anthropic.com/claude-haiku-5-5"
+        ]
+      }
+    },
+    {
+      "id": "google-android-20261007-aiseal-technology",
+      "industry": "AI·소프트웨어",
+      "company": "Google",
+      "type": "technology",
+      "title": "온디바이스 AI용 개인 정보 저장을 보호 VM으로 분리",
+      "technologyName": "Android AISeal 보호 가상머신",
+      "technologyIds": [
+        "confidential"
+      ],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "보호 저장 구조 배포 진행·추론 통합 개발 예정",
+      "before": null,
+      "after": "AVF·pKVM 기반 보호 환경에서 개인 맥락 정보를 격리하는 구조를 소개하고 Android에 순차 배포한다고 밝혔다.",
+      "facts": [
+        "AppSearch를 보호 데이터베이스의 참조 구현으로 사용한다.",
+        "보호 환경 내 모델 추론·에이전트, NPU 직접 할당과 클라우드 확장은 향후 개발 사항이다."
+      ],
+      "interpretation": "AI의 개인 정보 접근을 늘리면서 운영체제와 분리된 보호 경계를 추가하려는 접근이다.",
+      "why": "기기 내 AI의 기능뿐 아니라 민감 정보 저장·처리의 신뢰 경계를 비교할 수 있다.",
+      "next": "지원 기기·배포 범위, 추론 통합과 독립 보안 평가를 확인한다.",
+      "limitations": [
+        "보호 환경 안에서 전체 AI 추론이 이미 실행된다는 발표가 아니다.",
+        "기기별 가용성과 배터리·메모리 비용의 동일 조건 비교는 공개되지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "Google Android AISeal 보안 구조 발표",
+          "url": "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/",
+          "published": "2026-10-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "기기 내 개인 맥락 정보를 보호 환경으로 분리하는 구조는 온디바이스 AI의 데이터 처리·보안 설계에 영향을 줍니다. 전체 AI 추론의 격리나 모든 기기의 적용 완료와는 구분해야 합니다.",
+        "sourceUrls": [
+          "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "개인 맥락 정보를 보호 VM에 격리하는 구조의 배포는 온디바이스 AI의 보안 기반을 강화하는 진전입니다. 전체 추론의 보호 환경 실행과 기기별 비용은 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/"
+        ]
+      }
+    },
+    {
+      "id": "novartis-20261007-remodel-technology",
+      "industry": "바이오·의료",
+      "company": "Novartis",
+      "type": "technology",
+      "title": "경구 BTK 억제제의 다발성경화증 3상 결과 발표를 예고",
+      "technologyName": "Remibrutinib 경구 BTK 억제제",
+      "technologyIds": [],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "임상 3상 자료·학회 발표 예정",
+      "before": null,
+      "after": "REMODEL-1/-2의 3상 결과를 MSToronto2026에서 발표하겠다고 공지했다. 재발형 다발성경화증에서 teriflunomide와 비교하는 연구다.",
+      "facts": [
+        "발표 예정일은 10월 23일이며 공지 공개일은 10월 7일이다.",
+        "회사는 해당 3상 결과를 긍정적으로 설명한다."
+      ],
+      "interpretation": "실제 임상 데이터를 비교할 다음 확인 시점이 제시됐지만 이번 공지는 결과 전체의 검증을 대신하지 않는다.",
+      "why": "개발 단계와 회사의 기대를 실제 효과·안전성 자료와 구분해 추적할 수 있다.",
+      "next": "원 임상자료의 환자 수, 효과 크기·신뢰구간·안전성, 승인 상태를 확인한다.",
+      "limitations": [
+        "이번 공지에는 환자 수와 정량 효과·안전성 수치가 제시되지 않았다.",
+        "다발성경화증 적응증 승인이나 표준 치료 대비 우월성을 확정하지 않는다.",
+        "기업의 발표 예고이며 동료 심사 논문을 확인한 결과가 아니다."
+      ],
+      "sources": [
+        {
+          "title": "Novartis 다발성경화증 3상 자료 발표 예고",
+          "url": "https://www.novartis.com/news/media-releases/novartis-advances-multiple-sclerosis-innovation-late-breaking-remibrutinib-and-broad-portfolio-data-mstoronto2026",
+          "published": "2026-10-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "임상 결과를 발표하겠다는 예고이며 이번 자료에 정량 효과·안전성 결과가 없습니다. 실제 결과가 공개되기 전에는 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.novartis.com/news/media-releases/novartis-advances-multiple-sclerosis-innovation-late-breaking-remibrutinib-and-broad-portfolio-data-mstoronto2026"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "임상 결과의 발표 일정만 공개됐습니다. 치료 효과·안전성 수치가 없어 약물의 성공 여부를 평가할 수 없습니다.",
+        "sourceUrls": [
+          "https://www.novartis.com/news/media-releases/novartis-advances-multiple-sclerosis-innovation-late-breaking-remibrutinib-and-broad-portfolio-data-mstoronto2026"
+        ]
+      }
+    },
+    {
+      "id": "nvidia-20261007-windows-localai-technology",
+      "industry": "AI·소프트웨어",
+      "company": "NVIDIA",
+      "type": "technology",
+      "title": "Windows 로컬 AI용 RTX Spark 사전예약과 DGX Station 미리보기",
+      "technologyName": "로컬 AI 실행 플랫폼",
+      "technologyIds": [
+        "agent",
+        "accelerator"
+      ],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "RTX Spark 사전예약·DGX Station 미리보기",
+      "before": null,
+      "after": "RTX Spark 노트북 사전예약을 열고 Windows용 DGX Station을 미리 공개했다고 발표했습니다.",
+      "facts": [
+        "노트북 공급은 10월 16일, 소형 데스크톱 판매는 11월을 예정합니다.",
+        "RTX Spark는 최대 128GB 통합 메모리와 FP4 기준 최대 1PFLOPS를 제시합니다.",
+        "Windows용 DGX Station은 별도 미리보기 단계로 구분됩니다."
+      ],
+      "interpretation": "클라우드 외에 Windows에서 지속 실행하는 AI 에이전트의 하드웨어·소프트웨어 기반을 확대하는 방향으로 해석합니다.",
+      "why": "예약·시연과 실제 판매·운영을 구분하면서 로컬 모델의 메모리·실행 환경을 검토할 수 있습니다.",
+      "next": "실제 판매 모델·가용 메모리·전력·워크로드별 성능과 DGX 공급 일정을 확인해야 합니다.",
+      "limitations": [
+        "기업이 제시한 최대 FP4 연산량으로 일반 FP32 성능이나 앱 실측을 뜻하지 않습니다.",
+        "사전예약은 출하 완료가 아니며 Windows용 DGX Station의 일반 판매는 확인되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+          "published": "2026-10-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "Windows용 로컬 AI 실행 플랫폼의 확대는 개발 환경과 모델 배치 선택에 영향을 줍니다. 사전예약·미리보기 단계이며 실제 출하와 업무 성능은 확인해야 합니다.",
+        "sourceUrls": [
+          "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "Windows 로컬 AI용 제품의 사전예약은 개발자가 선택할 실행 환경을 넓히는 진전입니다. 출하 완료·실제 처리 성능이나 판매 성과로 해석하지는 않습니다.",
+        "sourceUrls": [
+          "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+        ]
+      }
+    },
+    {
+      "id": "openai-20261007-gpt6-ui-technology",
+      "industry": "AI·소프트웨어",
+      "company": "OpenAI",
+      "type": "technology",
+      "title": "GPT-6의 ChatGPT 배포와 응답 안의 상호작용 UI 제공 시작",
+      "technologyName": "상호작용형 AI 응답",
+      "technologyIds": [
+        "reasoning"
+      ],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "제품 공개·순차 배포",
+      "before": null,
+      "after": "ChatGPT의 Chat 경험에 GPT-6와 Intelligent UI를 순차 제공한다고 발표했습니다.",
+      "facts": [
+        "답변 안에 그래픽·버튼·폼·차트와 상호작용 도구를 구성하는 기능을 발표했습니다.",
+        "10월 7일 유료 등급부터, 다음 날 Free·Go 등급으로 배포를 확대한다고 밝혔습니다.",
+        "이번 공개는 Chat 경험에 적용되며 Work·Codex 모델 변경 발표와 구분됩니다."
+      ],
+      "interpretation": "모델 성능과 함께 대화 안에서 도구를 구성하는 제품 경험을 강화하는 방향으로 해석합니다.",
+      "why": "사용자가 별도 화면을 만들지 않고 대화에서 비교·계산·탐색을 수행하는 변화입니다.",
+      "next": "계정별 배포 범위와 복잡한 화면의 정확도·완성도를 확인해야 합니다.",
+      "limitations": [
+        "순차 배포 발표이며 모든 계정의 사용 가능 상태를 직접 확인하지 않았습니다.",
+        "응답 형식 개선을 모든 과제의 정확도 향상으로 일반화하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "published": "2026-10-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "대화 응답에서 비교·계산·탐색을 직접 수행하는 UI는 AI 서비스의 사용 방식과 응용 개발에 영향을 줍니다. 순차 배포이며 모든 작업의 정확도 개선을 입증한 발표는 아닙니다.",
+        "sourceUrls": [
+          "https://openai.com/index/gpt-6-for-everyone/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "모델과 응답 내 상호작용 UI의 실제 배포는 대화에서 비교·계산·탐색할 기능을 넓힙니다. 전 계정의 이용 가능 여부와 모든 과제의 정확도 향상은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://openai.com/index/gpt-6-for-everyone/"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20261007-amd-discussion",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "AMD와 메모리·반도체 위탁생산 협력 논의",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-07",
+      "checkedAt": "2026-10-10",
+      "direction": "판단 보류",
+      "stage": "협력 논의",
+      "before": null,
+      "after": "AMD 최고경영자가 삼성전자와 메모리 및 위탁생산 분야 협력 기회를 계속 검토한다고 밝혔습니다.",
+      "facts": [
+        "AMD 최고경영자는 한국 메모리 기업이 데이터센터 사업에 중요하다고 설명했습니다.",
+        "삼성과 메모리·위탁생산 협력 기회를 검토 중이라고 밝혔습니다."
+      ],
+      "interpretation": "원문에 설명된 목적과 전망을 요약한 내용이며 실제 계약·성과로 단정하지 않습니다.",
+      "why": "메모리 공급 부족 속 AI 데이터센터 사업에 필요한 공급망 확보가 목적. 삼성의 차세대 AMD 칩 위탁생산 가능성도 논의 중",
+      "next": "메모리 공급 확대와 신규 칩 제조 계약이 구체화되는지, 고객 인증과 실제 주문 규모를 확인합니다.",
+      "limitations": [
+        "새 위탁생산 계약이나 수주 금액이 확정됐다는 보도가 아닙니다.",
+        "이번 회동의 세부 합의·공급량은 공개되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+          "url": "https://www.reuters.com/world/asia-pacific/amd-ceo-says-continues-explore-foundry-partnership-with-samsung-electronics-2026-10-07/",
+          "published": "2026-10-07",
+          "kind": "언론 보도"
+        },
+        {
+          "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnpmbEtsYzhNazY0T25QU3BtdW9qVUdFQVk0UFVaUkhPN3VZdXJjUk1fU2U3Y3pleVR2TUxxd05ObHVpNEVLLVZiZmZsUkJtU05GbUJGZmtHeVM0MXc3dE9WTEZIajh6OEdVZWk5OXlDVkJkam1VUTdSWHI5ZmZEakthTTVZN29JSm1XbHNxMXVmUzk1YjhpakE0R3BRS3NMUG5LX3ZzSkhCQWJQbmdQcmpnRF9sWnFHbFVwNV9rclhWWUFXd3l4UWpB?oc=5",
+          "published": "2026-10-07",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "AMD와 메모리·반도체 위탁생산 협력 논의",
+        "narrative": "AMD 최고경영자가 삼성전자와 메모리·반도체 위탁생산 협력 기회를 계속 검토한다고 밝혔습니다. AI 데이터센터에 필요한 공급망 확보가 논의의 배경이고, 차세대 AMD 칩 제조 가능성도 거론됐습니다. 삼성에는 고객 접점을 넓힐 기회지만 신규 계약이 체결된 것은 아닙니다.",
+        "impact": {
+          "text": "메모리 공급 부족 속 AI 데이터센터 사업에 필요한 공급망 확보가 목적. 삼성의 차세대 AMD 칩 위탁생산 가능성도 논의 중",
+          "status": "목표",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/amd-ceo-says-continues-explore-foundry-partnership-with-samsung-electronics-2026-10-07/"
+        }
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "기존 협력 가능성을 계속 검토한다는 발언으로 새 계약·공급량·공정 적용이 확인되지 않았습니다. 구체적인 새 변화가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/amd-ceo-says-continues-explore-foundry-partnership-with-samsung-electronics-2026-10-07/",
+          "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnpmbEtsYzhNazY0T25QU3BtdW9qVUdFQVk0UFVaUkhPN3VZdXJjUk1fU2U3Y3pleVR2TUxxd05ObHVpNEVLLVZiZmZsUkJtU05GbUJGZmtHeVM0MXc3dE9WTEZIajh6OEdVZWk5OXlDVkJkam1VUTdSWHI5ZmZEakthTTVZN29JSm1XbHNxMXVmUzk1YjhpakE0R3BRS3NMUG5LX3ZzSkhCQWJQbmdQcmpnRF9sWnFHbFVwNV9rclhWWUFXd3l4UWpB?oc=5"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AMD와 메모리·칩 위탁생산 협력 논의가 이어져 AI 공급망에서 고객·수주 기회 확대가 기대됨. 논의 단계이며 신규 제조 계약이나 수주액은 확정되지 않음",
+        "sourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/amd-ceo-says-continues-explore-foundry-partnership-with-samsung-electronics-2026-10-07/"
+        ]
+      }
+    },
+    {
+      "id": "amd-20261006-2027-supply-strategy",
+      "industry": "반도체",
+      "company": "AMD",
+      "type": "strategy",
+      "title": "2027년 CPU·GPU 공급 확대 계획",
+      "technologyName": null,
+      "technologyIds": [
+        "accelerator"
+      ],
+      "published": "2026-10-06",
+      "checkedAt": "2026-10-11",
+      "direction": "판단 보류",
+      "stage": "경영진 계획·공급망 협의",
+      "before": null,
+      "after": "Lisa Su의 공급 확대 계획이 보도됐습니다.",
+      "facts": [
+        "2027년 공급을 크게 늘리겠다고 밝혔습니다.",
+        "대만 협력사·메모리 업체와 공급을 협의합니다."
+      ],
+      "interpretation": "판매 기회는 공급 실행에 달려 있습니다.",
+      "why": "계획과 실행 결과를 구분해야 합니다.",
+      "next": "후속 발표와 실행 결과를 확인합니다.",
+      "limitations": [
+        "확대량과 비용은 제시되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "AMD plans to substantially increase supply in 2027, CEO says",
+          "url": "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/",
+          "published": "2026-10-06",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "2027년 CPU·GPU 공급 확대 계획",
+        "narrative": "10월 6일 경영진 발언입니다. 증산 완료를 뜻하지 않습니다.",
+        "impact": {
+          "text": "경영진은 AI 수요에 맞춘 공급 확대를 목표로 합니다.",
+          "status": "목표",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/"
+        }
+      },
+      "milestones": [
+        {
+          "date": "2027",
+          "title": "칩 공급 확대",
+          "status": "목표",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/"
+        }
+      ],
+      "assessment": {
+        "label": "미지수",
+        "reason": "판매 기회와 비용·공급 제약이 함께 남습니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/"
+        ]
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "2027년 공급을 늘리겠다는 발언과 협의 소식입니다. 확대 물량·시설·계약이 특정되지 않아 공급 변화로 평가할 새 근거가 부족합니다.",
+        "sourceUrls": [
+          "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      }
+    },
+    {
+      "id": "boston-dynamics-20261006-ceo-strategy",
+      "industry": "로봇·제조",
+      "company": "Boston Dynamics",
+      "type": "strategy",
+      "title": "AI 제품화 경험을 가진 CEO 선임으로 Physical AI 상용화 의지 강조",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-06",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "CEO 선임·상용화 방향 발표",
+      "before": null,
+      "after": "Rohit Prasad를 CEO로 선임해 10월 7일부터 직무를 맡도록 하고 AI·로봇 결합의 제품화와 산업 적용 확대를 강조했다.",
+      "facts": [
+        "공식 선임 발표의 공개일은 10월 6일이며 효력일은 10월 7일이다.",
+        "회사는 Atlas를 개발 중인 전기 휴머노이드 플랫폼으로 설명한다."
+      ],
+      "interpretation": "기존 Physical AI 전략의 제품화 의지를 확인하는 발표다. 인사만으로 기술 노선 전환이나 투자 확대를 확정할 수는 없다.",
+      "why": "로봇 기술 시연 이후 고객 제품화·현장 적용을 우선하는지 추적할 기준이다.",
+      "next": "제품 출시·실제 고객 배치, 적용 과제와 가동 성과를 확인한다.",
+      "limitations": [
+        "이사 선임은 승인 절차를 남겨두었다.",
+        "신규 설비투자·수주·양산 규모는 이 자료에 없다."
+      ],
+      "sources": [
+        {
+          "title": "Boston Dynamics Rohit Prasad CEO 선임 발표",
+          "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+          "published": "2026-10-06",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "기술 개발·제품·공정·실제 적용의 변화와 직접 연결되지 않는 소식입니다. 기업명이 등장해도 기술 동향에서는 제외합니다.",
+        "sourceUrls": [
+          "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"
+        ],
+        "basis": "automatic-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "CEO 선임은 인사 소식입니다. 로봇 성능·생산·현장 적용의 변화가 제시되지 않아 기술 진전의 근거로 삼을 수 없습니다.",
+        "sourceUrls": [
+          "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"
+        ]
+      }
+    },
+    {
+      "id": "intel-amat-20261006-epic-strategy",
+      "industry": "반도체",
+      "company": "Intel",
+      "type": "strategy",
+      "title": "Applied Materials와 AI 칩의 공정·배선·패키징 공동개발 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-06",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "공동 연구개발 발표",
+      "before": null,
+      "after": "Intel 오리건 연구시설과 Applied의 EPIC Center를 연결해 AI용 선단 로직과 패키징 공정 개발을 추진한다.",
+      "facts": [
+        "10월 6일 양사가 트랜지스터·배선·첨단 패키징 협력을 발표했다.",
+        "EPIC Center는 2026년 운영 준비를 목표로 한다."
+      ],
+      "interpretation": "AI용 제조 경쟁력 확보를 외부 장비·재료 공정 기업과의 공동개발로 추진하는 방향이다.",
+      "why": "선단 공정과 후공정을 함께 개발하는 협력 관계를 보여준다.",
+      "next": "센터의 실제 가동, 공정 검증과 양산 이전 결과, 외부 고객 적용을 확인한다.",
+      "limitations": [
+        "신규 투자 금액과 물량은 이 발표에서 제시되지 않았다.",
+        "개발 협력을 양산 성과나 수율 향상으로 간주할 수 없다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials·Intel AI 칩 공정 공동개발 발표",
+          "url": "https://ir.appliedmaterials.com/node/29696/pdf",
+          "published": "2026-10-06",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "AI 칩의 선단 공정과 패키징을 함께 개발하는 협력은 소재·장비·설계 사이의 연결에 의미가 있습니다. 수율·양산 성과가 아니라 공동개발 범위의 확대입니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/node/29696/pdf"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "연구시설과 공정·패키징 개발 범위를 연결해 AI 칩 공동개발 기반을 강화합니다. 개발 결과·수율 향상이나 양산 이전은 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/node/29696/pdf"
+        ]
+      }
+    },
+    {
+      "id": "intel-amat-20261006-foveros-technology",
+      "industry": "반도체",
+      "company": "Applied Materials",
+      "type": "technology",
+      "title": "Foveros 기반 3D 적층은 공정·재료 공동개발 확대 단계",
+      "technologyName": "Foveros 기반 3D 적층·고밀도 배선",
+      "technologyIds": [
+        "cowos"
+      ],
+      "published": "2026-10-06",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "공동 연구개발",
+      "before": null,
+      "after": "Foveros 기반 3D 적층의 연결 밀도·전력 공급·열 특성 개선을 위한 패키징 기술 개발을 협력 범위에 포함했다.",
+      "facts": [
+        "같은 협력은 전공정·배선 공정과 패키징을 아우른다."
+      ],
+      "interpretation": "칩 적층을 조립 작업만이 아니라 공정·재료·전력·열 설계가 연결된 개발 대상으로 다룬다.",
+      "why": "패키징 엔지니어는 연결 밀도와 전력·열 설계의 상호 제약을 함께 살펴볼 수 있다.",
+      "next": "시험 칩, 정량 비교 조건, 고객 인증과 양산 적용 시점을 확인한다.",
+      "limitations": [
+        "신규 공동개발 성능 수치나 고객 인증 결과는 공개되지 않았다.",
+        "이 협력의 양산 이전 완료를 뜻하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials·Intel AI 칩 공정 공동개발 발표",
+          "url": "https://ir.appliedmaterials.com/node/29696/pdf",
+          "published": "2026-10-06",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "3D 적층의 연결 밀도·전력·열 특성을 함께 개선하려는 개발 방향은 AI 칩 확장에 중요한 제약을 다룹니다. 정량 성능과 고객 인증은 아직 공개되지 않았습니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/node/29696/pdf"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "Foveros의 연결·전력·열 문제를 재료와 공정 단계에서 함께 개발하는 방향은 3D 적층 구현에 유리합니다. 개선 수치·고객 인증·양산 완료의 근거는 없습니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/node/29696/pdf"
+        ]
+      }
+    },
+    {
+      "id": "masse-20261005-fielddata-technology",
+      "industry": "에너지",
+      "company": "Robert Masse 연구팀",
+      "type": "technology",
+      "title": "실사용 배터리 데이터 공개분을 모아 상태 진단 평가 기반 제공",
+      "technologyName": "실사용 배터리 상태·고장 데이터 모음",
+      "technologyIds": [
+        "bms"
+      ],
+      "published": "2026-10-05",
+      "checkedAt": "2026-10-09",
+      "direction": "판단 보류",
+      "stage": "프리프린트·데이터 목록 및 코드 공개",
+      "before": null,
+      "after": "16개 연구그룹의 공개 데이터 22개를 정리하고 출처·라이선스·메타데이터·검사합 및 불러오기 코드를 제공한다고 보고했다.",
+      "facts": [
+        "확인 가능한 자료 범위는 최소 셀 131,096개와 배터리 시스템 1,998개다.",
+        "공개 자료에 고장 라벨 또는 고장 보고 293건이 포함된다."
+      ],
+      "interpretation": "연구실 충방전 자료에서 실사용 조건의 상태 진단 평가로 범위를 넓히는 연구 자원이다.",
+      "why": "BMS·고장 탐지 연구에서 데이터 형식과 실제 운전 조건을 비교할 기반을 제공한다.",
+      "next": "개별 데이터의 접근·라이선스, 고장 정의와 독립적 BMS 평가 적용을 확인한다.",
+      "limitations": [
+        "arXiv 원문 초록만 확인했고 전체 본문·데이터 파일은 검증하지 못했다.",
+        "배터리 성능 개선이나 진단 모델 정확도를 입증한 결과가 아니다.",
+        "공개 자료의 형식·조건과 완전성이 서로 다르며 동료 심사 상태는 확인되지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "실사용 배터리 공개 데이터 모음 프리프린트",
+          "url": "https://arxiv.org/abs/2610.05811",
+          "published": "2026-10-05",
+          "kind": "논문"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "공개 배터리 데이터를 정리해 진단 연구의 재사용과 비교를 돕는 기반 자료입니다. 새 배터리 성능이나 진단 정확도의 향상을 입증한 연구는 아닙니다.",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2610.05811"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "출처·라이선스와 불러오기 코드를 갖춘 배터리 데이터 목록은 상태 진단 연구의 재현·비교에 도움이 됩니다. 실제 데이터 품질과 진단 정확도 향상은 검증되지 않았습니다.",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2610.05811"
+        ]
+      }
+    },
+    {
+      "id": "schreiber-20261005-bcmpc-technology",
+      "industry": "우주·통신",
+      "company": "Stanford University·Kayhan Space 연구팀",
+      "type": "technology",
+      "title": "위성 초기 교신 탐색을 실패 관측에 따라 다시 계획하는 제어법",
+      "technologyName": "위성 초기 교신 탐색 BC-MPC",
+      "technologyIds": [
+        "satellite"
+      ],
+      "published": "2026-10-05",
+      "checkedAt": "2026-10-09",
+      "direction": "판단 보류",
+      "stage": "프리프린트·시뮬레이션 및 궤도자료 재현 평가",
+      "before": "같은 연구에서 동일 탐색 시간·초기 불확실성·안테나 제약 아래 along-track sweep을 비교 기준으로 사용했다.",
+      "after": "96개 모의 배치와 Transporter-16 위성 83기의 궤도 자료로 탐색 전략을 평가했다. 일반적인 불확실성 가정에서 모델상 획득 확률이 약 12%p 높아졌다고 보고했다.",
+      "facts": [
+        "미검출 결과로 궤도 가설을 갱신하며 이후 탐색 가능한 경로를 유지한다.",
+        "IEEE 투고 예정·심사 전 arXiv 공개본이다.",
+        "주요 모의 평가의 탐색 시간은 192초, 비교 전략에는 동일 안테나 이동 제약을 적용했다."
+      ],
+      "interpretation": "발사 직후 교신 확보의 제한 시간을 관측 결과에 따라 배분하는 접근이다.",
+      "why": "지상국 제어·위성 운용 엔지니어가 안테나 이동 제약과 탐색 불확실성을 함께 검토할 수 있다.",
+      "next": "실제 지상국 전향적 시험, 불확실성 가정의 적합성과 동료 심사 결과를 확인한다.",
+      "limitations": [
+        "83기는 실제 궤도 자료의 재현 평가이며 이 알고리즘으로 현장 교신을 수행한 83기 실적이 아니다.",
+        "약 12%p 개선은 모델과 비교 조건에 의존한다.",
+        "위성 사업자의 투자·전략 방향은 이 논문으로 판단할 수 없다."
+      ],
+      "sources": [
+        {
+          "title": "위성 발사 후 초기 교신 탐색 BC-MPC 프리프린트",
+          "url": "https://arxiv.org/abs/2610.07300",
+          "published": "2026-10-05",
+          "kind": "논문"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "교신 실패 관측에 따라 탐색을 갱신하는 제어법은 위성 초기 교신의 운용 효율을 개선할 가능성이 있습니다. 약 12%p 개선은 모델·궤도 자료 재현 평가이며 현장 교신 실적은 아닙니다.",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2610.07300"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "실패 관측을 반영한 재탐색이 모델상 획득 확률을 높여 위성 초기 교신 제어의 개선 가능성을 보였습니다. 실제 현장 교신 성과나 사업자 수익을 입증한 결과는 아닙니다.",
+        "sourceUrls": [
+          "https://arxiv.org/abs/2610.07300"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20261004-yongin-blueprint",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "용인 반도체 산단 청사진 공개 · 약 360조원 투자 계획",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-10-04",
+      "checkedAt": "2026-10-10",
+      "direction": "판단 보류",
+      "stage": "투자·공장 가동 계획",
+      "before": null,
+      "after": "약 360조원 투자 계획과 첫 반도체 생산라인의 2029년 10월 가동 목표가 기사에 설명됐습니다.",
+      "facts": [
+        "LH는 부지 조성 사업자 선정을 마쳐 10월 공사 시작이 가능해졌다고 기사에서 설명합니다.",
+        "삼성은 첫 생산라인의 2029년 10월 가동을 목표로 추진합니다.",
+        "투자 총액은 약 360조원의 계획입니다."
+      ],
+      "interpretation": "원문에 설명된 목적과 전망을 요약한 내용이며 실제 계약·성과로 단정하지 않습니다.",
+      "why": "공장 완성 후 소재·부품·장비·칩 설계 기업 약 70곳의 입주와 일자리·지역 기반시설 확대를 기대하는 사업. 아직 전망 단계",
+      "next": "첫 생산라인의 착공·2029년 10월 가동 목표, 전력·용수 확보와 후속 투자 집행을 확인합니다.",
+      "limitations": [
+        "360조원은 이번에 모두 집행한 금액이 아니라 전체 투자 계획입니다.",
+        "기업 입주·지역경제 효과는 향후 전망이며 실현된 성과가 아닙니다."
+      ],
+      "sources": [
+        {
+          "title": "삼성, 용인 반도체 국가산단 이달 착공…지역주민에 청사진 공개",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640",
+          "published": "2026-10-04",
+          "kind": "언론 보도"
+        },
+        {
+          "title": "삼성, 용인 반도체 국가산단 이달 착공…지역주민에 청사진 공개",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFNbjhRVzJmNXhZMmVkLUpqMVpvaW0wbkZyeVU1bDlYaFpzOWJLTUhoSG9pT3FNY2lRcGh0VHVDZGx2VmpUM0d5UzhNdnJwV2thWHZhd3VrQ1FvN05PaU83M2dKYkp1WGpPZTJzenF4djFuTVJTY0gxUUdmb0Q1bA?oc=5",
+          "published": "2026-10-04",
+          "kind": "언론 보도"
+        }
+      ],
+      "briefing": {
+        "headline": "용인 반도체 산단 청사진 공개 · 약 360조원 투자 계획",
+        "narrative": "용인 반도체 산단 청사진과 약 360조원 투자 계획이 소개됐습니다. 첫 생산라인은 2029년 10월 가동을 목표로 합니다. 기사에서는 완성 후 소재·부품·장비·칩 설계 기업 약 70곳의 입주와 지역 기반 시설 확대를 기대했습니다. 장기 생산 기반을 넓히는 계획으로 읽힙니다.",
+        "impact": {
+          "text": "공장 완성 후 소재·부품·장비·칩 설계 기업 약 70곳의 입주와 일자리·지역 기반시설 확대를 기대하는 사업. 아직 전망 단계",
+          "status": "전망",
+          "sourceUrl": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640"
+        }
+      },
+      "milestones": [
+        {
+          "date": "2029-10",
+          "title": "용인 첫 반도체 생산라인 가동 목표",
+          "status": "목표",
+          "sourceUrl": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "대규모 장기 생산 기반과 협력 산업 생태계를 확장하는 계획. 새 소자 성능의 돌파구나 이미 집행된 투자를 의미하지는 않음",
+        "sourceUrls": [
+          "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640",
+          "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFNbjhRVzJmNXhZMmVkLUpqMVpvaW0wbkZyeVU1bDlYaFpzOWJLTUhoSG9pT3FNY2lRcGh0VHVDZGx2VmpUM0d5UzhNdnJwV2thWHZhd3VrQ1FvN05PaU83M2dKYkp1WGpPZTJzenF4djFuTVJTY0gxUUdmb0Q1bA?oc=5"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "장기 생산 기반 확대와 반도체 산업 생태계 강화가 기대되는 투자 계획. 큰 투자 부담과 2029년 첫 가동 목표를 감안해야 하며 일정·수요·실제 수익은 후속 확인 필요",
+        "sourceUrls": [
+          "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640"
+        ]
+      }
+    },
+    {
+      "id": "airbus-20261002-oneweb32-technology",
+      "industry": "우주·통신",
+      "company": "Airbus",
+      "type": "technology",
+      "title": "차세대 OneWeb 위성 32기를 첫 생산·인도 묶음으로 발표",
+      "technologyName": "차세대 저궤도 통신 위성",
+      "technologyIds": [
+        "satellite"
+      ],
+      "published": "2026-10-02",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "위성 제조·인도 및 발사 전 준비",
+      "before": null,
+      "after": "Eutelsat에 차세대 OneWeb 위성 32기를 인도했다고 발표했습니다.",
+      "facts": [
+        "669기 차세대 위성 계획의 첫 묶음이라고 설명합니다.",
+        "Toulouse 생산시설에서 미국 발사를 위한 운송을 준비 중이라고 밝혔습니다."
+      ],
+      "interpretation": "위성망 교체 계획이 첫 제조·인도 단계로 진행된 사건으로 해석합니다.",
+      "why": "계약·계획과 제조 완료·발사·궤도 운영의 차이를 구분할 수 있습니다.",
+      "next": "발사와 궤도상 검증·서비스 편입 결과를 확인해야 합니다.",
+      "limitations": [
+        "인도 발표를 발사 완료나 669기 전체 생산 완료로 확대하지 않습니다.",
+        "통신 성능 향상을 비교할 수 있는 실측 조건은 제시되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "Airbus delivers first batch of next-generation satellites for Eutelsat’s OneWeb constellation",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-delivers-first-batch-of-next-generation-satellites-for-eutelsats-oneweb-constellation",
+          "published": "2026-10-02",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "차세대 OneWeb 위성 32기를 첫 생산·인도 묶음으로 발표",
+        "narrative": "Eutelsat에 차세대 OneWeb 위성 32기를 인도했다고 발표했습니다. 제조·납품이 진행됐다는 점은 사업에 긍정적이지만, 인도 이후 발사와 궤도 검증까지 마쳐야 실제 서비스 확대를 확인할 수 있습니다."
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "위성 제조·납품의 진행을 확인할 사건. 발사·궤도상 성능 검증이나 새 기술 돌파구는 아님",
+        "sourceUrls": [
+          "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-delivers-first-batch-of-next-generation-satellites-for-eutelsats-oneweb-constellation"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "고객에게 위성 32기를 인도해 수주 사업의 납품이 진행됨. 전체 계획 완료나 발사·궤도 운영 성공을 뜻하지는 않음",
+        "sourceUrls": [
+          "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-delivers-first-batch-of-next-generation-satellites-for-eutelsats-oneweb-constellation"
+        ]
+      }
+    },
+    {
+      "id": "fanuc-hitachi-20261002-physicalai-technology",
+      "industry": "로봇·제조",
+      "company": "FANUC",
+      "type": "technology",
+      "title": "Hitachi 생산 현장을 Physical AI의 개발·검증 환경으로 활용",
+      "technologyName": "현장 검증형 Physical AI",
+      "technologyIds": [],
+      "published": "2026-10-02",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "공동개발·검증 계획",
+      "before": null,
+      "after": "Hitachi 공장에서 학습·검증하고 2027 회계연도부터 고객 배치를 추진한다고 발표했습니다.",
+      "facts": [
+        "부품 피킹·다양한 형상 취급·생산 전환을 초기 사용 사례로 제시합니다.",
+        "Hitachi AI 기술과 FANUC 산업 로봇·자동화 기술을 결합합니다."
+      ],
+      "interpretation": "실제 제조 데이터를 통해 로봇의 적응 작업을 제품화하려는 방향으로 해석합니다.",
+      "why": "시뮬레이션만의 성과와 공장 적용 검증을 구분할 필요가 있습니다.",
+      "next": "검증 작업별 성공률·작업시간·안전과 고객 배치 실적을 확인해야 합니다.",
+      "limitations": [
+        "협력 발표만으로 완전 자율 공장이나 모든 공정의 성능 향상을 확정할 수 없습니다.",
+        "특정 VLA 구조나 양산 적용 완료는 확인되지 않아 기술 ID를 억지로 배정하지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "Hitachi and FANUC Partner to Advance Physical AI in Manufacturing",
+          "url": "https://www.fanuc.eu/uk-en/news/hitachi-and-fanuc-partner-advance-physical-ai-manufacturing",
+          "published": "2026-10-02",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "개발·시험 현장과 2027년 배치 목표가 구체적으로 제시된 협력입니다. 현장 성능·생산성·적용 실적이 없어 현재 중요도는 1점입니다.",
+        "sourceUrls": [
+          "https://www.fanuc.eu/uk-en/news/hitachi-and-fanuc-partner-advance-physical-ai-manufacturing"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "실제 생산 현장을 로봇 AI 학습·검증에 활용하는 계획은 현장 적용의 검증 기반을 강화합니다. 2027 회계연도 배치 목표이며 자율 공정 완성과 생산성 향상은 미확인입니다.",
+        "sourceUrls": [
+          "https://www.fanuc.eu/uk-en/news/hitachi-and-fanuc-partner-advance-physical-ai-manufacturing"
+        ]
+      }
+    },
+    {
+      "id": "amat-besi-20261001-packaging-technology",
+      "industry": "반도체",
+      "company": "Applied Materials",
+      "type": "technology",
+      "title": "Besi 협력을 하이브리드 본딩에서 패널·광 연결까지 확대",
+      "technologyName": "첨단 본딩·패키징",
+      "technologyIds": [
+        "hybrid-bond",
+        "cowos",
+        "photonics"
+      ],
+      "published": "2026-10-01",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "공동개발 확대",
+      "before": null,
+      "after": "Besi의 EPIC 참여와 본딩·통합 공정의 공동개발 범위 확대를 발표했습니다.",
+      "facts": [
+        "열압착 본딩 확장과 die-on-wafer·die-on-die·die-on-panel 공정을 개발 범위로 제시했습니다.",
+        "AI 시스템과 co-packaged optics를 위한 광 연결 응용도 포함합니다."
+      ],
+      "interpretation": "패키징의 조립과 전공정 소재·장비를 함께 최적화하려는 방향으로 해석합니다.",
+      "why": "칩 간 연결 밀도와 AI 시스템 확장에 필요한 공정 연결성을 겨냥합니다.",
+      "next": "플랫폼별 공개 일정·정렬 정확도·수율·고객 적용을 확인해야 합니다.",
+      "limitations": [
+        "새 개발 범위의 양산 준비 완료나 성능 우위는 확인되지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials and Besi Expand Strategic Partnership to Advance Next-Generation Packaging for AI Scaling",
+          "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/",
+          "published": "2026-10-01",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "공동개발 대상이 패널·광 연결로 확대됐다는 구체적 범위 변화입니다. 새 성능과 제조 적용이 검증되지 않아 1점입니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "하이브리드 본딩에서 패널·광 연결까지 공동개발 범위를 넓혀 AI 패키징의 공정 통합을 준비합니다. 신규 공정의 성능·양산 준비 상태는 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/"
+        ]
+      }
+    },
+    {
+      "id": "bmw-20261001-gen6-production-technology",
+      "industry": "자동차·모빌리티",
+      "company": "BMW",
+      "type": "technology",
+      "title": "Gen6 고전압 배터리, 독일 신공장에서 양산 개시",
+      "technologyName": "Gen6 셀투팩 고전압 배터리",
+      "technologyIds": [
+        "ctc"
+      ],
+      "published": "2026-10-01",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "양산 개시·차량 공장 공급",
+      "before": "같은 원문은 2026년 3월 첫 사전 양산 배터리를 생산했다고 설명한다.",
+      "after": "10월 1일 Irlbach-Straßkirchen 공장을 열고 뮌헨 BMW i3 생산에 공급하는 Gen6 배터리 양산을 시작했다.",
+      "facts": [
+        "원통형 셀을 팩에 직접 통합하고 팩을 차체 구조에 연결하는 설계를 설명한다.",
+        "초기부터 2교대 양산을 운영한다고 밝혔다."
+      ],
+      "interpretation": "시험 생산에서 차량 생산용 공급으로 단계가 진전한 사례다.",
+      "why": "배터리 구조 개발과 조립 공정의 실제 산업 적용을 함께 추적할 수 있다.",
+      "next": "실제 생산 물량·수율, 차종 확대와 장기 운전 자료를 확인한다.",
+      "limitations": [
+        "같은 사건의 기존 확인 자료를 산업 분석으로 보완했으며 오늘 발생한 새 사건이 아니다.",
+        "완전 가동 시 생산량은 계획치이고 현재 생산량과 다르다.",
+        "설계·생산 소개만으로 안전성이나 경쟁 제품 대비 우월성을 독립 검증하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "BMW Irlbach-Straßkirchen 배터리 공장 양산 개시",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen",
+          "published": "2026-10-01",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "Gen6 고전압 배터리, 독일 신공장에서 양산 개시",
+        "narrative": "새 배터리 공장을 열고 뮌헨의 BMW i3 생산에 공급할 Gen6 배터리 양산을 시작했습니다. 차세대 전기차 준비가 실제 생산 기반으로 이어진 변화이며, 생산 물량과 수율·차종 확대가 다음 확인 지점입니다."
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "차세대 전기차 배터리의 생산 기반·차량 공장 공급이 진전. 실제 차량 운전과 장기 신뢰성은 후속 확인 필요",
+        "sourceUrls": [
+          "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "새 전기차 배터리 양산과 차량 공장 공급으로 차세대 차량 생산 준비가 진전됨. 실제 판매 실적·수율·수익성은 별도 확인 필요",
+        "sourceUrls": [
+          "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen"
+        ]
+      }
+    },
+    {
+      "id": "nokia-iceye-20261001-leo-technology",
+      "industry": "우주·통신",
+      "company": "Nokia",
+      "type": "technology",
+      "title": "ICEYE와 국가 소유형 저궤도 위성 통신 시스템 공동개발",
+      "technologyName": "주권형 저궤도 위성 통신",
+      "technologyIds": [
+        "satellite"
+      ],
+      "published": "2026-10-01",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "공동개발 발표·발사 계획",
+      "before": null,
+      "after": "정부가 위성·지상부·단말을 소유하고 통제하는 통신 시스템을 개발한다고 발표했습니다.",
+      "facts": [
+        "지상망 장애 상황에서 정부·방위·긴급 대응 임무를 지원하는 설계입니다.",
+        "첫 통신 위성의 발사는 2028년을 예상합니다."
+      ],
+      "interpretation": "상용망을 대체하기보다 중요 임무용 통신의 통제와 복원력을 강화하는 방향으로 해석합니다.",
+      "why": "위성 제조와 보안 네트워크·단말을 통합하는 사업 범위가 중요합니다.",
+      "next": "첫 위성 발사와 지상부 통합 시험·실제 성능을 확인해야 합니다.",
+      "limitations": [
+        "운영망 배치 완료나 지연·처리량의 독립 실측 결과는 아닙니다.",
+        "스마트폰 직접 연결 또는 NTN 규격 구현을 이 발표만으로 확정하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "ICEYE and Nokia partner to launch secure and sovereign satellite communications",
+          "url": "https://www.nokia.com/newsroom/iceye-and-nokia-partner-to-launch-secure-and-sovereign-satellite-communications-for-governments-and-defense-customers/",
+          "published": "2026-10-01",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 1,
+        "reason": "정부가 직접 소유·통제하는 위성 통신의 개발 구성과 대상이 제시됐습니다. 실제 운영망·성능 검증 전의 개발 계획이라 1점입니다.",
+        "sourceUrls": [
+          "https://www.nokia.com/newsroom/iceye-and-nokia-partner-to-launch-secure-and-sovereign-satellite-communications-for-governments-and-defense-customers/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "위성·지상망·단말을 함께 개발해 정부용 통신 시스템의 공급 범위를 넓히는 방향입니다. 운영망 완성·수주·지연과 처리량 실측은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://www.nokia.com/newsroom/iceye-and-nokia-partner-to-launch-secure-and-sovereign-satellite-communications-for-governments-and-defense-customers/"
+        ]
+      }
+    },
+    {
+      "id": "micron-2026q4-investment",
+      "industry": "반도체",
+      "company": "Micron",
+      "type": "strategy",
+      "title": "AI 메모리 수요에 맞춰 기술·제품·제조 투자를 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-09-30",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "투자 확대 발표",
+      "before": null,
+      "after": "9월 실적 발표에서 기술·제품·제조 투자를 늘린다고 밝혔다. 전략적 고객 계약을 수요 지속성의 근거로 제시했다.",
+      "facts": [
+        "2026 회계연도 순설비투자액은 273.7억 달러라고 보고했다."
+      ],
+      "interpretation": "메모리 성장 대응에서 제조 공급과 제품 경쟁력을 함께 확충하는 방향이다.",
+      "why": "제품 채택과 투자 집행이 함께 진행되는지 추적할 기준이다.",
+      "next": "추가 투자 규모·일정과 전략적 고객 계약의 실행을 확인한다.",
+      "limitations": [
+        "모든 계약의 고객·조건이 공개된 것은 아니다.",
+        "회계연도와 달력연도는 다르다."
+      ],
+      "sources": [
+        {
+          "title": "Micron 2026 회계연도 4분기 실적·제품 현황",
+          "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx",
+          "published": "2026-09-30",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "AI 메모리 수요에 맞춘 기술·제품·제조 투자는 관련 공급망과 제품 채택에 영향을 줄 수 있습니다. 투자 집행과 고객 계약의 세부 조건은 추가 확인이 필요합니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "고객 계약을 바탕으로 기술·제품·제조 투자를 확대하는 방향은 AI 메모리 공급 준비에 유리합니다. 계약 조건과 실제 투자 집행·수요 지속성은 확인이 필요합니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+        ]
+      }
+    },
+    {
+      "id": "micron-2026q4-kv-ssd",
+      "industry": "반도체",
+      "company": "Micron",
+      "type": "technology",
+      "title": "AI KV 캐시용 SSD는 주요 고객 출하 단계로",
+      "technologyName": "KV 캐시용 PCIe Gen5·Gen6 SSD",
+      "technologyIds": [
+        "nand"
+      ],
+      "published": "2026-09-30",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "고객 출하",
+      "before": null,
+      "after": "7600 PCIe Gen5·9650 PCIe Gen6 SSD를 KV 캐시 용도로 주요 고객에게 출하 중이라고 밝혔다.",
+      "facts": [
+        "512GB DDR5 RDIMM은 샘플 단계로 별도 발표했다."
+      ],
+      "interpretation": "같은 AI 메모리 발표라도 SSD 출하와 신규 DRAM 샘플의 단계는 다르다.",
+      "why": "추론 시스템에서 SSD가 KV 캐시 저장에 쓰이는 실제 제품 흐름을 추적할 수 있다.",
+      "next": "고객 시스템의 적용 규모와 지연·처리량 검증을 확인한다.",
+      "limitations": [
+        "고객 출하가 모든 운영 환경의 성능 향상을 보장하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "Micron 2026 회계연도 4분기 실적·제품 현황",
+          "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx",
+          "published": "2026-09-30",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "추론의 KV 캐시 저장에 SSD를 쓰는 제품이 고객 출하 단계로 이어져 메모리 계층 설계에 참고할 변화입니다. 실제 서비스의 지연·비용 개선은 환경별로 검증해야 합니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "KV 캐시용 SSD가 주요 고객 출하 단계에 들어가 AI 추론 저장장치의 실제 채택이 진전됐습니다. 출하량과 운영 환경별 성능 효과는 공개되지 않았습니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260929-helix-strategy",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "삼성 계열사 합계 10억 달러 규모 Helix 투자 발표",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-09-29",
+      "checkedAt": "2026-10-10",
+      "direction": "투자 확대",
+      "stage": "투자 발표",
+      "before": null,
+      "after": "삼성전자 5억 달러와 5개 계열사 잔여분을 합해 Helix에 10억 달러 투자한다고 발표했습니다.",
+      "facts": [
+        "Helix 사업 범위는 데이터센터·전력·통신 인프라입니다.",
+        "반도체·냉각·건설·데이터센터·배터리 등 계열사 역량의 협력을 제시했습니다."
+      ],
+      "interpretation": "반도체 공급을 넘어 AI 인프라 생태계의 지분·협력 관계를 강화하는 방향으로 해석합니다.",
+      "why": "삼성전자 단독 투자액과 계열사 합산액을 구분해야 합니다.",
+      "next": "투자 납입과 구체적인 시설·공급계약·운영 실적을 확인해야 합니다.",
+      "limitations": [
+        "9월 발표의 이력 보완이며 전액 집행 완료를 별도로 확인하지 않았습니다.",
+        "그룹 합계 10억 달러를 삼성전자 단독 투자로 표시하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix",
+          "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix",
+          "published": "2026-09-29",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "Helix에 삼성전자 5억 달러 투자 발표 · 삼성 계열사 합계 10억 달러",
+        "narrative": "AI 시설 기업 Helix에 삼성전자 5억 달러, 계열사 합산 10억 달러의 투자를 발표했습니다. 데이터센터와 전력 시설에 삼성의 반도체·냉각 기술을 연결하려는 구상으로, AI 제품 판매를 넘어 기반 시설까지 사업 접점을 넓히는 움직임입니다.",
+        "impact": {
+          "text": "AI 운영에 필요한 데이터센터와 전력 시설을 함께 늘리고, 삼성의 반도체·냉각 기술을 연결하는 협력이 목표",
+          "status": "목표",
+          "sourceUrl": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        }
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "AI 인프라 기업에 대한 지분 투자 발표입니다. 신규 시설·연산 규모·기술 적용이 특정되지 않아 자금 거래 자체를 기술 변화로 표시하지 않습니다.",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AI 데이터센터·전력 시설 투자로 삼성의 반도체·냉각 기술을 공급할 기회가 넓어질 것으로 기대. 투자 회수와 수주 실현은 후속 확인 필요",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260923-p9-p7-launch",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "technology",
+      "title": "USB4 기반 P9·P7 휴대용 SSD의 9월 출시 발표",
+      "technologyName": "USB4 휴대용 SSD",
+      "technologyIds": [],
+      "published": "2026-09-23",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "제품 출시 발표",
+      "before": null,
+      "after": "P9·P7의 9월 공식 출시와 차세대 휴대용 SSD 제품군 확대를 발표했습니다.",
+      "facts": [
+        "8월 Gamescom 공개에 이어 9월 출시를 알렸습니다.",
+        "회사 제시 최대 순차 읽기 속도는 4,000 MB/s, 최대 용량은 8 TB입니다."
+      ],
+      "interpretation": "제품 공개에서 소비자 판매 단계로 진행하는 저장장치 변화로 해석합니다.",
+      "why": "전시 공개와 출시 발표를 구분해 제품 진행 상황을 확인할 수 있습니다.",
+      "next": "지역별 판매 개시와 용량별 제품 사양을 확인합니다.",
+      "limitations": [
+        "발표 시점에는 곧 판매 예정이라고도 표현하며 국가별 실제 구매 가능일은 확인하지 않았습니다.",
+        "속도는 동봉 케이블을 사용한 내부 시험 기준이며 호스트·케이블·시스템에 따라 다릅니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung P9 and P7 Portable SSDs, First Unveiled at Gamescom, To Launch in September",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/",
+          "published": "2026-09-23",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "P9·P7 휴대용 저장장치(SSD) 9월 출시 발표",
+        "narrative": "P9·P7 휴대용 저장장치의 9월 출시를 알렸습니다. 대용량 파일을 빠르게 옮기는 이용자를 겨냥한 제품군 확대이며, 회사가 제시한 속도는 실제 사용 환경에 따라 달라질 수 있습니다.",
+        "impact": {
+          "text": "대용량 파일을 빠르게 옮기고 휴대하는 용도. 최대 읽기 속도·용량은 회사 시험 기준이며 사용 환경에 따라 달라짐",
+          "status": "결과",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/"
+        }
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "휴대용 저장장치 제품군 확대와 출시 단계의 진전. 산업 전체의 성능 기준을 바꾼다는 독립 근거는 없음",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "새 휴대용 저장장치 출시로 대용량 파일 이용자의 수요를 공략할 제품군이 확대됨. 실제 판매량·이익 기여는 아직 확인 필요",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/"
+        ]
+      }
+    },
+    {
+      "id": "skhynix-20260918-ventures-strategy",
+      "industry": "반도체",
+      "company": "SK하이닉스",
+      "type": "strategy",
+      "title": "SK hynix Ventures 출범으로 AI 생태계 투자 범위 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-09-18",
+      "checkedAt": "2026-10-10",
+      "direction": "투자 확대",
+      "stage": "CVC 브랜드 출범·투자 확대 계획",
+      "before": null,
+      "after": "SK hynix Ventures 출범과 AI 컴퓨팅·데이터센터·소프트웨어·광 연결 투자 확대 방향을 발표했습니다.",
+      "facts": [
+        "첫 Ventures Day를 실리콘밸리에서 열었다고 밝혔습니다.",
+        "기존 기술 탐색에서 생태계 공동 혁신으로 CVC 역할을 확대한다고 설명합니다."
+      ],
+      "interpretation": "메모리 사업과 연결된 미래 고객·공급망·기술을 외부 투자로 확보하려는 방향으로 해석합니다.",
+      "why": "투자 의지와 구체적인 투자 집행·기술 확보 실적은 구분해야 합니다.",
+      "next": "신규 투자 대상·규모·실제 PoC와 공동개발 결과를 확인해야 합니다.",
+      "limitations": [
+        "9월 발표의 이력 보완입니다.",
+        "이번 발표는 투자 증가액이나 신규 포트폴리오별 성과를 확정하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "SK hynix Launches SK hynix Ventures in Silicon Valley to Expand Global AI Ecosystem Investment",
+          "url": "https://news.skhynix.com/en/sk-hynix-ventures/",
+          "published": "2026-09-18",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "투자 조직 출범과 투자 분야 확대 방향을 알리는 발표입니다. 신규 거래·금액·적용 성과가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/sk-hynix-ventures/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "투자 조직과 투자 범위의 확대만 확인됩니다. 개별 투자 대상·금액·확보 기술이 없어 기술 적용 효과를 평가하기 어렵습니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/sk-hynix-ventures/"
+        ]
+      }
+    },
+    {
+      "id": "sk-2026-infra-hbf",
+      "industry": "반도체",
+      "company": "SK하이닉스",
+      "type": "technology",
+      "title": "HBF는 HBM과 SSD 사이의 새 메모리 계층을 제안",
+      "technologyName": "HBF · High Bandwidth Flash",
+      "technologyIds": [
+        "nand"
+      ],
+      "published": "2026-09-17",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "구조 모형 전시",
+      "before": null,
+      "after": "NAND에 TSV를 적용하는 HBF 구조 모형을 전시했다. 고용량과 대역폭을 결합해 AI 추론의 메모리 계층을 보완하려는 접근이다.",
+      "facts": [
+        "9월 행사에서 소개 영상과 구조 모형을 전시했다.",
+        "동일 행사에서 PIM 서버와 SALT-KV의 계층별 KV 캐시 배치도 시연했다."
+      ],
+      "interpretation": "메모리 경쟁이 칩의 속도뿐 아니라 데이터 배치와 이동 문제로 넓어지고 있다.",
+      "why": "연구자는 메모리 계층, 엔지니어는 추론 병목과 소프트웨어 연계를 살펴볼 수 있다.",
+      "next": "고객 샘플, 실측 지연·전력·용량, 상용화 일정을 확인한다.",
+      "limitations": [
+        "모형 전시는 양산이나 상용 적용의 근거가 아니다.",
+        "독립적인 성능 비교 수치는 이 자료에서 확인되지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "SK하이닉스 AI Infra Summit 2026 전시",
+          "url": "https://news.skhynix.com/en/ai-infra-summit-2026/",
+          "published": "2026-09-17",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "HBM과 SSD 사이의 새 계층 구상은 AI 추론의 용량·대역폭 제약을 함께 다룰 가능성이 있습니다. 구조 모형 전시이며 실물 성능·양산·상용 적용은 미확인입니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/ai-infra-summit-2026/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AI 추론에서 큰 용량과 빠른 데이터 전달을 함께 확보하려는 메모리 개발 방향은 호재입니다. 공개된 것은 구조 모형으로, 작동 샘플·내구성·양산성은 입증되지 않았습니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/ai-infra-summit-2026/"
+        ]
+      }
+    },
+    {
+      "id": "yaskawa-20260914-hc12-technology",
+      "industry": "로봇·제조",
+      "company": "Yaskawa",
+      "type": "technology",
+      "title": "12 kg 협동 로봇 MOTOMAN-HC12 출시 발표",
+      "technologyName": "협동 로봇 토크 감지·설치 구조",
+      "technologyIds": [
+        "cobot"
+      ],
+      "published": "2026-09-14",
+      "checkedAt": "2026-10-11",
+      "direction": "제품 집중",
+      "stage": "제품 출시 발표·2026년 8월 31일 판매 시작",
+      "before": null,
+      "after": "MOTOMAN-HC12는 12 kg 하중·1410 mm 도달 거리와 자체 개발 토크 센서를 갖췄습니다.",
+      "facts": [
+        "HC10DTP의 후속 모델이라고 설명했습니다.",
+        "설치 바닥 지름을 275 mm에서 170 mm로 줄였다고 밝혔습니다.",
+        "판매 시작일은 8월 31일이며 공개 발표일은 9월 14일입니다."
+      ],
+      "interpretation": "해석: 좁은 작업 공간과 협동 작업을 겨냥한 제품 확대입니다. 충돌 감지 개선 주장은 현장 조건별 검증이 필요합니다.",
+      "why": "설치 크기 수치와 실제 생산성·사고 감소는 다른 지표입니다.",
+      "next": "실제 작업 속도·접촉 힘·설치 조건과 고객 적용을 확인해야 합니다.",
+      "limitations": [
+        "생산성·안전 개선은 회사 설명이며 독립 비교 시험이 없습니다."
+      ],
+      "sources": [
+        {
+          "title": "Sales Launch of the MOTOMAN-HC12 Collaborative Robot",
+          "url": "https://www.yaskawa-global.com/newsrelease/product/179972",
+          "published": "2026-09-14",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "12 kg·1410 mm 협동 로봇 MOTOMAN-HC12 출시 발표",
+        "narrative": "9월 14일 Yaskawa는 MOTOMAN-HC12를 발표했습니다. 판매는 8월 31일 시작했습니다. 작은 설치 구조와 토크 센서를 갖췄으나 현장 생산성 비교는 없습니다.",
+        "impact": {
+          "text": "회사는 자체 토크 센서와 작은 설치 구조로 협동 작업의 안전과 배치 편의성을 높이려 합니다.",
+          "status": "목표",
+          "sourceUrl": "https://www.yaskawa-global.com/newsrelease/product/179972"
+        }
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "하중·도달 거리·설치 크기가 공개된 후속 제품입니다. 성능 우위는 기업 주장과 독립 시험을 구분해야 합니다.",
+        "sourceUrls": [
+          "https://www.yaskawa-global.com/newsrelease/product/179972"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "협동 로봇의 설치 공간과 작업 수요를 겨냥한 제품 확장입니다. 현장 생산성·판매 실적은 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://www.yaskawa-global.com/newsrelease/product/179972"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260909-mistral-partnership",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "Mistral AI와 반도체 설계·제조용 내부 AI 협력",
+      "technologyName": "반도체 공정용 온프레미스 AI",
+      "technologyIds": [
+        "inspection"
+      ],
+      "published": "2026-09-09",
+      "checkedAt": "2026-10-10",
+      "direction": "방향 전환",
+      "stage": "전략적 협력·개발 계획",
+      "before": null,
+      "after": "반도체 운영에 맞춘 온프레미스 AI 모델과 도구를 Mistral AI와 개발·적용하는 협력을 발표했습니다.",
+      "facts": [
+        "민감한 기술·운영 데이터를 삼성 반도체 인프라 내부에서 처리하는 방식을 제시했습니다.",
+        "결함 검출과 장비 최적화를 적용 대상으로 들고 투자 참여도 발표했습니다."
+      ],
+      "interpretation": "AI 칩 공급뿐 아니라 설계·제조 과정에 AI를 적용하려는 방향으로 해석합니다.",
+      "why": "AI 도입 계획을 실제 수율 개선이나 현장 적용 완료와 구분해 추적할 수 있습니다.",
+      "next": "공장별 적용 범위와 결함 검출·수율 개선의 검증 자료를 확인합니다.",
+      "limitations": [
+        "모델 개발·적용 협력 발표이며 배포 완료와 실제 수율 개선 수치는 확인되지 않았습니다.",
+        "뉴스룸 공개일은 9월 9일이고 본문 보도자료의 날짜는 9월 8일입니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure/",
+          "published": "2026-09-09",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "Mistral AI와 사내 서버용 반도체 설계·제조 AI 협력 발표",
+        "narrative": "Mistral AI와 반도체 설계·제조에 맞춘 사내 서버용 AI 협력을 발표했습니다. 민감한 생산 데이터를 외부로 보내지 않으면서 불량 탐지와 장비 조정을 개선하고, 개발 기간을 줄여 생산 품질을 안정시키는 것이 목표입니다.",
+        "impact": {
+          "text": "민감한 생산 데이터를 사내에 두고 AI로 불량 탐지와 장비 조정을 개선해, 개발 기간을 줄이고 생산 품질을 안정시키는 것이 목표",
+          "status": "목표",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure/"
+        }
+      },
+      "importance": {
+        "stars": 1,
+        "reason": "온프레미스 AI 개발·적용이라는 대상과 방식이 구체적인 협력입니다. 배포 완료나 제조 개선 결과가 없어 산업 영향은 아직 제한적으로 평가합니다.",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "사내 생산 데이터를 활용한 AI 협력으로 불량 탐지와 장비 조정 개선이 기대됨. 실제 개발 기간·생산 비용 감소 폭은 미확인",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure/"
+        ]
+      }
+    },
+    {
+      "id": "asml-tsmc-20260908-mask12-technology",
+      "industry": "반도체",
+      "company": "TSMC",
+      "type": "technology",
+      "title": "High-NA EUV의 12인치 마스크 전환을 위한 공동 로드맵 발표",
+      "technologyName": "High-NA EUV 대형 포토마스크",
+      "technologyIds": [
+        "euv"
+      ],
+      "published": "2026-09-08",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "산업 공동개발·장기 로드맵",
+      "before": null,
+      "after": "12인치 마스크 시험라인은 2031년, 관련 선단 공정 장비 준비는 2033년을 목표로 합니다.",
+      "facts": [
+        "현재 6인치 마스크에서 더 큰 마스크로 전환하는 산업 협력을 발표했습니다.",
+        "TSMC는 2030년부터 High-NA를 선단 공정 양산에 사용할 의향을 제시했습니다."
+      ],
+      "interpretation": "노광 생산성과 큰 칩의 노광 제약에 대응하는 장기 공정 기반 준비로 해석합니다.",
+      "why": "High-NA 채택과 대형 마스크 전환은 서로 다른 단계와 일정입니다.",
+      "next": "시험라인·마스크 생태계·장비 준비의 실제 달성을 확인해야 합니다.",
+      "limitations": [
+        "9월 발표의 이력 보완이며 10월의 새 양산 사건이 아닙니다.",
+        "생산성·비용 개선은 기대 효과이며 독립적인 실측 비교가 아닙니다."
+      ],
+      "sources": [
+        {
+          "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+          "url": "https://pr.tsmc.com/english/news/3338",
+          "published": "2026-09-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "12인치 마스크 전환은 High-NA 노광의 생산성·장비·마스크 공급망에 연결되는 장기 변화입니다. 2031·2033년 목표 로드맵으로 실제 개선 실적은 아닙니다.",
+        "sourceUrls": [
+          "https://pr.tsmc.com/english/news/3338"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "장비·마스크의 공동 로드맵은 High-NA 전환을 준비할 구체적인 개발 경로입니다. 2031·2033년 목표이며 실제 생산성·비용 개선은 검증되지 않았습니다.",
+        "sourceUrls": [
+          "https://pr.tsmc.com/english/news/3338"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260908-asml-high-na",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "technology",
+      "title": "ASML과 High NA EUV 협력, 2028년 DRAM 도입 계획",
+      "technologyName": "High NA EUV·12인치 포토마스크",
+      "technologyIds": [
+        "euv",
+        "dram"
+      ],
+      "published": "2026-09-08",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "협력 확대·양산 도입 계획",
+      "before": null,
+      "after": "차세대 12인치 포토마스크 개발 협력과 2028년까지 미래 DRAM 양산에 High NA EUV를 도입하려는 계획을 발표했습니다.",
+      "facts": [
+        "삼성은 12인치 포토마스크 산업 공동 추진에 참여한다고 밝혔습니다.",
+        "마스크 기술과 지원 인프라 개발을 협력 범위로 제시했습니다."
+      ],
+      "interpretation": "DRAM 미세화와 생산 공정 효율을 위한 장비·마스크 생태계 준비로 해석합니다.",
+      "why": "장비 협력과 실제 양산 공정 도입은 서로 다른 단계입니다.",
+      "next": "장비 설치, 마스크 준비, 공정 인증과 DRAM 양산 적용 여부를 확인합니다.",
+      "limitations": [
+        "2028년은 회사가 제시한 목표이며 현재 적용 완료를 뜻하지 않습니다.",
+        "비용·생산성 개선은 기대 효과이고 실측 개선량은 제시하지 않았습니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/",
+          "published": "2026-09-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "ASML과 차세대 미세회로 노광 기술 협력 · 2028년 D램 도입 계획",
+        "narrative": "ASML과 차세대 미세회로 제조 협력을 확대하고 2028년까지 미래 D램 양산에 더 정밀한 노광 장비를 도입할 계획을 내놨습니다. 회로를 더 촘촘히 그리면서 생산 단계를 줄여 제조비를 낮추려는 방향이며, 실제 비용 절감은 아직 목표입니다.",
+        "impact": {
+          "text": "회로를 더 정밀하게 그리고 생산 단계를 줄여 생산량을 늘리고 제조비를 낮추려는 계획. 비용 절감 실현 여부는 미확인",
+          "status": "목표",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/"
+        }
+      },
+      "milestones": [
+        {
+          "date": "2028",
+          "title": "차세대 노광 기술의 미래 D램 양산 도입 목표",
+          "status": "목표",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "차세대 D램의 미세회로 제조·생산 단계 축소에 연결되는 공정 협력. 도입·비용 절감은 계획 단계",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "정밀한 회로 제조와 생산 단계 축소를 추진해 차세대 D램 경쟁력 향상이 기대됨. 2028년 도입 계획으로 장비 부담과 실현 효과는 후속 확인 필요",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/"
+        ]
+      }
+    },
+    {
+      "id": "lam-2026-oregon-lab",
+      "industry": "반도체",
+      "company": "Lam Research",
+      "type": "strategy",
+      "title": "공정 개발을 앞당기기 위해 클린룸 연구시설 증설",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-31",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "연구시설 착공·개방 계획",
+      "before": null,
+      "after": "오리건 신규 연구시설 착공을 발표했다. 완공 시 Tualatin 클린룸 연구 공간을 50% 이상 확대하고 2028년 개방을 계획한다.",
+      "facts": [
+        "증착·식각·재료·하드웨어 검증 역량을 확충하려는 시설이다."
+      ],
+      "interpretation": "장비 판매뿐 아니라 고객과의 공정 실험·검증 기반에도 투자하는 방향이다.",
+      "why": "공정 연구자·엔지니어는 고객 공동개발과 신소재 검증 기반을 추적할 수 있다.",
+      "next": "건설 진척과 연구시설 가동·고객 공동개발 성과를 확인한다.",
+      "limitations": [
+        "착공은 연구시설 가동 완료가 아니다.",
+        "증설 비율은 연구 공간 기준으로 장비 생산능력과 다르다."
+      ],
+      "sources": [
+        {
+          "title": "Lam Research 공식 발표 · 2026-08-31",
+          "url": "https://newsroom.lamresearch.com/lam-oregon-lab-expansion-accelerates-ai-chip-innovation",
+          "published": "2026-08-31",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "클린룸 연구 공간을 50% 이상 확대하는 계획은 고객 공정·신소재 검증의 연구 기반에 영향을 줍니다. 2028년 개방 목표이며 장비 생산능력 증가와는 다릅니다.",
+        "sourceUrls": [
+          "https://newsroom.lamresearch.com/lam-oregon-lab-expansion-accelerates-ai-chip-innovation"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "연구시설 착공과 클린룸 공간 확대는 고객 공동개발·신소재 검증 역량을 늘리는 진전입니다. 2028년 개방 계획으로 현재 가동 시설이나 장비 생산량 증가는 아닙니다.",
+        "sourceUrls": [
+          "https://newsroom.lamresearch.com/lam-oregon-lab-expansion-accelerates-ai-chip-innovation"
+        ]
+      }
+    },
+    {
+      "id": "nvidia-fy27q2-platform",
+      "industry": "반도체",
+      "company": "NVIDIA",
+      "type": "strategy",
+      "title": "AI GPU에서 CPU·네트워크를 묶은 플랫폼 공급으로",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-26",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "플랫폼 생산·파트너 운영 발표",
+      "before": null,
+      "after": "Vera Rubin 플랫폼의 본격 생산과 파트너의 랙 운영을 발표했다. CPU·네트워크도 함께 소개했다.",
+      "facts": [
+        "파트너로 CoreWeave·Google Cloud·Microsoft Azure·OCI·Nebius를 제시했다.",
+        "Vera CPU와 Spectrum-6 스위치를 플랫폼 구성으로 발표했다."
+      ],
+      "interpretation": "칩 단품보다 시스템 전체를 공급하는 플랫폼 중심 전략이 드러난다.",
+      "why": "메모리·광통신·냉각·시스템 설계를 GPU와 연결해 살펴볼 수 있다.",
+      "next": "파트너별 실제 배치 규모와 시스템 운영 성능을 확인한다.",
+      "limitations": [
+        "본격 생산은 모든 고객에게 납품·운영이 완료됐다는 뜻이 아니다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA 공식 발표 · 2026-08-26",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+          "published": "2026-08-26",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "GPU·CPU·네트워크를 함께 공급하는 플랫폼 전환은 메모리·통신·냉각·시스템 설계를 함께 바꿀 수 있습니다. 기업의 생산·파트너 운영 발표로 전체 고객의 적용 완료는 아닙니다.",
+        "sourceUrls": [
+          "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "GPU·CPU·네트워크를 묶은 플랫폼의 생산과 파트너 운영이 진행돼 시스템 공급의 실제 적용 범위가 넓어졌습니다. 전체 고객 납품이나 독립 성능 검증을 뜻하지는 않습니다.",
+        "sourceUrls": [
+          "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+        ]
+      }
+    },
+    {
+      "id": "nvidia-fy27q2-vera-rubin",
+      "industry": "반도체",
+      "company": "NVIDIA",
+      "type": "technology",
+      "title": "Vera Rubin은 플랫폼 생산과 파트너 랙 운영 단계",
+      "technologyName": "Vera Rubin AI 플랫폼",
+      "technologyIds": [
+        "accelerator"
+      ],
+      "published": "2026-08-26",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "본격 생산·파트너 랙 운영",
+      "before": null,
+      "after": "Vera Rubin의 본격 생산과 클라우드 파트너 랙 운영을 발표했다.",
+      "facts": [
+        "GPU·CPU·네트워크를 묶은 플랫폼으로 소개했다."
+      ],
+      "interpretation": "제품 발표에서 시스템 생산·파트너 적용으로 진척을 추적할 근거다.",
+      "why": "AI 시스템 엔지니어는 제품 사양뿐 아니라 랙 배치·메모리·통신 조건을 함께 살펴볼 단계다.",
+      "next": "서비스별 가용성, 고객 운영 규모와 비교 조건이 같은 성능 자료를 확인한다.",
+      "limitations": [
+        "기업 발표이며 독립 검증은 아니다.",
+        "파트너 랙 운영이 모든 사용자의 상용 서비스 이용 가능을 뜻하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "NVIDIA 공식 발표 · 2026-08-26",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+          "published": "2026-08-26",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "플랫폼 생산과 파트너 랙 운영은 시스템 공동 설계가 적용 단계로 진행됐다는 소식입니다. 독립 성능 비교나 모든 고객의 서비스 이용 가능 상태는 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "Vera Rubin이 생산과 파트너 랙 운영 단계에 진입해 발표·설계에서 실제 구축으로 진전됐습니다. 모든 고객의 이용 가능 여부와 실제 운영 비용·성능은 별도 확인이 필요합니다.",
+        "sourceUrls": [
+          "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+        ]
+      }
+    },
+    {
+      "id": "siemensenergy-20260825-ti-strategy",
+      "industry": "에너지",
+      "company": "Siemens Energy",
+      "type": "strategy",
+      "title": "산업 에너지 사업의 독립 준비로 발전·송전에 투자 집중",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-25",
+      "checkedAt": "2026-10-10",
+      "direction": "방향 전환",
+      "stage": "법적·운영상 분리 준비",
+      "before": null,
+      "after": "Transformation of Industry를 독립시키고 향후 연결 제외를 추진한다고 발표했습니다.",
+      "facts": [
+        "외부 투자자 또는 자본시장 거래 등 소유구조 선택지를 검토합니다.",
+        "일정한 소수 지분을 유지할 의향을 제시했습니다.",
+        "현재 투자 우선순위가 발전·송전이라고 명시했습니다."
+      ],
+      "interpretation": "사업 폐쇄보다 사업 구조 분리와 자본 배분 변경으로 해석합니다.",
+      "why": "산업 에너지 솔루션과 발전·송전의 사업 방향이 갈라지는 근거입니다.",
+      "next": "독립 일정·최종 소유구조·거래 완료를 확인해야 합니다.",
+      "limitations": [
+        "8월 계획의 이력 보완이며 분리 거래 완료가 아닙니다.",
+        "후속 공시 전체와 최종 거래 상태는 미확인입니다."
+      ],
+      "sources": [
+        {
+          "title": "Siemens Energy is starting preparations for business area Transformation of Industry to become a standalone company",
+          "url": "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-is-starting-preparations-for-business-area-transf.html",
+          "published": "2026-08-25",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "사업 분리와 투자 집중이라는 조직 재편 계획입니다. 새 발전·송전 기술이나 실제 적용 변화가 없어 기술 동향에서 제외합니다.",
+        "sourceUrls": [
+          "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-is-starting-preparations-for-business-area-transf.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "사업 독립·연결 제외는 조직 재편입니다. 발전·송전 기술의 성능이나 적용 결과가 없어 기술 변화의 방향을 평가할 근거가 없습니다.",
+        "sourceUrls": [
+          "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-is-starting-preparations-for-business-area-transf.html"
+        ]
+      }
+    },
+    {
+      "id": "micron-20260820-researchlabs-strategy",
+      "industry": "반도체",
+      "company": "Micron",
+      "type": "strategy",
+      "title": "장기 메모리 연구기관에 10년간 100억 달러 투자 계획",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-20",
+      "checkedAt": "2026-10-10",
+      "direction": "투자 확대",
+      "stage": "연구기관 공개·시설 계획",
+      "before": null,
+      "after": "Boise 중심 Micron Research Labs와 향후 10년간 100억 달러 계획을 발표했습니다.",
+      "facts": [
+        "메모리·컴퓨팅 구조·패키징·미래 제조를 연구 영역으로 제시했습니다.",
+        "새 연구시설 착공은 2027년을 예상합니다."
+      ],
+      "interpretation": "차세대 제품을 넘는 장기 기초 연구와 외부 협력을 강화하는 방향으로 해석합니다.",
+      "why": "제품별 생산능력 투자와 장기 연구시설 투자는 목적·일정이 다릅니다.",
+      "next": "착공·시설 가동·투자 집행과 실제 연구 결과를 확인해야 합니다.",
+      "limitations": [
+        "8월 발표의 이력 보완이며 100억 달러 집행 완료가 아닙니다.",
+        "시설 착공과 연구 성과는 향후 확인 사항입니다."
+      ],
+      "sources": [
+        {
+          "title": "Micron Unveils Micron Research Labs",
+          "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+          "published": "2026-08-20",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "10년간 100억 달러의 장기 메모리 연구시설 계획은 공정·소재 개발 기반에 영향을 줄 규모입니다. 투자 집행과 연구 성과는 미래 확인 사항입니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "10년간 100억 달러를 제시한 장기 메모리 연구 기반 구축은 차세대 기술 개발에 유리한 투자 방향입니다. 집행 완료·시설 가동·연구 성과는 아직 확인되지 않았습니다.",
+        "sourceUrls": [
+          "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx"
+        ]
+      }
+    },
+    {
+      "id": "catl-20260814-supernode-strategy",
+      "industry": "에너지",
+      "company": "CATL",
+      "type": "strategy",
+      "title": "Supernode 2단계 상업운전과 3단계 금융약정으로 ESS 공급 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-14",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "2단계 상업운전·3단계 금융조달",
+      "before": null,
+      "after": "CATL은 2단계 운전과 3단계 금융조달 완료를 발표하고 단계별 ESS 공급을 설명했습니다.",
+      "facts": [
+        "3단계 부채 조달은 4억6,900만 호주달러라고 밝혔습니다.",
+        "첫 3개 단계의 계획 용량은 780MW·3,074MWh입니다.",
+        "8시간 EnerQB 저장 솔루션은 향후 단계의 검토 대상으로 구분됩니다."
+      ],
+      "interpretation": "ESS 장비 공급에 장기 서비스와 단계별 사업 확장을 결합하는 방향으로 해석합니다.",
+      "why": "실제 운전 구간·자금 확보 구간·차후 검토 기술을 분리해야 합니다.",
+      "next": "3단계 건설·운전과 EnerQB 후속 채택 여부를 확인해야 합니다.",
+      "limitations": [
+        "8월 발표의 이력 보완이며 현재 전체 용량 운전 완료를 의미하지 않습니다.",
+        "금융조달액을 CATL 자체 투자액으로 표시하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "CATL and Quinbrook Build on Supernode Partnership Following Stage 2 and Stage 3 Major Milestones",
+          "url": "https://www.catl.com/en/news/6951.html",
+          "published": "2026-08-14",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "ESS 일부 구간의 상업운전은 저장 기술이 실제 전력 인프라에 적용되는 진전입니다. 후속 구간의 금융약정과 전체 용량의 운전 완료는 구분해야 합니다.",
+        "sourceUrls": [
+          "https://www.catl.com/en/news/6951.html"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "ESS 2단계 상업운전은 실제 공급·운영의 진전이고 3단계 자금 확보는 다음 배치의 실행 기반입니다. 전체 단계의 운전 완료나 CATL 자체 투자로 확대 해석하지 않습니다.",
+        "sourceUrls": [
+          "https://www.catl.com/en/news/6951.html"
+        ]
+      }
+    },
+    {
+      "id": "amat-2026q3-manufacturing",
+      "industry": "반도체",
+      "company": "Applied Materials",
+      "type": "strategy",
+      "title": "DRAM·선단 공정·첨단 패키징 수요를 겨냥한 공급 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-13",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "투자·개발 계획",
+      "before": null,
+      "after": "향후 수요를 지원할 추가 제조능력 투자를 진행한다고 밝혔다. EPIC R&D 협력은 11개로 확대했다.",
+      "facts": [
+        "하반기 DRAM·선단 파운드리 로직·첨단 패키징 성장 기대를 밝혔다.",
+        "반도체 시스템 부문의 2026년 매출 기대를 다시 높였다."
+      ],
+      "interpretation": "고객의 AI 칩 투자가 재료 공정 장비와 공동 R&D 확충으로 연결된다.",
+      "why": "노광뿐 아니라 증착·재료 공정 및 패키징 장비의 기회를 비교할 수 있다.",
+      "next": "증설의 규모·가동 시점과 고객 주문·공동개발 결과를 확인한다.",
+      "limitations": [
+        "성장 기대는 예측이다.",
+        "이 자료에서는 추가 제조능력의 구체적 규모를 확인하지 못했다."
+      ],
+      "sources": [
+        {
+          "title": "Applied Materials 공식 발표 · 2026-08-13",
+          "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results",
+          "published": "2026-08-13",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 0,
+        "reason": "매출 기대와 추가 제조 투자의 방향 설명이 중심입니다. 추가 생산능력의 규모·구체적 실행 단계가 확인되지 않아 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "미지수",
+        "reason": "제조능력 투자의 방향만 있고 구체적인 증설 규모·가동 일정·공정 결과가 없습니다. 공급 확대 효과를 판단할 실행 근거가 부족합니다.",
+        "sourceUrls": [
+          "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results"
+        ]
+      }
+    },
+    {
+      "id": "skhynix-20260807-y2-m17-strategy",
+      "industry": "반도체",
+      "company": "SK하이닉스",
+      "type": "strategy",
+      "title": "용인 Y2·청주 M17에 약 54조원 투자 승인",
+      "technologyName": null,
+      "technologyIds": [
+        "hbm",
+        "dram",
+        "nand"
+      ],
+      "published": "2026-08-07",
+      "checkedAt": "2026-10-11",
+      "direction": "투자 확대",
+      "stage": "투자 승인·공장 건설 계획",
+      "before": null,
+      "after": "용인 Y2에 35.2조원, 청주 M17에 19.1조원을 투자할 계획입니다.",
+      "facts": [
+        "이사회가 두 공장 투자안을 승인했습니다.",
+        "Y2의 첫 클린룸은 2029년 6월, M17은 2028년 12월 개방 목표입니다.",
+        "클린룸 확대와 장비 설치는 고객 수요에 맞춰 순차 진행할 계획입니다."
+      ],
+      "interpretation": "장기 생산 기반 확대를 기대하는 계획입니다. 가동 성과는 미확인입니다.",
+      "why": "클린룸과 양산은 다릅니다.",
+      "next": "착공·장비 설치·고객 수요를 확인해야 합니다.",
+      "limitations": [
+        "완료된 투자·양산 실적이 아닙니다.",
+        "클린룸 개방 목표를 제품 양산 시작일로 바꿀 수 없습니다."
+      ],
+      "sources": [
+        {
+          "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17",
+          "url": "https://news.skhynix.com/en/fab-facility-investment-2026/",
+          "published": "2026-08-07",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "용인 Y2·청주 M17에 약 54조원 투자 승인",
+        "narrative": "8월 7일 SK하이닉스는 Y2·M17 투자를 발표했습니다. 생산 기반을 확보하되 장비는 수요에 맞춰 설치할 계획입니다. 자금 부담과 실제 생산 전환을 지켜봐야 합니다.",
+        "impact": {
+          "text": "회사는 공장을 미리 확보하고 장비를 수요에 맞춰 설치해 AI 메모리 공급 기반과 투자 효율을 높이려 합니다.",
+          "status": "목표",
+          "sourceUrl": "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        }
+      },
+      "milestones": [
+        {
+          "date": "2027-07",
+          "title": "용인 Y2 착공",
+          "status": "예정",
+          "sourceUrl": "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        },
+        {
+          "date": "2029-06",
+          "title": "용인 Y2 첫 클린룸 개방",
+          "status": "목표",
+          "sourceUrl": "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        },
+        {
+          "date": "2027-02",
+          "title": "청주 M17 착공",
+          "status": "예정",
+          "sourceUrl": "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        },
+        {
+          "date": "2028-12",
+          "title": "청주 M17 첫 클린룸 개방",
+          "status": "목표",
+          "sourceUrl": "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "용인 Y2·청주 M17에 각각 35.2조원·19.1조원을 승인한 구체적 생산 기반 계획입니다. 메모리 공급망에 큰 영향을 줄 규모이지만 실제 가동·양산은 남아 있습니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "장기 생산 기반 확대는 호재로 봅니다. 약 54조원 부담과 수요에 따른 장비 설치를 함께 고려했습니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/fab-facility-investment-2026/"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260805-fms-memory-architecture",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "technology",
+      "title": "FMS에서 zHBM·zNAND-O 콘셉트와 400단 이상 BV-NAND 공개",
+      "technologyName": "3D 메모리·웨이퍼 본딩",
+      "technologyIds": [
+        "hbm",
+        "nand"
+      ],
+      "published": "2026-08-05",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "콘셉트 모델·기술 로드맵 공개",
+      "before": null,
+      "after": "AI 가속기 위에 HBM을 적층하는 zHBM과 zNAND-O 콘셉트, 웨이퍼 본딩 기반 V10 BV-NAND를 공개했습니다.",
+      "facts": [
+        "zHBM은 HBM을 프로세서 옆에 두는 구성에서 수직 적층하는 구상을 제시합니다.",
+        "V10 BV-NAND는 400단 이상 메모리 구조를 소개했습니다."
+      ],
+      "interpretation": "AI 메모리의 연결 거리·적층 구조·저장 밀도를 함께 바꾸려는 로드맵으로 해석합니다.",
+      "why": "기존 메모리 판매 계획과 새로운 아키텍처 구상을 구분해 볼 수 있습니다.",
+      "next": "콘셉트의 샘플·양산 전환 일정과 동일 조건의 성능·열 검증을 확인합니다.",
+      "limitations": [
+        "zHBM·zNAND-O는 콘셉트 모델이며 상용 양산 제품이라고 표시하지 않습니다.",
+        "회사 발표의 기대 성능을 독립 실측 결과로 해석하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/",
+          "published": "2026-08-05",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "AI 칩 위에 메모리를 쌓는 zHBM 구상과 400단 이상 저장용 메모리 공개",
+        "narrative": "AI 칩 위에 고속 메모리를 쌓는 zHBM 구상과 400단 이상 저장용 메모리를 공개했습니다. 데이터가 이동하는 거리를 줄여 AI 처리 속도와 전력 효율을 높이려는 연구 방향이 눈에 띕니다. 다만 공개된 구상과 양산 성과는 구분해야 합니다.",
+        "impact": {
+          "text": "칩과 메모리 사이의 데이터 이동 거리를 줄여 AI 처리 속도와 전력 효율을 높이는 구상. 양산 성과와는 구분",
+          "status": "목표",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/"
+        }
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "AI 칩과 메모리의 입체 구성으로 데이터 이동을 줄이는 새 설계 방향. 열·샘플·양산 성능 검증은 별도 필요",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "칩과 메모리 사이의 데이터 이동을 줄이고 저장 용량을 늘리는 개발 방향은 호재로 평가합니다. 콘셉트 공개와 실제 샘플·양산 전환·열 관리 검증은 구분해야 합니다.",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/"
+        ]
+      }
+    },
+    {
+      "id": "amd-2026q2-rack-ecosystem",
+      "industry": "반도체",
+      "company": "AMD",
+      "type": "strategy",
+      "title": "GPU·서버 랙·소프트웨어를 함께 키우는 AI 전략",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-08-04",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "제품 출시·협력 계획",
+      "before": null,
+      "after": "Helios 랙 솔루션과 Instinct MI400 제품군을 출시했다고 보고하고, Anthropic·Microsoft 등과 협력 확대를 발표했다.",
+      "facts": [
+        "Anthropic과 최대 2GW의 MI450 GPU 배치를 위한 협력을 발표했다.",
+        "ROCm 소프트웨어 최적화와 Azure 랙 배치 협력을 포함한다."
+      ],
+      "interpretation": "GPU 경쟁을 랙 구성과 개발 도구·고객 생태계까지 넓히는 방향이다.",
+      "why": "개발자는 ROCm 지원, 엔지니어는 랙 통합과 고객 적용을 추적할 수 있다.",
+      "next": "계획한 배치 물량, 워크로드별 소프트웨어 호환성과 실측을 확인한다.",
+      "limitations": [
+        "최대 2GW는 실제 배치가 완료된 용량이 아니다.",
+        "기업의 최고 성능 주장만으로 경쟁 우위를 단정하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "AMD 공식 발표 · 2026-08-04",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+          "published": "2026-08-04",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "GPU·서버 랙·소프트웨어를 함께 넓히는 전략은 AI 시스템 구성과 개발 도구의 선택에 영향을 줍니다. 최대 배치 계획과 실제 운전·호환성 성과는 다릅니다.",
+        "sourceUrls": [
+          "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "GPU 제품군과 랙 솔루션 출시로 하드웨어·ROCm·고객 협력을 함께 제공할 기반을 넓혔습니다. 최대 2GW 협력 규모는 실제 배치 완료량이 아니며 성능 우위는 별도 검증이 필요합니다.",
+        "sourceUrls": [
+          "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results"
+        ]
+      }
+    },
+    {
+      "id": "samsung-2026q2-2nm-plan",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "technology",
+      "title": "2nm 2세대는 하반기 모바일 제품 생산 확대 계획",
+      "technologyName": "2세대 2nm 공정",
+      "technologyIds": [],
+      "published": "2026-07-30",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "양산 확대 계획",
+      "before": "2분기에는 2nm HPC 관련 고객 설계 채택 확대를 보고했다.",
+      "after": "하반기 2세대 2nm 기반 모바일 제품 생산 확대를 계획했다.",
+      "facts": [
+        "4nm LPU·베이스다이 판매 확대도 계획한다."
+      ],
+      "interpretation": "설계 채택, 생산 계획, 실제 출하를 분리해 확인해야 한다.",
+      "why": "공정 엔지니어는 제품별 적용과 양산 진척을 살펴볼 수 있다.",
+      "next": "제품 출하와 양산 수율의 공개 근거를 확인한다.",
+      "limitations": [
+        "수율·경쟁 공정 대비 성능은 이 자료에서 확인되지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자 2026년 2분기 실적",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+          "published": "2026-07-30",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "하반기 2세대 2나노 공정 모바일 제품 생산 확대 계획",
+        "narrative": "2분기 실적 발표에서 하반기 2세대 2나노 공정 기반 모바일 제품 생산 확대를 예고했습니다. AI·고성능 연산용 칩 수주와 함께 반도체 위탁생산 사업의 매출 성장을 추진하는 계획으로, 실제 출하와 수율이 다음 확인 지점입니다.",
+        "impact": {
+          "text": "새 모바일 칩 생산 확대와 AI·고성능 연산용 칩 수주로 위탁생산 사업의 매출 성장을 추진. 아직 하반기 계획 단계",
+          "status": "목표",
+          "sourceUrl": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        }
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "첨단 2나노 공정의 제품 생산 확대 계획. 실제 양산 수율과 성능 비교를 확인해야 산업 적용의 진전을 평가 가능",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "차세대 모바일 칩 생산 확대를 통해 첨단 공정 사업 성장 기회를 넓히는 계획. 고객 주문·생산 수율·수익성에 따라 효과는 달라질 수 있음",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        ]
+      }
+    },
+    {
+      "id": "samsung-2026q2-ai-focus",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "서버 메모리 확대에서 차세대 AI 플랫폼 대응으로",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-07-30",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "판매 확대·하반기 계획",
+      "before": "2분기 HBM4 판매를 확대하고 HBM4E 샘플을 주요 고객에게 출하했다고 밝혔다.",
+      "after": "하반기 HBM4·DDR5·SOCAMM2 중심 판매 확대와 AI·HPC 파운드리 수주 확대를 추진한다.",
+      "facts": [
+        "2분기에는 서버 제품 중심으로 메모리 수요에 대응했다.",
+        "파운드리는 첨단 공정과 AI·HPC 설계 채택 확대를 계획한다."
+      ],
+      "interpretation": "메모리와 파운드리가 모두 AI 수요에 대응하지만 실행 단계는 서로 다르다.",
+      "why": "메모리 제품 개발과 AI 칩 제조 기회를 나누어 추적할 수 있다.",
+      "next": "고객 인증, 제품별 출하, 파운드리 양산 진척을 확인한다.",
+      "limitations": [
+        "기업의 계획이며 전체 사업의 방향 전환으로 단정할 수 없다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자 2026년 2분기 실적",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+          "published": "2026-07-30",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "AI용 고속 메모리와 서버용 D램 판매 확대 · AI 칩 위탁생산 수주 추진",
+        "narrative": "하반기에는 AI용 고속 메모리와 서버용 D램 판매를 확대하고 AI 칩 위탁생산 수주를 늘리겠다는 방향을 제시했습니다. 생산 확대 노력에도 공급 부족이 이어질 수 있다는 회사 전망은 AI 데이터센터 수요가 전략의 중심에 있음을 보여줍니다.",
+        "impact": {
+          "text": "AI 데이터센터의 메모리 수요에 대응하려는 전략. 생산 확대 노력에도 공급 부족이 이어질 수 있다는 회사 전망",
+          "status": "전망",
+          "sourceUrl": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        }
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "AI 메모리 판매와 수주를 늘리겠다는 사업 방향 설명입니다. 이 항목에 새 계약·제품 적용·실행 결과가 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AI 데이터센터 메모리 수요에 맞춰 고속 메모리 판매와 AI 칩 제조 수주를 늘리려는 방향. 고객 인증·공급 확대·비용에 따라 실적 기여는 달라질 수 있음",
+        "sourceUrls": [
+          "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+        ]
+      }
+    },
+    {
+      "id": "sk-2026q2-hbm4-shipments",
+      "industry": "반도체",
+      "company": "SK하이닉스",
+      "type": "technology",
+      "title": "HBM4는 샘플 단계를 넘어 양산 출하",
+      "technologyName": "HBM4 / HBM4E",
+      "technologyIds": [
+        "hbm"
+      ],
+      "published": "2026-07-29",
+      "checkedAt": "2026-10-09",
+      "direction": "제품 집중",
+      "stage": "양산 출하",
+      "before": null,
+      "after": "HBM4 양산 출하를 2분기에 시작했다고 발표했다. HBM4E는 상반기 샘플 완료로 구분했다.",
+      "facts": [
+        "하반기 HBM4 공급 확대를 계획한다."
+      ],
+      "interpretation": "HBM4와 후속 HBM4E의 성숙도를 따로 봐야 한다.",
+      "why": "설계·검증뿐 아니라 생산·패키징·고객 공급 이슈를 추적할 단계다.",
+      "next": "출하 확대와 HBM4E 고객 인증을 확인한다.",
+      "limitations": [
+        "이번 자료만으로 고객별 물량이나 수율은 비교할 수 없다."
+      ],
+      "sources": [
+        {
+          "title": "SK하이닉스 2026년 2분기 실적",
+          "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+          "published": "2026-07-29",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "HBM4는 샘플 단계를 넘어 양산 출하",
+        "narrative": "HBM4의 2분기 양산 출하 시작을 발표했습니다. 차세대 AI 메모리가 고객 공급 단계로 진전했다는 점이 핵심입니다. 다음 세대 HBM4E는 상반기 샘플 완료 단계이므로 두 제품의 진행 상황은 나눠 봐야 합니다."
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "차세대 AI 고속 메모리가 양산 출하로 진전한 사례. 고객별 물량·실제 운전 비교는 미공개",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/q2-2026-business-results/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "차세대 AI 메모리가 고객 양산 출하로 진전해 판매 기회 확대가 기대됨. 고객별 물량·수익성은 미공개",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/q2-2026-business-results/"
+        ]
+      }
+    },
+    {
+      "id": "sk-2026q2-selective-capacity",
+      "industry": "반도체",
+      "company": "SK하이닉스",
+      "type": "strategy",
+      "title": "HBM 공급을 늘리되 장기 계약과 수요에 맞춰 투자",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-07-29",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "출하 확대·설비 준비",
+      "before": null,
+      "after": "M15X 양산 일정을 앞당기고 약 10개 고객과 장기 계약을 체결했다고 밝혔다. 수요에 맞춘 투자 효율도 강조했다.",
+      "facts": [
+        "용인 1기 클린룸은 2027년 초 개방을 계획한다.",
+        "설비투자 규율과 수요 기반 투자를 명시했다."
+      ],
+      "interpretation": "증설 의지는 분명하지만 무조건적인 생산 확대보다 계약·수요 확인을 병행한다.",
+      "why": "증설 발표와 실제 고객 수요를 함께 살펴볼 수 있다.",
+      "next": "M15X 가동과 장기 계약에 따른 출하 실적을 확인한다.",
+      "limitations": [
+        "계획 일정이 실제 가동·매출 실현을 보장하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "SK하이닉스 2026년 2분기 실적",
+          "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+          "published": "2026-07-29",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "HBM 증설 일정과 장기 고객 계약을 연결한 발표는 메모리 수급과 AI 제품 조달에 의미가 있습니다. 실제 공장 가동·물량·매출 실현은 추가 확인이 필요합니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/q2-2026-business-results/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "고객 장기 계약과 M15X 준비를 함께 추진해 HBM 공급 확대의 수요 기반을 확보했습니다. 계획 일정·물량·수익성이 실제로 실현되는지는 후속 확인이 필요합니다.",
+        "sourceUrls": [
+          "https://news.skhynix.com/en/q2-2026-business-results/"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260725-broadcom-mou",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "strategy",
+      "title": "Broadcom과 HBM·2nm 공정·첨단 패키징 협력 MOU",
+      "technologyName": null,
+      "technologyIds": [
+        "hbm"
+      ],
+      "published": "2026-07-25",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "양해각서·협력 계획",
+      "before": null,
+      "after": "차세대 AI 인프라용 메모리, 2nm 이하 파운드리 공정과 첨단 패키징의 협력을 확대하는 MOU를 발표했습니다.",
+      "facts": [
+        "메모리 협력 대상에 HBM을 포함했습니다.",
+        "Broadcom 제품용 2nm 이하 공정과 2.3D·2.5D 패키징으로 협력 범위를 넓히려는 계획을 제시했습니다."
+      ],
+      "interpretation": "메모리와 파운드리·패키징을 묶어 고객 협력을 확대하려는 방향으로 해석합니다.",
+      "why": "MOU를 확정 매출이나 고객 제품 양산 완료로 오해하지 않도록 추적합니다.",
+      "next": "구체적 공급 계약과 공정 적용·제품 출하 여부를 확인합니다.",
+      "limitations": [
+        "양해각서 발표이며 실제 공급량과 매출 실현은 확인되지 않았습니다.",
+        "회사 제시 협력 규모의 기대치를 확정 수주액으로 표시하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/",
+          "published": "2026-07-25",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "Broadcom과 AI 메모리·2나노 이하 공정·칩 조립 기술 협력 양해각서 체결",
+        "narrative": "Broadcom과 AI용 메모리, 2나노 이하 공정, 첨단 칩 조립 분야의 협력 양해각서를 체결했습니다. 메모리부터 제조·조립까지 함께 제공해 AI·통신 칩의 성능과 전력 효율을 높이려는 목표입니다. 구체적 공급 계약으로 이어지는지가 관전 포인트입니다.",
+        "impact": {
+          "text": "메모리·제조·칩 조립 기술을 함께 제공해 AI와 통신 칩의 성능·전력 효율을 높이는 것이 목표. 확정 매출은 아님",
+          "status": "목표",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/"
+        }
+      },
+      "importance": {
+        "stars": 0,
+        "reason": "양해각서와 협력 계획이며 확정 공급계약·물량·새 성능이 확인되지 않았습니다. 기대 규모를 실현된 변화로 볼 수 없어 기본 소식에서 제외합니다.",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AI 메모리·칩 제조·조립을 함께 제공하는 협력으로 고객 접점과 공급 기회 확대가 기대됨. 양해각서 단계라 확정 주문·매출은 아님",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/"
+        ]
+      }
+    },
+    {
+      "id": "intel-2026q2-capacity",
+      "industry": "반도체",
+      "company": "Intel",
+      "type": "strategy",
+      "title": "CPU·ASIC·패키징·파운드리에 대응하는 설비 투자 확대",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-07-23",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "투자·개발 계획",
+      "before": null,
+      "after": "제품과 파운드리 성장을 지원하기 위해 장비·클린룸·기판 투자를 늘린다고 발표했다.",
+      "facts": [
+        "Intel 3 기반 Xeon 생산 확대를 위한 50억 유로 투자도 보고했다."
+      ],
+      "interpretation": "AI 수요 대응이 GPU 외에 CPU·맞춤형 칩과 제조 기반으로 확장되는 신호다.",
+      "why": "설계 직무와 공정·패키징 직무의 개발 수요를 함께 볼 수 있다.",
+      "next": "공정별 실제 생산능력, 수율과 외부 고객 수주를 확인한다.",
+      "limitations": [
+        "투자 발표와 실제 집행·외부 파운드리 매출은 구분해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Intel 공식 발표 · 2026-07-23",
+          "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
+          "published": "2026-07-23",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "CPU·ASIC·패키징·파운드리를 지원하는 설비 확대는 여러 반도체 개발·제조 분야에 연결됩니다. 발표된 투자를 실제 집행이나 고객 매출로 간주할 수는 없습니다.",
+        "sourceUrls": [
+          "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "장비·클린룸·기판 투자는 CPU와 패키징·파운드리의 공급 기반을 준비하는 방향입니다. 실제 집행·가동과 외부 고객 채택이 확인돼야 효과의 크기를 판단할 수 있습니다.",
+        "sourceUrls": [
+          "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results"
+        ]
+      }
+    },
+    {
+      "id": "tsmc-2026q2-capacity",
+      "industry": "반도체",
+      "company": "TSMC",
+      "type": "strategy",
+      "title": "첨단 공정에 집중하며 연간 설비투자 예산을 상향",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-07-16",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "투자 계획",
+      "before": null,
+      "after": "2026년 설비투자 예산을 600억~640억 달러로 상향. 예산의 70~80%를 첨단 공정에 배정한다고 발표했다.",
+      "facts": [
+        "2분기 설명회에서 연간 투자 예산 상향을 발표했다.",
+        "패키징·테스트·마스크 등을 합친 항목에는 10~20%를 배정한다."
+      ],
+      "interpretation": "AI 수요 대응이 선단 공정과 후공정 투자로 이어지는 방향이다.",
+      "why": "공정·장비·패키징 수요를 함께 살펴볼 근거가 된다.",
+      "next": "분기별 집행액과 2nm 증설 진척을 확인한다.",
+      "limitations": [
+        "예산은 계획이며 집행 완료가 아니다.",
+        "패키징만의 투자액은 분리되지 않았다."
+      ],
+      "sources": [
+        {
+          "title": "TSMC 2026년 2분기 실적 설명회",
+          "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-08/3e494f0c14dd0890f897aa044415e21d93486cc4/TSMC%202Q26%20Transcript.pdf",
+          "published": "2026-07-16",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "600억~640억 달러의 예산과 첨단 공정 중심 배분은 공정·장비·소재 공급망에 파급력이 있는 계획입니다. 예산 상향이 집행 완료나 기술 성능 진전을 뜻하지는 않습니다.",
+        "sourceUrls": [
+          "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-08/3e494f0c14dd0890f897aa044415e21d93486cc4/TSMC%202Q26%20Transcript.pdf"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "상향한 설비투자 예산의 대부분을 첨단 공정에 배정해 차세대 칩 제조 기반을 강화하는 방향입니다. 예산은 집행액이 아니며 가동 일정·수요에 따라 효과는 달라집니다.",
+        "sourceUrls": [
+          "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-08/3e494f0c14dd0890f897aa044415e21d93486cc4/TSMC%202Q26%20Transcript.pdf"
+        ]
+      }
+    },
+    {
+      "id": "asml-2026q2-capacity",
+      "industry": "반도체",
+      "company": "ASML",
+      "type": "strategy",
+      "title": "노광 장비 생산능력을 2027년에 30% 늘릴 계획",
+      "technologyName": null,
+      "technologyIds": [],
+      "published": "2026-07-15",
+      "checkedAt": "2026-10-09",
+      "direction": "투자 확대",
+      "stage": "생산능력 확대 계획",
+      "before": "2026년 low-NA EUV 생산능력 약 65대, DUV immersion 약 130대를 기준으로 제시했다.",
+      "after": "2027년 EUV·DUV immersion 생산능력을 각각 30% 확대할 계획. 2028년 추가 30% 확대는 검토 단계다.",
+      "facts": [
+        "2027년 증설 계획과 2028년 검토를 구분해 발표했다."
+      ],
+      "interpretation": "고객의 AI 관련 증설이 장비 공급능력 확대로 이어지는 신호다.",
+      "why": "칩 제조사의 투자와 장비사의 준비를 연결해 볼 수 있다.",
+      "next": "실제 생산·납품 수량과 고객 주문 전환을 확인한다.",
+      "limitations": [
+        "생산능력은 매출 인식·실제 납품 수량과 다르다."
+      ],
+      "sources": [
+        {
+          "title": "ASML 2026년 2분기 실적과 생산능력 계획",
+          "url": "https://investor.asml.com/news-releases/news-release-details/q2-2026-financial-results",
+          "published": "2026-07-15",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "importance": {
+        "stars": 2,
+        "reason": "EUV·DUV 장비 생산능력의 30% 확대 계획은 칩 제조사의 공정 투자 여건에 영향을 줄 수 있습니다. 실제 납품 수량과 후속 확대의 실행은 별도 확인해야 합니다.",
+        "sourceUrls": [
+          "https://investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "EUV·DUV 생산능력의 2027년 30% 확대 목표는 칩 제조사의 장비 수요에 대응할 구체적인 공급 준비입니다. 실제 납품 증가가 아니며 2028년 추가 확대는 검토 단계입니다.",
+        "sourceUrls": [
+          "https://investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+        ]
+      }
+    },
+    {
+      "id": "samsung-20260708-pm1763-production",
+      "industry": "반도체",
+      "company": "삼성전자",
+      "type": "technology",
+      "title": "PCIe 6.0 기반 PM1763 기업용 SSD 양산 발표",
+      "technologyName": "AI 서버용 PCIe 6.0 SSD",
+      "technologyIds": [
+        "nand"
+      ],
+      "published": "2026-07-08",
+      "checkedAt": "2026-10-10",
+      "direction": "제품 집중",
+      "stage": "양산 발표",
+      "before": null,
+      "after": "삼성은 9세대 V-NAND와 4nm 컨트롤러를 사용하는 PM1763 기업용 SSD의 양산을 발표했습니다.",
+      "facts": [
+        "4·8·16 TB 구성을 소개했습니다.",
+        "직접 칩 냉각 방식과 보안 기능을 AI·HPC 서버 적용 요소로 제시했습니다."
+      ],
+      "interpretation": "AI 서버 저장장치가 개발 로드맵에서 양산 제품 단계로 이어지는 사례입니다.",
+      "why": "향후 아키텍처 콘셉트와 현재 양산 발표 제품을 구분할 수 있습니다.",
+      "next": "고객 서버 적용과 실제 운전 조건의 성능·전력·냉각 효과를 확인합니다.",
+      "limitations": [
+        "양산은 회사 발표 기준이며 고객별 출하량·실제 운영 결과는 확인되지 않았습니다.",
+        "회사 성능 수치를 독립 검증이나 서버 전체 성능 개선으로 해석하지 않습니다."
+      ],
+      "sources": [
+        {
+          "title": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
+          "url": "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/",
+          "published": "2026-07-08",
+          "kind": "기업 공식 발표"
+        }
+      ],
+      "briefing": {
+        "headline": "AI 서버용 PM1763 저장장치 양산 발표",
+        "narrative": "AI 서버용 PM1763 저장장치 양산을 발표했습니다. 회사는 데이터 전달 속도와 전력 효율을 높여 운영비를 줄이는 제품으로 설명했습니다. 기술 구상이 실제 판매 가능한 제품 단계로 옮겨간 사례지만, 고객 서버의 운전 효과는 별도 확인해야 합니다.",
+        "impact": {
+          "text": "AI 처리에 필요한 데이터를 더 빨리 전달하고 전력 효율을 높여 운영비를 줄이려는 제품. 회사 성능 설명 기준",
+          "status": "전망",
+          "sourceUrl": "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/"
+        }
+      },
+      "importance": {
+        "stars": 2,
+        "reason": "AI 서버용 저장장치가 양산 단계로 옮겨간 진전. 회사가 제시한 성능과 고객 현장 효과는 구분",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/"
+        ],
+        "basis": "editorial-content",
+        "revision": 3
+      },
+      "assessment": {
+        "label": "호재",
+        "reason": "AI 서버용 저장장치 양산으로 판매 가능한 제품군이 확대됨. 회사 성능 설명 기준이며 실제 판매량·고객 운전 효과는 확인 필요",
+        "sourceUrls": [
+          "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/"
+        ]
+      }
+    }
+  ],
+  "snapshotDate": "2026-10-11"
+}

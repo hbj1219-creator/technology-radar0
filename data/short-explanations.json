@@ -1,0 +1,845 @@
+{
+  "intel-20261009-tdx-strategy": {
+    "effect": "앱 일부를 지키는 SGX에서 가상 서버 전체를 지키는 TDX로 개발의 중심을 옮깁니다.",
+    "sourceUrls": [
+      "https://www.intel.com/content/www/us/en/newsroom/opinion/confidential-computing-growing-momentum-sharpened-focus.html"
+    ],
+    "application": "클라우드 서버에서 금융·의료 같은 민감한 데이터를 처리할 때 보호합니다.",
+    "termNames": [
+      "SGX",
+      "TDX"
+    ],
+    "headline": "Intel, 앱 일부 대신 가상 서버 전체를 보호하는 기술에 집중"
+  },
+  "spacex-20261009-lowband-mobile-strategy": {
+    "effect": "지상망과 위성망을 연결해 이동통신 범위를 넓히려는 계획입니다. 승인·망 구축은 남아 있습니다.",
+    "sourceUrls": [
+      "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+    ],
+    "application": "일반 휴대전화가 지상 기지국과 위성으로 연결되는 이동통신망에 쓰려는 계획입니다.",
+    "termNames": [
+      "MHz",
+      "Direct-to-Cell"
+    ],
+    "headline": "SpaceX, 위성과 휴대전화를 연결할 800MHz 주파수 확보 계획"
+  },
+  "asml-20261008-hyperna-technology": {
+    "effect": "더 미세한 회로를 노리는 장기 개발 구상입니다. 실물 장비 성능은 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://www.reuters.com/business/asml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08/"
+    ],
+    "application": "반도체 공장에서 지금보다 더 작은 회로를 새길 장비를 개발하는 데 쓰려는 구상입니다.",
+    "termNames": [
+      "Hyper NA"
+    ],
+    "headline": "ASML, 더 작은 반도체 회로를 새길 차세대 장비 구상 공개"
+  },
+  "basf-20261008-glythermin-technology": {
+    "effect": "AI 서버의 열을 액체로 빼내는 데 쓸 제품입니다. NVIDIA의 사용 요건을 충족했지만 실측 냉각 성능은 공개되지 않았습니다.",
+    "sourceUrls": [
+      "https://www.basf.com/global/en/media/news-releases/2026/10/p-26-162"
+    ],
+    "application": "AI 서버의 계산 칩에 닿은 금속판 안으로 냉각액을 흘려 열을 빼냅니다.",
+    "termNames": [
+      "GLYTHERMIN DC PG25",
+      "단상 액체냉각"
+    ],
+    "headline": "BASF, AI 서버 냉각액이 NVIDIA 사용 요건을 충족했다고 발표"
+  },
+  "blueorigin-20261008-constellation-strategy": {
+    "effect": "위성·통신 장비의 생산 기반을 넓히려는 계획입니다. 공장 가동·생산량은 아직 미확인입니다.",
+    "sourceUrls": [
+      "https://www.blueorigin.com/news/blue-origin-announces-new-texas-manufacturing-campus"
+    ],
+    "application": "텍사스의 새 공장에서 위성과 통신 장비를 만들려는 계획입니다.",
+    "termNames": [],
+    "headline": "Blue Origin, 위성·통신 장비를 만들 텍사스 공장 계획"
+  },
+  "intel-20261008-sandbox-technology": {
+    "effect": "AI 작업 공간을 동시에 얼마나 많이 만들 수 있는지 비교했습니다. 시험 조건이 달라 다른 CPU보다 좋다고 단정할 수는 없습니다.",
+    "sourceUrls": [
+      "https://www.intel.com/content/www/us/en/newsroom/news/data-center/scaling-sandboxed-agentic-ai-xeon-6.html"
+    ],
+    "application": "서버에서 여러 AI가 코드를 실행할 때 각각의 작업을 분리하는 환경에 쓰입니다.",
+    "termNames": [
+      "Xeon",
+      "샌드박스",
+      "AI 에이전트"
+    ],
+    "headline": "Intel, 서버에서 AI 작업 공간을 동시에 만드는 성능 비교"
+  },
+  "nvidia-20261008-us-science-commitment-strategy": {
+    "effect": "연구자에게 계산 자원과 교육 기회를 늘리려는 약정입니다. 지원 집행과 연구 성과는 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years"
+    ],
+    "application": "미국 연구기관의 AI·양자컴퓨팅 연구에 계산 자원과 교육을 지원하려는 약정입니다.",
+    "termNames": [
+      "양자컴퓨팅"
+    ],
+    "headline": "NVIDIA, 미국 과학 연구에 5년간 10억 달러 가치 지원 약정"
+  },
+  "yaskawa-20261008-nso-technology": {
+    "effect": "모터 안전 신호를 네트워크로 전달합니다. 설치비 절감은 회사 설명이며 실측 수치는 없습니다.",
+    "sourceUrls": [
+      "https://www.yaskawa-global.com/newsrelease/product/180236"
+    ],
+    "application": "공장 모터의 안전 제어 장치를 통신망에 연결할 때 쓰는 카드입니다.",
+    "termNames": [
+      "NSO",
+      "CIP Safety"
+    ],
+    "headline": "야스카와, 공장 모터의 안전 신호를 통신망으로 보내는 카드 발표"
+  },
+  "anthropic-20261007-haiku55-technology": {
+    "effect": "쉬운 작업은 빨리, 어려운 작업은 더 생각하게 설정할 수 있습니다. 속도·비용은 작업에 따라 달라집니다.",
+    "sourceUrls": [
+      "https://www.anthropic.com/claude-haiku-5-5"
+    ],
+    "application": "짧은 답변·문서 분류처럼 빠르게 많이 처리해야 하는 AI 작업에 쓰입니다.",
+    "termNames": [
+      "Haiku",
+      "추론"
+    ],
+    "headline": "Anthropic, 작업에 따라 생각하는 정도를 조절하는 Haiku 5.5 출시"
+  },
+  "google-android-20261007-aiseal-technology": {
+    "effect": "개인 정보를 다른 프로그램과 분리해 보관합니다. AI의 모든 계산을 이 공간에서 처리하는 것은 아닙니다.",
+    "sourceUrls": [
+      "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/"
+    ],
+    "application": "Android 기기에서 AI가 사용하는 개인 정보를 보호하는 공간을 만드는 데 쓰입니다.",
+    "termNames": [
+      "온디바이스 AI",
+      "보호 VM"
+    ],
+    "headline": "Google, Android AI의 개인 정보를 별도 보호 공간에 보관"
+  },
+  "nvidia-20261007-windows-localai-technology": {
+    "effect": "Windows에서 AI 모델을 직접 실행할 장비 선택지가 늘어납니다. 사전예약·시연 단계이며 출하 완료는 아닙니다.",
+    "sourceUrls": [
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+    ],
+    "application": "Windows PC나 작업용 컴퓨터에서 외부 서버에 보내지 않고 AI를 실행합니다.",
+    "termNames": [
+      "RTX Spark",
+      "DGX Station"
+    ],
+    "headline": "NVIDIA, Windows에서 AI를 직접 실행할 장비 예약·미리보기 공개"
+  },
+  "openai-20261007-gpt6-ui-technology": {
+    "effect": "답변 안에서 비교·계산·탐색을 조작할 수 있게 됩니다. 순차 배포이며 모든 계정의 이용 가능 여부는 미확인입니다.",
+    "sourceUrls": [
+      "https://openai.com/index/gpt-6-for-everyone/"
+    ],
+    "application": "ChatGPT 답변 안에 버튼·입력칸·차트를 넣어 사용자가 직접 조작하게 합니다.",
+    "termNames": [
+      "GPT",
+      "UI"
+    ],
+    "headline": "OpenAI, GPT-6와 답변 안에서 버튼·차트를 조작하는 기능 순차 배포"
+  },
+  "intel-amat-20261006-epic-strategy": {
+    "effect": "제조와 칩 연결·조립을 함께 개선하려는 협력입니다. 불량 감소나 대량생산 적용이 확인된 단계는 아닙니다.",
+    "sourceUrls": [
+      "https://ir.appliedmaterials.com/node/29696/pdf"
+    ],
+    "application": "다음 세대 반도체의 제조 공정과 칩 연결·조립 방법을 함께 개발하는 데 쓰입니다.",
+    "termNames": [
+      "패키징"
+    ],
+    "headline": "Intel·Applied Materials, AI 칩 제조와 연결·조립 공동개발 확대"
+  },
+  "intel-amat-20261006-foveros-technology": {
+    "effect": "칩 사이 연결과 전력·열 문제를 개선하려는 공동 개발입니다. 개선 수치와 고객의 사용 승인은 아직 공개되지 않았습니다.",
+    "sourceUrls": [
+      "https://ir.appliedmaterials.com/node/29696/pdf"
+    ],
+    "application": "여러 반도체 칩을 위아래로 쌓아 한 제품으로 만드는 데 쓰입니다.",
+    "termNames": [
+      "Foveros",
+      "패키징"
+    ],
+    "headline": "Intel·Applied Materials, 칩을 위로 쌓는 Foveros 공동개발 확대"
+  },
+  "masse-20261005-fielddata-technology": {
+    "effect": "공개 배터리 데이터를 비교·재현하기 쉬워집니다. 진단 정확도 향상을 입증한 연구는 아닙니다.",
+    "sourceUrls": [
+      "https://arxiv.org/abs/2610.05811"
+    ],
+    "application": "실제 사용 중에 모은 배터리 데이터를 다른 연구자가 찾아 비교하는 데 쓰입니다.",
+    "termNames": [],
+    "headline": "배터리 연구팀, 실제 사용 중에 모은 공개 데이터를 정리"
+  },
+  "schreiber-20261005-bcmpc-technology": {
+    "effect": "교신에 실패한 방향도 반영해 위성 탐색을 조정합니다. 모의시험과 기존 궤도 자료로 평가했으며 현장 운용은 확인하지 않았습니다.",
+    "sourceUrls": [
+      "https://arxiv.org/abs/2610.07300"
+    ],
+    "application": "발사 직후 위치가 불확실한 위성을 지상 안테나로 찾아 첫 교신을 시도할 때 씁니다.",
+    "termNames": [
+      "BC-MPC"
+    ],
+    "headline": "위성과 교신에 실패하면 다음 탐색 방향을 바꾸는 방법 연구"
+  },
+  "samsung-20261004-yongin-blueprint": {
+    "effect": "장기 반도체 생산 기반을 넓히려는 계획입니다. 약 360조원은 집행 완료액이 아닙니다.",
+    "sourceUrls": [
+      "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645609640",
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFNbjhRVzJmNXhZMmVkLUpqMVpvaW0wbkZyeVU1bDlYaFpzOWJLTUhoSG9pT3FNY2lRcGh0VHVDZGx2VmpUM0d5UzhNdnJwV2thWHZhd3VrQ1FvN05PaU83M2dKYkp1WGpPZTJzenF4djFuTVJTY0gxUUdmb0Q1bA?oc=5"
+    ],
+    "application": "용인에 새 반도체 생산 공장과 설비를 갖추려는 장기 계획입니다.",
+    "termNames": [
+      "파운드리"
+    ],
+    "headline": "삼성전자, 용인 반도체 공장 청사진 공개…약 360조원 투자 계획"
+  },
+  "airbus-20261002-oneweb32-technology": {
+    "effect": "위성 32기 제조·인도가 진행됐습니다. 발사·궤도 운영이나 전체 위성망 완성을 뜻하지는 않습니다.",
+    "sourceUrls": [
+      "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-delivers-first-batch-of-next-generation-satellites-for-eutelsats-oneweb-constellation"
+    ],
+    "application": "지구 가까이 도는 OneWeb 위성망에서 인터넷 통신을 제공할 위성입니다.",
+    "termNames": [
+      "저궤도 위성"
+    ],
+    "headline": "Airbus, 인터넷 통신용 OneWeb 위성 32기 첫 생산·인도"
+  },
+  "fanuc-hitachi-20261002-physicalai-technology": {
+    "effect": "공장에서 로봇 AI를 학습·검증하려는 계획입니다. 고객 배치·생산성 개선은 아직 미확인입니다.",
+    "sourceUrls": [
+      "https://www.fanuc.eu/uk-en/news/hitachi-and-fanuc-partner-advance-physical-ai-manufacturing"
+    ],
+    "application": "제조 현장에서 로봇이 주변을 보고 작업하게 하는 AI를 학습·시험하려는 협력입니다.",
+    "termNames": [
+      "Physical AI"
+    ],
+    "headline": "Hitachi·FANUC, 실제 공장에서 로봇 AI를 개발·시험하는 협력"
+  },
+  "amat-besi-20261001-packaging-technology": {
+    "effect": "칩 접합에서 패널·광 연결까지 개발을 넓힙니다. 새 공정의 성능·양산 준비는 미확인입니다.",
+    "sourceUrls": [
+      "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/"
+    ],
+    "application": "반도체 칩을 가깝게 붙이고 데이터를 주고받는 연결 구조를 개발하는 데 쓰입니다.",
+    "termNames": [
+      "패키징",
+      "하이브리드 본딩"
+    ],
+    "headline": "Applied Materials·Besi, 반도체 칩을 붙이고 연결하는 공동개발 확대"
+  },
+  "bmw-20261001-gen6-production-technology": {
+    "effect": "시험 제작에서 실제 차량 생산용 공급으로 넘어갔습니다. 중간 배터리 묶음을 없앤 설계의 개별 성능 효과는 따로 검증하지 않았습니다.",
+    "sourceUrls": [
+      "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen"
+    ],
+    "application": "독일 공장에서 새 BMW i3 등 전기차에 넣을 배터리를 조립해 차량 공장에 공급합니다.",
+    "termNames": [
+      "Gen6",
+      "셀투팩"
+    ],
+    "headline": "BMW, 새 전기차 배터리 양산을 시작해 차량 공장에 공급"
+  },
+  "nokia-iceye-20261001-leo-technology": {
+    "effect": "정부가 소유·통제할 위성 통신망을 개발합니다. 운영망 구축과 실제 통신 성능은 미확인입니다.",
+    "sourceUrls": [
+      "https://www.nokia.com/newsroom/iceye-and-nokia-partner-to-launch-secure-and-sovereign-satellite-communications-for-governments-and-defense-customers/"
+    ],
+    "application": "정부·국방 기관이 직접 소유하고 통제할 수 있는 위성 통신망을 개발하려는 협력입니다.",
+    "termNames": [
+      "저궤도 위성"
+    ],
+    "headline": "Nokia·ICEYE, 정부가 직접 통제할 위성 통신망 개발 협력"
+  },
+  "micron-2026q4-investment": {
+    "effect": "AI 메모리 공급을 위한 개발·제조 투자를 늘립니다. 실제 집행·가동과 계약 조건은 확인이 필요합니다.",
+    "sourceUrls": [
+      "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+    ],
+    "application": "AI 서버에 필요한 메모리를 개발하고 생산할 시설과 장비에 투자하려는 계획입니다.",
+    "termNames": [
+      "HBM"
+    ],
+    "headline": "Micron, AI 메모리 개발·생산 투자 확대 계획"
+  },
+  "micron-2026q4-kv-ssd": {
+    "effect": "AI 추론용 데이터 저장에 SSD를 쓰는 고객 출하가 진행됐습니다. 처리 성능은 환경별 확인이 필요합니다.",
+    "sourceUrls": [
+      "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx"
+    ],
+    "application": "AI가 답을 만들 때 앞서 계산한 정보를 저장해 반복 계산을 줄이는 데 씁니다.",
+    "termNames": [
+      "KV 캐시",
+      "SSD",
+      "PCIe"
+    ],
+    "headline": "Micron, AI가 앞서 계산한 정보를 저장할 SSD 고객 출하"
+  },
+  "samsung-20260923-p9-p7-launch": {
+    "effect": "휴대용 SSD 제품군을 넓혔습니다. 실제 전송 속도는 연결 장치·케이블에 따라 달라집니다.",
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-p9-and-p7-portable-ssds-first-unveiled-at-gamescom-to-launch-in-september/"
+    ],
+    "application": "PC·게임 기기에서 큰 파일을 외장 저장장치에 보관하거나 옮길 때 씁니다.",
+    "termNames": [
+      "SSD",
+      "USB4"
+    ],
+    "headline": "삼성전자, 큰 파일을 보관·이동할 P9·P7 휴대용 SSD 출시"
+  },
+  "sk-2026-infra-hbf": {
+    "effect": "큰 데이터를 담으며 빠른 메모리를 보완하려는 구조입니다. 전시 모형이며 작동 성능과 대량생산은 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://news.skhynix.com/en/ai-infra-summit-2026/"
+    ],
+    "application": "AI 서버에서 빠른 메모리와 큰 저장장치 사이를 채울 새 저장 계층을 만들려는 구상입니다.",
+    "termNames": [
+      "HBF",
+      "HBM",
+      "SSD"
+    ],
+    "headline": "SK하이닉스, AI용 고속 메모리와 저장장치 사이를 채울 HBF 모형 공개"
+  },
+  "yaskawa-20260914-hc12-technology": {
+    "effect": "12kg 물체를 다루는 협동 로봇 선택지가 늘어납니다. 현장 생산성·안전 개선은 독립 검증되지 않았습니다.",
+    "sourceUrls": [
+      "https://www.yaskawa-global.com/newsrelease/product/179972"
+    ],
+    "application": "공장에서 사람과 함께 12kg 이내의 물체를 옮기는 작업 등에 쓰는 로봇입니다.",
+    "termNames": [
+      "협동 로봇"
+    ],
+    "headline": "야스카와, 사람과 함께 12kg 물체를 다루는 협동 로봇 발표"
+  },
+  "samsung-20260909-mistral-partnership": {
+    "effect": "외부로 데이터를 보내지 않고 내부 업무에 AI를 쓰려는 협력입니다. 실제 배포와 불량 감소 효과는 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure/"
+    ],
+    "application": "반도체 설계·제조 업무를 돕는 AI를 회사 안의 서버에서 운영하려는 협력입니다.",
+    "termNames": [
+      "Mistral AI",
+      "온프레미스"
+    ],
+    "headline": "삼성전자·Mistral AI, 사내 서버의 AI로 반도체 설계·제조를 돕는 협력"
+  },
+  "asml-tsmc-20260908-mask12-technology": {
+    "effect": "더 큰 회로 원판으로 미세한 반도체 생산을 준비합니다. 생산량과 비용이 얼마나 개선되는지는 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://pr.tsmc.com/english/news/3338"
+    ],
+    "application": "더 큰 회로 원판을 써서 다음 세대의 미세한 반도체 회로를 제조하려는 계획입니다.",
+    "termNames": [
+      "포토마스크",
+      "High-NA EUV"
+    ],
+    "headline": "ASML·TSMC, 미세 회로를 새길 더 큰 회로 원판 공동개발"
+  },
+  "samsung-20260908-asml-high-na": {
+    "effect": "더 작은 메모리 회로를 만들고 제조 단계를 줄이려는 계획입니다. 2028년 도입 목표이며 실제 개선은 아직 확인되지 않았습니다.",
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing/"
+    ],
+    "application": "다음 세대 D램을 만드는 공장에서 작은 회로를 새길 장비·재료를 준비합니다.",
+    "termNames": [
+      "High-NA EUV",
+      "DRAM",
+      "포토마스크"
+    ],
+    "headline": "삼성전자·ASML, 더 작은 D램 회로를 만들 장비 협력…2028년 도입 목표"
+  },
+  "lam-2026-oregon-lab": {
+    "effect": "새 공정·소재를 시험할 연구 공간을 늘립니다. 착공 단계이며 2028년 개방을 계획합니다.",
+    "sourceUrls": [
+      "https://newsroom.lamresearch.com/lam-oregon-lab-expansion-accelerates-ai-chip-innovation"
+    ],
+    "application": "반도체를 만드는 새 공정과 재료를 시험하는 연구 시설입니다.",
+    "termNames": [
+      "클린룸"
+    ],
+    "headline": "Lam Research, 새 반도체 공정·재료를 시험할 연구 시설 확대"
+  },
+  "nvidia-fy27q2-platform": {
+    "effect": "GPU·CPU·네트워크를 묶은 AI 시스템 공급이 진전됐습니다. 전체 고객 납품 완료는 아닙니다.",
+    "sourceUrls": [
+      "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+    ],
+    "application": "AI 데이터센터에서 계산 칩·서버·통신 장비를 묶어 AI 학습과 실행에 씁니다.",
+    "termNames": [
+      "GPU",
+      "CPU"
+    ],
+    "headline": "NVIDIA, 계산 칩과 통신 장비를 묶은 AI 시스템 공급 확대"
+  },
+  "nvidia-fy27q2-vera-rubin": {
+    "effect": "플랫폼 생산과 파트너의 랙 운영이 진행됐습니다. 모든 고객이 바로 이용할 수 있다는 뜻은 아닙니다.",
+    "sourceUrls": [
+      "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/"
+    ],
+    "application": "AI 학습·실행에 필요한 계산 칩과 통신 장비를 서버 묶음으로 공급합니다.",
+    "termNames": [
+      "Vera Rubin",
+      "랙"
+    ],
+    "headline": "NVIDIA, Vera Rubin 생산과 협력사의 서버 묶음 운영 진행"
+  },
+  "micron-20260820-researchlabs-strategy": {
+    "effect": "차세대 메모리를 개발할 장기 연구 기반을 준비합니다. 10년 투자 계획이며 집행·성과는 미확인입니다.",
+    "sourceUrls": [
+      "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx"
+    ],
+    "application": "다음 세대의 메모리와 AI용 저장 기술을 개발하는 장기 연구 시설입니다.",
+    "termNames": [],
+    "headline": "Micron, 다음 세대 메모리를 위한 장기 연구 시설 투자 계획"
+  },
+  "catl-20260814-supernode-strategy": {
+    "effect": "ESS 2단계는 실제 운전, 3단계는 자금 확보 단계입니다. 전체 용량의 운전 완료는 아닙니다.",
+    "sourceUrls": [
+      "https://www.catl.com/en/news/6951.html"
+    ],
+    "application": "전력망에 배터리를 연결해 전기를 저장했다가 필요한 시간에 공급합니다.",
+    "termNames": [
+      "ESS"
+    ],
+    "headline": "CATL, 전력망용 배터리 시설 2단계 운영·3단계 자금 확보"
+  },
+  "skhynix-20260807-y2-m17-strategy": {
+    "effect": "메모리 생산 공간을 늘릴 투자 승인입니다. 공장 건설·클린룸 준비와 제품 양산은 다른 단계입니다.",
+    "sourceUrls": [
+      "https://news.skhynix.com/en/fab-facility-investment-2026/"
+    ],
+    "application": "메모리를 생산할 새 공장 공간과 먼지를 관리하는 제조 공간을 마련합니다.",
+    "termNames": [
+      "클린룸"
+    ],
+    "headline": "SK하이닉스, 메모리 생산 공장·제조 공간 확대 투자 승인"
+  },
+  "samsung-20260805-fms-memory-architecture": {
+    "effect": "데이터가 이동하는 거리를 줄이거나 메모리를 더 촘촘히 쌓으려는 구상입니다. 전시한 구조가 실제 대량생산 제품은 아닙니다.",
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure/"
+    ],
+    "application": "AI 계산용 고속 메모리와 기기 안의 저장장치에 칩을 입체적으로 쌓는 구조를 제안합니다.",
+    "termNames": [
+      "zHBM",
+      "zNAND-O",
+      "BV-NAND"
+    ],
+    "headline": "삼성전자, AI 메모리의 데이터 이동을 줄이고 칩을 쌓는 새 구조 제안"
+  },
+  "amd-2026q2-rack-ecosystem": {
+    "effect": "GPU·서버 랙·소프트웨어를 함께 공급하는 범위를 넓힙니다. 협력 용량은 실제 배치 완료량이 아닙니다.",
+    "sourceUrls": [
+      "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results"
+    ],
+    "application": "AI 데이터센터에 계산 칩과 서버 묶음, 실행 소프트웨어를 함께 제공하려는 계획입니다.",
+    "termNames": [
+      "GPU",
+      "랙",
+      "ROCm"
+    ],
+    "headline": "AMD, AI 계산 칩·서버·실행 소프트웨어를 함께 공급하는 계획 확대"
+  },
+  "samsung-2026q2-2nm-plan": {
+    "effect": "작은 면적에서 전력·성능을 개선할 공정의 생산을 늘리려는 계획입니다. 불량률과 다른 공정 대비 성능은 공개되지 않았습니다.",
+    "sourceUrls": [
+      "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results"
+    ],
+    "application": "휴대전화 등에 들어갈 반도체를 더 미세한 제조 공정으로 생산하려는 계획입니다.",
+    "termNames": [
+      "2nm 공정",
+      "GAA"
+    ],
+    "headline": "삼성전자, 2나노 공정의 모바일 칩 생산 확대 계획"
+  },
+  "sk-2026q2-hbm4-shipments": {
+    "effect": "시험용 샘플을 넘어 실제 대량생산 출하가 시작됐습니다. 고객별 물량과 불량률은 공개되지 않았습니다.",
+    "sourceUrls": [
+      "https://news.skhynix.com/en/q2-2026-business-results/"
+    ],
+    "application": "AI 계산 칩 가까이에 붙여 많은 데이터를 빠르게 공급하는 메모리입니다.",
+    "termNames": [
+      "HBM",
+      "양산"
+    ],
+    "headline": "SK하이닉스, AI용 HBM4 메모리 대량생산 출하 시작"
+  },
+  "sk-2026q2-selective-capacity": {
+    "effect": "고객 장기 계약에 맞춰 HBM 공급·설비를 준비합니다. 실제 가동 일정과 공급량은 확인이 필요합니다.",
+    "sourceUrls": [
+      "https://news.skhynix.com/en/q2-2026-business-results/"
+    ],
+    "application": "AI용 고속 메모리를 장기 고객 계약에 맞춰 공급할 생산 설비를 준비합니다.",
+    "termNames": [
+      "HBM"
+    ],
+    "headline": "SK하이닉스, 장기 고객 계약에 맞춰 AI용 메모리 설비 확대 계획"
+  },
+  "intel-2026q2-capacity": {
+    "effect": "CPU·패키징·파운드리의 생산 기반을 준비합니다. 투자 집행·외부 고객 채택은 아직 확인이 필요합니다.",
+    "sourceUrls": [
+      "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results"
+    ],
+    "application": "서버 계산 칩과 고객이 설계한 반도체를 만들고 조립할 생산 기반을 준비합니다.",
+    "termNames": [
+      "CPU",
+      "패키징",
+      "파운드리",
+      "ASIC"
+    ],
+    "headline": "Intel, 서버 칩·고객 반도체의 제조와 조립 생산 기반 준비"
+  },
+  "tsmc-2026q2-capacity": {
+    "effect": "투자 예산을 첨단 공정에 집중합니다. 예산 상향은 공장 가동이나 생산량 증가 완료가 아닙니다.",
+    "sourceUrls": [
+      "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-08/3e494f0c14dd0890f897aa044415e21d93486cc4/TSMC%202Q26%20Transcript.pdf"
+    ],
+    "application": "고객이 설계한 첨단 반도체를 생산할 제조 공정과 시설에 투자하려는 계획입니다.",
+    "termNames": [
+      "파운드리"
+    ],
+    "headline": "TSMC, 첨단 반도체를 만들 시설·공정에 투자 예산 확대"
+  },
+  "asml-2026q2-capacity": {
+    "effect": "EUV·DUV 장비 공급 능력을 늘릴 계획입니다. 생산능력 목표와 실제 납품량은 다릅니다.",
+    "sourceUrls": [
+      "https://investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+    ],
+    "application": "반도체 공장에서 빛으로 회로를 새기는 장비의 공급 능력을 늘리려는 계획입니다.",
+    "termNames": [
+      "EUV",
+      "DUV"
+    ],
+    "headline": "ASML, 빛으로 반도체 회로를 새기는 장비 공급 능력 확대 계획"
+  },
+  "samsung-20260708-pm1763-production": {
+    "effect": "AI 서버용 SSD가 양산 단계에 들어갔습니다. 실제 고객 성능·판매량은 별도 확인이 필요합니다.",
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure/"
+    ],
+    "application": "AI 서버에서 대용량 데이터를 저장하고 빠르게 읽고 쓰는 데 씁니다.",
+    "termNames": [
+      "SSD",
+      "PCIe"
+    ],
+    "headline": "삼성전자, AI 서버용 PM1763 저장장치 대량생산 시작"
+  },
+  "burgess-20261010-cranial-robot-review": {
+    "application": "여러 목표 지점으로 기구를 안내하는 뇌수술에서 로봇이 도움 될 작업을 살펴봅니다.",
+    "effect": "기존 연구 51편을 모아 정확도·수술 시간·합병증을 비교했습니다. 모든 뇌수술이 좋아지거나 새 환자 시험에 성공했다는 뜻은 아닙니다.",
+    "termNames": [
+      "리뷰 논문"
+    ],
+    "sourceUrls": [
+      "https://link.springer.com/article/10.1007/s10143-026-04529-x"
+    ]
+  },
+  "ramadurai-20261009-techbio-review": {
+    "application": "AI가 약 후보를 만들고 실험 결과를 반영해 다음 후보를 찾는 신약 연구에 쓰려는 방향입니다.",
+    "effect": "후보 설계와 실험을 이어 붙이는 방법을 정리한 리뷰입니다. 사람에게 약효·안전성이 입증되거나 새 약이 승인된 결과는 아닙니다.",
+    "termNames": [
+      "리뷰 논문"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s44386-026-00078-x"
+    ]
+  },
+  "schielicke-20261009-cpu-hbm": {
+    "application": "고속 메모리가 붙은 서버에서 CPU가 메모리 데이터를 읽는 작업에 씁니다.",
+    "effect": "메모리를 읽는 방법을 바꿔 실물 시스템의 처리량을 개선했습니다. 효과의 크기는 장비와 읽기 조건에 따라 달랐습니다.",
+    "termNames": [
+      "CPU",
+      "HBM"
+    ],
+    "sourceUrls": [
+      "https://link.springer.com/article/10.1007/s13222-026-00563-7"
+    ]
+  },
+  "anthropic-20261007-haiku55": {
+    "application": "짧은 답변·문서 분류처럼 빠르게 많이 처리해야 하는 AI 작업에 쓰입니다.",
+    "effect": "쉬운 작업은 빨리, 어려운 작업은 더 생각하게 설정할 수 있습니다. 속도·비용은 작업에 따라 달라집니다.",
+    "termNames": [
+      "Haiku",
+      "추론"
+    ],
+    "sourceUrls": [
+      "https://www.anthropic.com/claude-haiku-5-5"
+    ],
+    "headline": "Anthropic, 작업에 따라 생각하는 정도를 조절하는 Haiku 5.5 출시"
+  },
+  "openai-20261007-intelligentui": {
+    "application": "ChatGPT 답변 안에 버튼·입력칸·차트를 넣어 사용자가 직접 조작하게 합니다.",
+    "effect": "답변 안에서 비교·계산·탐색을 조작할 수 있게 됩니다. 순차 배포이며 모든 계정의 이용 가능 여부는 미확인입니다.",
+    "termNames": [
+      "GPT",
+      "UI"
+    ],
+    "sourceUrls": [
+      "https://openai.com/index/gpt-6-for-everyone/"
+    ],
+    "headline": "OpenAI, GPT-6와 답변 안에서 버튼·차트를 조작하는 기능 순차 배포"
+  },
+  "strand-20261006-agentic-autorag": {
+    "application": "문서를 검색해 답하는 AI에서 틀린 이유를 찾아 검색·답변 구성을 조정합니다.",
+    "effect": "의료 문서 시험의 정확도 중앙값은 77%로 비교 방법의 71.5%보다 높았습니다. AI가 채점한 문서 시험이며 임상 성과는 아닙니다.",
+    "termNames": [
+      "RAG",
+      "AI 에이전트"
+    ],
+    "sourceUrls": [
+      "https://arxiv.org/abs/2610.08452"
+    ]
+  },
+  "bmw-production-20261001": {
+    "application": "BMW 전기차 배터리를 조립하며 작은 배터리를 냉각 장치에 연결합니다.",
+    "effect": "냉각 구조를 포함한 배터리 양산이 시작됐습니다. 냉각 기술만의 성능 향상을 따로 비교한 결과는 아닙니다.",
+    "termNames": [
+      "Gen6",
+      "셀투팩"
+    ],
+    "sourceUrls": [
+      "https://www.press.bmwgroup.com/global/article/detail/T0461032EN/series-production-gets-underway:-bmw-group-officially-opens-plant-irlbach-strasskirchen"
+    ],
+    "headline": "BMW, 배터리와 냉각 장치를 연결하는 새 배터리 양산 개시"
+  },
+  "vanwaveren-20261001-persco": {
+    "application": "사람에게 다가가는 이동 로봇의 속도와 거리를 사용자 반응에 맞춰 조정합니다.",
+    "effect": "사람의 피드백을 이동 제어에 반영하는 방법을 시험했습니다. 모든 사용자·환경에서 효과가 같은지는 아직 확인하지 않았습니다.",
+    "termNames": [],
+    "sourceUrls": [
+      "https://link.springer.com/article/10.1007/s10514-026-10262-7"
+    ]
+  },
+  "nel-submarine-20260930": {
+    "application": "잠수함 안에서 물을 분해해 사람이 숨 쉴 산소를 만드는 데 쓰는 장치입니다.",
+    "effect": "약 700만 달러의 추가 주문을 받았습니다. 2027~2028년 납품 예정이며 전력 소비나 수명 개선을 입증한 소식은 아닙니다.",
+    "termNames": [
+      "PEM",
+      "스택"
+    ],
+    "sourceUrls": [
+      "https://nelhydrogen.com/press-release/nel-asa-secures-additional-orders-for-submarine-pem-electrolyser-stacks/"
+    ],
+    "headline": "Nel, 잠수함에서 숨 쉴 산소를 만드는 장치 약 700만 달러 추가 수주"
+  },
+  "baek-20260922-hbm-hbf": {
+    "application": "AI 작업의 기억을 빠른 메모리와 큰 저장용 메모리에 나눠 담는 설계입니다.",
+    "effect": "자주 쓰는 기억만 빠른 메모리에 남겨 한 계산 칩이 더 많은 작업을 이어가게 하려는 연구입니다. 실제 제품 적용은 별도 확인이 필요합니다.",
+    "termNames": [
+      "HBM",
+      "HBF",
+      "GPU"
+    ],
+    "sourceUrls": [
+      "https://arxiv.org/abs/2609.25782"
+    ]
+  },
+  "atlas-rmac-20260921": {
+    "application": "현대차 미국 공장에서 자동차 부품을 준비하고 순서대로 놓는 작업을 로봇에게 훈련합니다.",
+    "effect": "실제 공장 환경에서 훈련·시험할 센터의 1단계 운영이 시작됐습니다. 모든 작업의 자동화가 완료된 것은 아닙니다.",
+    "termNames": [
+      "Atlas"
+    ],
+    "sourceUrls": [
+      "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/"
+    ]
+  },
+  "ryu-20260914-3d-dram": {
+    "application": "고온 제조 과정을 견디는 재료로 작업용 메모리를 위로 쌓는 구조를 개발하려는 연구입니다.",
+    "effect": "작은 면적에 메모리를 더 담을 재료 후보를 연구했습니다. 완성된 메모리 제품의 대량생산을 입증한 결과는 아닙니다.",
+    "termNames": [
+      "DRAM",
+      "트랜지스터"
+    ],
+    "sourceUrls": [
+      "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.70575"
+    ]
+  },
+  "enapter-drone-20260903": {
+    "application": "드론 운용 현장에서 태양광 전기로 물을 분해해 드론에 넣을 수소를 만듭니다.",
+    "effect": "수소를 멀리서 운송하는 대신 현장에서 만들려는 시험 주문입니다. 약 50만 유로 규모이며 실제 운전 성능은 아직 확인되지 않았습니다.",
+    "termNames": [
+      "AEM",
+      "수전해"
+    ],
+    "sourceUrls": [
+      "https://enapterag.de/wp-content/uploads/2026/09/Enapter-receives-pilot-order-from-a-US-drone-manufacturer.pdf"
+    ],
+    "headline": "Enapter, 드론용 수소를 현장에서 만들 장치 약 50만 유로 시험 주문"
+  },
+  "ast-constellation-20260810": {
+    "application": "지상 이동통신이 닿기 어려운 곳에서 일반 스마트폰을 위성과 직접 연결하려는 망입니다.",
+    "effect": "회사 발표상 궤도 내 위성은 13기로 늘었습니다. 시험 서비스 준비 단계이며 정식 상용 서비스 완료는 아닙니다.",
+    "termNames": [
+      "Direct-to-Cell"
+    ],
+    "sourceUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1780312/000119312526342540/asts-ex99_1.htm"
+    ]
+  },
+  "gemini-robotics2-20260730": {
+    "application": "로봇이 카메라 영상과 말로 된 지시를 받아 팔·다리 등 몸 전체를 움직이는 데 씁니다.",
+    "effect": "전신 동작과 기기 안의 AI 실행을 위한 모델을 소개했습니다. 여러 현장에서의 안전성과 작업 성능은 별도 확인이 필요합니다.",
+    "termNames": [
+      "Gemini",
+      "VLA",
+      "온디바이스 AI"
+    ],
+    "sourceUrls": [
+      "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    ]
+  },
+  "jiang-20260704-wsa1": {
+    "application": "로봇이 행동한 뒤 주변 공간이 바뀌는 모습을 배우고 낯선 작업을 계획하게 합니다.",
+    "effect": "주변 공간의 변화를 함께 배우는 로봇 제어를 연구했습니다. 실제 현장의 다양한 작업까지 안정적으로 수행하는지는 남은 과제입니다.",
+    "termNames": [
+      "3차원 세계 모델"
+    ],
+    "sourceUrls": [
+      "https://arxiv.org/abs/2607.03941"
+    ]
+  },
+  "samsung-hbm4e-20260529": {
+    "application": "AI 계산 칩에 많은 데이터를 빠르게 공급할 다음 세대 메모리의 시험용 제품입니다.",
+    "effect": "고객이 시험할 샘플을 보냈습니다. 큰 용량·빠른 데이터 전송은 회사 발표이며 대량생산 완료는 아닙니다.",
+    "termNames": [
+      "HBM"
+    ],
+    "sourceUrls": [
+      "https://semiconductor.samsung.com/news-events/news/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples/"
+    ]
+  },
+  "basf-pem-20260521": {
+    "application": "독일 화학단지에서 물을 분해해 공정에 필요한 수소를 현장에서 공급합니다.",
+    "effect": "54MW 설비를 기존 화학단지에 연결해 운전한 사례입니다. 효율과 수명을 다른 설비와 독립 비교한 자료는 아닙니다.",
+    "termNames": [
+      "PEM",
+      "수전해",
+      "스택"
+    ],
+    "sourceUrls": [
+      "https://www.siemens-energy.com/global/en/home/stories/chemical-industry-electrolyzer.html"
+    ]
+  },
+  "topsoe-soec-20260518": {
+    "application": "고온의 수증기로 수소를 만드는 장치의 공장 생산과 실제 사용을 준비합니다.",
+    "effect": "수요에 맞춰 생산 확대를 늦추고 미국 제2공장 계획을 중단했습니다. 생산 계획 변경만으로 기술이 실패했다고 볼 수는 없습니다.",
+    "termNames": [
+      "SOEC"
+    ],
+    "sourceUrls": [
+      "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated"
+    ]
+  },
+  "basf-tsr-recycling-20260415": {
+    "application": "폐전기차 배터리를 해체·방전하고 다시 금속을 꺼낼 가루로 처리합니다.",
+    "effect": "회수부터 처리·운송까지 재활용 체계를 연결하는 협력입니다. 금속 회수량·순도·비용의 개선 수치는 공개되지 않았습니다.",
+    "termNames": [
+      "블랙매스"
+    ],
+    "sourceUrls": [
+      "https://www.basf.com/global/en/media/news-releases/2026/04/p-26-056"
+    ]
+  },
+  "shen-pem-20260227": {
+    "application": "물을 분해해 수소를 만드는 장치에서 반응을 돕는 재료의 부식을 줄이려는 연구입니다.",
+    "effect": "이리듐 사용을 줄인 재료로 논문 조건에서 약 1,400시간 운전했습니다. 큰 상용 장치의 수명까지 입증한 결과는 아닙니다.",
+    "termNames": [
+      "CeO₂–IrO₂",
+      "촉매",
+      "PEM"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41565-026-02136-x"
+    ],
+    "headline": "수소를 만들 때 귀한 금속 사용을 줄이고 부식을 억제하는 재료 연구"
+  },
+  "samsung-hbm4-20260212": {
+    "application": "AI 서버의 계산 칩에 데이터를 빠르게 공급하는 고속 메모리입니다.",
+    "effect": "시험용 샘플을 넘어 대량생산과 고객 출하를 발표했습니다. 발표한 속도가 모든 고객 시스템에서 같은 성능을 뜻하지는 않습니다.",
+    "termNames": [
+      "HBM",
+      "양산"
+    ],
+    "sourceUrls": [
+      "https://news.samsungsemiconductor.com/global/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/"
+    ]
+  },
+  "gphilos-wo2026010322": {
+    "application": "전기가 적게 들어올 때 물 분해 장치 여러 개의 가동 순서와 수를 조절합니다.",
+    "effect": "작은 전력에서도 운전을 개선하려는 제어 설계의 특허 출원 공개입니다. 특허 등록·제품 적용·실측 개선은 확인하지 않았습니다.",
+    "termNames": [
+      "수전해",
+      "스택"
+    ],
+    "sourceUrls": [
+      "https://patents.google.com/patent/WO2026010322A1/en"
+    ],
+    "headline": "전기가 적게 들어와도 물 분해 장치를 골라 가동하는 제어 특허 공개"
+  },
+  "nvidia-rubin-20260105": {
+    "application": "AI 서버의 계산 칩·통신 장비·저장장치를 함께 묶어 학습과 실행에 씁니다.",
+    "effect": "부품을 함께 설계해 AI 실행 비용과 데이터 이동을 개선하려는 플랫폼 발표입니다. 실제 고객 성능은 별도 확인이 필요합니다.",
+    "termNames": [
+      "Vera Rubin",
+      "CPU",
+      "GPU"
+    ],
+    "sourceUrls": [
+      "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+    ]
+  },
+  "atlas-product-20260105": {
+    "application": "사람형 로봇이 제조 현장의 물체 이동 등 산업 작업을 수행하도록 개발합니다.",
+    "effect": "연구용 소개에서 산업용 제품과 고객 적용 준비로 넘어갔습니다. 많은 공장에서 운영해 생산성을 입증한 소식은 아닙니다.",
+    "termNames": [
+      "Atlas"
+    ],
+    "sourceUrls": [
+      "https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/"
+    ]
+  },
+  "toyota-sumitomo-20251008": {
+    "application": "전기차용 고체 배터리에 넣을 재료를 많이 생산할 수 있도록 함께 개발합니다.",
+    "effect": "배터리 재료의 공동개발 계약입니다. 재료의 대량생산이나 실제 차량 탑재가 완료된 소식은 아닙니다.",
+    "termNames": [
+      "전고체 배터리",
+      "양극재",
+      "양산"
+    ],
+    "sourceUrls": [
+      "https://global.toyota/en/newsroom/corporate/43380876.html"
+    ]
+  },
+  "basf-coolant-20250910": {
+    "application": "전기차 배터리의 열을 빼내면서 전기가 쉽게 통하지 않게 하는 냉각액입니다.",
+    "effect": "저전도 냉각수 제품을 출시했습니다. 다른 제품보다 안전하거나 냉각 성능이 좋다는 독립 비교는 제시되지 않았습니다.",
+    "termNames": [
+      "저전도 냉각수"
+    ],
+    "sourceUrls": [
+      "https://www.basf.com/global/en/media/news-releases/2025/09/p-25-179"
+    ]
+  },
+  "bmw-thermal-20250221": {
+    "application": "전기차의 급속 충전과 주행 중에 배터리를 식히거나 데워 적정 온도를 유지합니다.",
+    "effect": "온도 조절이 충전·전력 사용·주행거리와 어떻게 연결되는지 설명했습니다. 온도 제어만의 개선 효과를 따로 검증한 결과는 아닙니다.",
+    "termNames": [
+      "열관리"
+    ],
+    "sourceUrls": [
+      "https://www.press.bmwgroup.com/global/article/detail/T0448099EN/charge-faster-drive-further:-bmw-group-reveals-revolutionary-electric-drive-concept-with-800v-technology-for-the-neue-klasse?language=en"
+    ]
+  },
+  "oxfordpv-shipment-20240905": {
+    "application": "태양광 패널에 서로 다른 빛을 흡수하는 두 재료를 겹쳐 전기를 만듭니다.",
+    "effect": "실험실 연구를 넘어 미국 고객에게 제품을 처음 보낸 사례입니다. 장기 실외 수명과 대규모 생산까지 확인한 발표는 아닙니다.",
+    "termNames": [
+      "페로브스카이트·탠덤"
+    ],
+    "sourceUrls": [
+      "https://www.oxfordpv.com/press-releases/oxford-pv-solar-technology-patent"
+    ],
+    "headline": "Oxford PV, 두 재료를 겹쳐 빛을 더 활용하는 태양광 패널 첫 고객 출하"
+  }
+}
